@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/937051733773938689?hideDiscrim=true&idleMessage=Busy%20Doing%20Stuff&hideBadges=true)](.)
 <!--
 **2M4U/2m4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
