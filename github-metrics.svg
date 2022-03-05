@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            302 Commits
+                            303 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,10 +219,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="428.2902022827438" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="428.2902022827438" y="0" width="12.420289621103272" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="440.71049190384707" y="0" width="10.753111731753386" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="451.46360363560046" y="0" width="8.536396364399529" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="428.2625470159976" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="428.2625470159976" y="0" width="12.419487626519443" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="440.682034642517" y="0" width="10.752417389058389" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="451.43445203157535" y="0" width="8.565547968424621" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -253,7 +253,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Mar 2022, 09:10:13 (timezone Europe/Bratislava) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 5 Mar 2022, 10:08:14 (timezone Europe/Bratislava) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
