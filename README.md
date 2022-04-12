@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/937051733773938689?hideDiscrim=true&idleMessage=Busy%20Doing%20Stuff&hideBadges=true)](.)<br>
+[![Discord Presence](https://lanyard.cnrad.dev/api/937051733773938689?hideDiscrim=true&idleMessage=Fortnite%20Goating&hideBadges=true)](.)<br>
 
 ![Metrics](/github-metrics.svg)
 
