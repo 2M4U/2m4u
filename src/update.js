@@ -1,9 +1,9 @@
-const path = require("path");
+const { join } = require("path");
 const fetch = require("node-fetch");
 const { writeFileSync } = require("fs");
 
 const WriteReadMe = async () => {
-  const ReadMe = path.join(__dirname, "..", "README.md");
+  const ReadMe = join(__dirname, "..", "README.md");
   const date = new Date();
 
   let data = await fetch(
@@ -14,16 +14,17 @@ const WriteReadMe = async () => {
       },
     }
   ).then((res) => res.json());
-  const text = `
-  *In Development*
-  🏆 Current Level: ${data.data.battlePass.level}
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/${data.data.battlePass.progress})
-  🎯 Total Kills: ${data.data.stats.all.overall.kills.toLocaleString()}
-  💀 Total Deaths: ${data.data.stats.all.overall.deaths.toLocaleString()}
-  👑 Total Wins: ${data.data.stats.all.overall.wins.toLocaleString()}
+  
+const text = `
+  *In Development*<br>
+  🏆 Current Level: ${data.data.battlePass.level}<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/${data.data.battlePass.progress})<br>
+  🎯 Total Kills: ${data.data.stats.all.overall.kills.toLocaleString()}<br>
+  💀 Total Deaths: ${data.data.stats.all.overall.deaths.toLocaleString()}<br>
+  👑 Total Wins: ${data.data.stats.all.overall.wins.toLocaleString()}<br>
 \`\`\`js
 const Fortnite_Stats = {
-    Season: {
+    Season: {    
       Current_Level: "${data.data.battlePass.level}",
       Progress_To_Next_Level: "${data.data.battlePass.progress}%",
       Kills: "${data.data.stats.all.overall.kills.toLocaleString()}",
@@ -57,7 +58,7 @@ const Fortnite_Stats = {
       "Nov",
       "Dec",
     ][date.getMonth()]
-  } ${date.getFullYear()} using magic</i>✨`;
+  } ${date.getFullYear()} @ ${date.getHours()}:${date.getMinutes()};${date.getSeconds()} using magic</i>✨`;
   writeFileSync(ReadMe, text);
 };
 
