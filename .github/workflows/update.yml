@@ -8,21 +8,24 @@ on:
     - cron: '*/5 * * * *' 
 jobs:
   update:
-    runs-on: ubuntu-latest
+        runs-on: ubuntu-latest
 
-    steps:
-      - name: Getting FN Stats
-        run:  npm i
-              node src/github.js
-        env:
-          API_SECRET: ${{ secrets.FN_API_KEY }}
-      - name: 🚀 Deploy
-        run: |
-            git config user.name "${GITHUB_ACTOR}"
-            git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-            git add .
-            git commit -am "[Automatic] Updated ReadMe.md"
-            git push --all -f https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
-
-
-      
+        steps:
+          - name: 🎏 Fetch repo
+            uses: actions/checkout@master
+            with:
+              fetch-depth: 1
+          - name: Getting FN Stats
+            run:  |
+                  cd ${GITHUB_WORKSPACE}/
+                  npm i
+                  node src/update.js
+            env:
+                  API_SECRET: ${{ secrets.FN_API_KEY }}
+          - name: 🚀 Deploy
+            run: |
+                git config user.name "${GITHUB_ACTOR}"
+                git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+                git add .
+                git commit -am "[Automatic] Magical Fairies Are Around!"
+                git push --all -f https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
