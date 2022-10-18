@@ -10,6 +10,7 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+    
     steps:
       - name: Getting FN Stats
         run:  npm i
