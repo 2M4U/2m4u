@@ -10,7 +10,7 @@ const WriteReadMe = async () => {
     "https://fortnite-api.com/v2/stats/br/v2?name=ImWay2Much4U",
     {
       headers: {
-        Authorization: process.env.FN_API_KEY, 
+        Authorization: process.env.API_SECRET// temp API Key - yes i am aware of it. 
       },
     }
   ).then((res) => res.json());
