@@ -42,7 +42,7 @@ jobs:
 
       steps:
         - name: Getting FN Stats
-          run:  npm i node-fetch | node github.js
+          run:  npm i node-fetch | node .
           env:
                 API_SECRET: ${{ secrets.FN_API_KEY }}
         - name: 🚀 Deploy
