@@ -2,7 +2,7 @@
   "name": "githubfnstats",
   "version": "1.0.0",
   "description": "",
-  "main": "src/github.js",
+  "main": "index.js",
   "author": "",
   "license": "ISC",
   "dependencies": {
