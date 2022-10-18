@@ -20,7 +20,7 @@ const WriteReadMe = async () => {
 const Fortnite_Stats = {
     Season: {
       Level: "${data.data.battlePass.level}",
-      Progress_To_Next_Level: "${data.data.battlePass.progress}%",
+      Progress_To_Next_Level: "![](https://geps.dev/progress/${data.data.battlePass.progress})",
       Kills: "${data.data.stats.all.overall.kills.toLocaleString()}",
       Deaths: "${data.data.stats.all.overall.deaths.toLocaleString()}"
     },
