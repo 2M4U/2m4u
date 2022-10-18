@@ -1,0 +1,11 @@
+{
+  "name": "githubfnstats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/github.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.5"
+  }
+}
