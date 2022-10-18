@@ -4,7 +4,7 @@
 const Fortnite_Stats = {
     Season: {
       Level: "71",
-      Progress_To_Next_Level: "![](https://geps.dev/progress/67)",
+      Progress_To_Next_Level: "67",
       Kills: "4,982",
       Deaths: "2,050"
     },
