@@ -1,5 +1,15 @@
-![](https://img.shields.io/badge/Cyber%20Security-Enthusiast%20%2F%20Developer-blue)<br>
-[![Discord Presence](https://lanyard.cnrad.dev/api/937051733773938689?hideDiscrim=true&idleMessage=Fortnite%20Goating&hideBadges=true)](.)<br>
 
-![Metrics](/github-metrics.svg)
+```js
+const Fortnite_Stats = {
+    Season: {
+      Level: "70",
+      Progress_To_Next_Level: "37%",
+      Kills: "4,964",
+      Deaths: "2,044"
+    },
+    Total_Wins: "130",
+}; 
+```
 
+<!-- Last updated on Tue Oct 18 2022 18:36:07 GMT+0100 (British Summer Time) ;-;-->
+<i>Last updated on 18th Oct 2022 using magic</i>✨
