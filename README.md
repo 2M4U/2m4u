@@ -12,5 +12,5 @@ const Fortnite_Stats = {
 }; 
 ```
 
-<!-- Last updated on Tue Oct 18 2022 22:48:17 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Tue Oct 18 2022 22:55:13 GMT+0000 (Coordinated Universal Time) ;-;-->
 <i>Last updated on 18th Oct 2022 using magic</i>✨
