@@ -4,7 +4,7 @@
 const Fortnite_Stats = {
     Season: {
       Level: "71",
-      Progress_To_Next_Level: "67%",
+      Progress_To_Next_Level: "![](https://geps.dev/progress/67)",
       Kills: "4,982",
       Deaths: "2,050"
     },
@@ -12,5 +12,5 @@ const Fortnite_Stats = {
 }; 
 ```
 
-<!-- Last updated on Tue Oct 18 2022 22:55:13 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Tue Oct 18 2022 23:07:36 GMT+0000 (Coordinated Universal Time) ;-;-->
 <i>Last updated on 18th Oct 2022 using magic</i>✨
