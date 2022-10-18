@@ -16,11 +16,16 @@ const WriteReadMe = async () => {
   ).then((res) => res.json());
   const text = `
   *In Development*
+  🏆 Current Level: ${data.data.stats.battlePass.level}
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/${data.data.battlePass.progress})
+  🎯 Total Kills: ${data.data.stats.all.overall.kills.toLocaleString()}
+  💀 Total Deaths: ${data.data.stats.all.overall.deaths.toLocaleString()}
+  👑 Total Wins: ${data.data.stats.all.overall.wins.toLocaleString()}
 \`\`\`js
 const Fortnite_Stats = {
     Season: {
-      Level: "${data.data.battlePass.level}",
-      Progress_To_Next_Level: "![](https://geps.dev/progress/${data.data.battlePass.progress})",
+      Current_Level: "${data.data.stats.battlePass.level}",
+      Progress_To_Next_Level: "${data.data.battlePass.progress}%",
       Kills: "${data.data.stats.all.overall.kills.toLocaleString()}",
       Deaths: "${data.data.stats.all.overall.deaths.toLocaleString()}"
     },
