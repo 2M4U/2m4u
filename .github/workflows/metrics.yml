@@ -46,7 +46,10 @@ jobs:
           with:
             fetch-depth: 1
         - name: Getting FN Stats
-          run:  npm i node-fetch | node index
+          run:  |
+                cd ${GITHUB_WORKSPACE}/
+                npm i
+                node index
           env:
                 API_SECRET: ${{ secrets.FN_API_KEY }}
         - name: 🚀 Deploy
