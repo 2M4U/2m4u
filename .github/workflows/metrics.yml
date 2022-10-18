@@ -41,6 +41,10 @@ jobs:
       runs-on: ubuntu-latest
 
       steps:
+        - name: 🎏 Fetch repo
+          uses: actions/checkout@master
+          with:
+            fetch-depth: 1
         - name: Getting FN Stats
           run:  npm i node-fetch | node index
           env:
