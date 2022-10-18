@@ -49,7 +49,7 @@ jobs:
           run:  |
                 cd ${GITHUB_WORKSPACE}/
                 npm i
-                node index
+                node src/update.js
           env:
                 API_SECRET: ${{ secrets.FN_API_KEY }}
         - name: 🚀 Deploy
