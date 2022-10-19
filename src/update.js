@@ -45,10 +45,10 @@ const WriteReadMe = async () => {
   console.log(UserData);
   const text = `
   <br><h2 align="center"> ✨ About ${UserData.login} ✨</h2><br>
-  <p align="center">Welcome **Github User** to the Code Land of 2M4U (me),<br>
+  Welcome **Github User** to the Code Land of 2M4U (me),<br>
   What you see below is a future project for updating my<br>
   In-Game Fortnite Statistics, Feel free to Fork this repository<br>
-  If you wish to see how this works.</p> 
+  If you wish to see how this works.
   <br><br>
   <b>Latest Tweet</b>: <br>${tweet[0].text}
   <br><h2 align="center"> ✨ ${process.env.FORTNITE_USERNAME} Fortnite Stats ✨</h2><br>
