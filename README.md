@@ -1,9 +1,9 @@
 
   <br><h2 align="center"> ✨ About 2M4U ✨</h2><br>
-  <p align="center">Welcome **Github User** to the Code Land of 2M4U (me),<br>
+  Welcome **Github User** to the Code Land of 2M4U (me),<br>
   What you see below is a future project for updating my<br>
   In-Game Fortnite Statistics, Feel free to Fork this repository<br>
-  If you wish to see how this works.</p> 
+  If you wish to see how this works.
   <br><br>
   <b>Latest Tweet</b>: <br>For those curious: https://t.co/GdCeMsAu31
 #Fortnite #Coder #Developers #GOAT𓃵 https://t.co/oUGajCOyPq
@@ -49,5 +49,5 @@ const 2M4U = {
   </p>
 </details>
 
-<!-- Last updated on Wed Oct 19 2022 20:01:27 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 19th Oct 2022 @ 20:01;27 using magic</i>✨
+<!-- Last updated on Wed Oct 19 2022 20:03:17 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 19th Oct 2022 @ 20:03;17 using magic</i>✨
