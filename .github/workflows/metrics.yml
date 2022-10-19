@@ -37,4 +37,26 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_projects: false
           plugin_projects_limit: 4
- 
+  update:
+        runs-on: ubuntu-latest
+
+        steps:
+          - name: 🎏 Fetch Repository
+            uses: actions/checkout@master
+            with:
+              fetch-depth: 1
+          - name: 🎏 Fetch Fortnite Stats
+            run:  |
+                  cd ${GITHUB_WORKSPACE}/
+                  npm i
+                  node src/update.js
+            env:
+                  API_SECRET: ${{ secrets.FN_API_KEY }}
+                  FORTNITE_USERNAME: ${{ secrets.FORTNITE_USERNAME }}
+          - name: 🚀 Deploy Update
+            run: |
+                git config user.name "${GITHUB_ACTOR}"
+                git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+                git add .
+                git commit -am `[Auto] Updated ${{ secrets.FORTNITE_USERNAME }}'s Stats`
+                git push --all -f https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
