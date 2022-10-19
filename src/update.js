@@ -14,7 +14,7 @@ const WriteReadMe = async () => {
       },
     }
   ).then((res) => res.json());
-
+  console.log(data)
   const text = `
   *In Development*<br>
   🏆 Current Level: ${data.data.battlePass.level}<br>
