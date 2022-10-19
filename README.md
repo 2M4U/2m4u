@@ -1,8 +1,8 @@
-
+<img align="right" src="https://avatars.githubusercontent.com/u/72463084?v=4" width="200" />
   Welcome **Github User** to the Code Land of 2M4U (me),<br>
   What you see below is a future project for updating my<br>
   In-Game Fortnite Statistics, Feel free to Fork this repository<br>
-  If you wish to see how this works. <br>
+  If you wish to see how this works. <br><br>
   🏆 Current Level: 72<br>
   🎉 Progress To Next Level: ![](https://geps.dev/progress/53)<br>
   🎯 Total Kills: 4,997<br>
@@ -21,8 +21,8 @@ const Fortnite_Stats = {
 ```
 <p align="center">
 ```js
-const Sudhan = {
-    FavouriteLanguage: "Javascript/Typescript",
+const 2M4U = {
+    FavouriteLanguage: "Javascript",
     OpenedIssues: {{ ISSUES }},
     OpenedPullRequests: {{ PULL_REQUESTS }},
     TotalCommits: {{ COMMITS }},
@@ -31,7 +31,7 @@ const Sudhan = {
        Created: {{ REPOSITORIES }},
        Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
-}; //I'm a Epic Object, UwU
+}; 
 ```
 </p>
 <p align="center">
@@ -47,5 +47,5 @@ const Sudhan = {
   </p>
 </details>
 
-<!-- Last updated on Wed Oct 19 2022 18:06:04 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 19th Oct 2022 @ 18:06;04 using magic</i>✨
+<!-- Last updated on Wed Oct 19 2022 18:06:26 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 19th Oct 2022 @ 18:06;26 using magic</i>✨
