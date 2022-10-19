@@ -11,18 +11,18 @@ jobs:
         runs-on: ubuntu-latest
 
         steps:
-          - name: 🎏 Fetch repo
+          - name: 🎏 Fetch Repository
             uses: actions/checkout@master
             with:
               fetch-depth: 1
-          - name: Getting FN Stats
+          - name: 🎏 Fetch Fortnite Stats
             run:  |
                   cd ${GITHUB_WORKSPACE}/
                   npm i
                   node src/update.js
             env:
                   API_SECRET: ${{ secrets.FN_API_KEY }}
-          - name: 🚀 Deploy
+          - name: 🚀 Deploy Update
             run: |
                 git config user.name "${GITHUB_ACTOR}"
                 git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
