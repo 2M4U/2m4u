@@ -1,7 +1,7 @@
 const { join } = require("path");
 const fetch = require("node-fetch");
 const { writeFileSync } = require("fs");
-const Twitter = require('twitter');
+const Twitter = require("twitter");
 
 var client = new Twitter({
   consumer_key: process.env.TWITTER_API_KEY,
@@ -44,12 +44,13 @@ const WriteReadMe = async () => {
   );
   console.log(UserData);
   const text = `
+  <br><h2 align="center"> ✨ About ${UserData.login} ✨</h2><br>
   Welcome **Github User** to the Code Land of 2M4U (me),<br>
   What you see below is a future project for updating my<br>
   In-Game Fortnite Statistics, Feel free to Fork this repository<br>
   If you wish to see how this works. <br><br>
-  Latest Tweet: ${tweet}
-  <br>${process.env.FORTNITE_USERNAME} Fortnite Stats<br>
+  Latest Tweet: ${tweet[0].text}
+  <br><h2 align="center"> ✨ ${process.env.FORTNITE_USERNAME} Fortnite Stats ✨</h2><br>
   🏆 Current Level: ${data.data.battlePass.level}<br>
   🎉 Progress To Next Level: ![](https://geps.dev/progress/${
     data.data.battlePass.progress
@@ -69,7 +70,7 @@ const Fortnite_Stats = {
     Total_Wins: "${data.data.stats.all.overall.wins.toLocaleString()}",
 }; 
 \`\`\`
-<br>Github Data<br>
+<br><h2 align="center"> ✨ Github Statistics & Data ✨</h2><br>
 \`\`\`js
 const 2M4U = {
     Fav_Lang: "Javascript",
