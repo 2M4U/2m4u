@@ -48,11 +48,16 @@ jobs:
           - name: 🎏 Fetch Fortnite Stats
             run:  |
                   cd ${GITHUB_WORKSPACE}/
-                  npm i
+                  npm uninstall discord.js
                   node src/update.js
             env:
                   API_SECRET: ${{ secrets.FN_API_KEY }}
                   FORTNITE_USERNAME: ${{ secrets.FORTNITE_USERNAME }}
+                  TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
+                  TWITTER_SECRET: ${{ secrets.TWITTER_SECRET }}
+                  TWITTER_ACCESS_KEY: ${{ secrets.TWITTER_ACCESS_KEY }}
+                  TWITTER_TOKEN_SECRET: ${{ secrets.TWITTER_TOKEN_SECRET }}
+                  
           - name: 🚀 Deploy Update
             run: |
                 git config user.name "${GITHUB_ACTOR}"
