@@ -19,23 +19,23 @@ const Fortnite_Stats = {
     Total_Wins: "130",
 }; 
 ```
-<p align="center">
+
 ```js
 const 2M4U = {
     FavouriteLanguage: "Javascript",
     OpenedIssues: {{ ISSUES }},
     OpenedPullRequests: {{ PULL_REQUESTS }},
     TotalCommits: {{ COMMITS }},
-    Stars: 0,
+    Stars: 36,
     Repositories: {
        Created: {{ REPOSITORIES }},
        Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
 }; 
 ```
-</p>
+
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=2M4U&theme=tokyonight">
 </p>
 <details>
   <summary>
@@ -47,5 +47,5 @@ const 2M4U = {
   </p>
 </details>
 
-<!-- Last updated on Wed Oct 19 2022 18:06:26 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 19th Oct 2022 @ 18:06;26 using magic</i>✨
+<!-- Last updated on Wed Oct 19 2022 18:09:32 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 19th Oct 2022 @ 18:09;32 using magic</i>✨
