@@ -16,15 +16,17 @@ const WriteReadMe = async () => {
     "https://fortnite-api.com/v2/stats/br/v2?name=ImWay2Much4U",
     {
       headers: {
-        Authorization: process.env.API_SECRET// temp API Key - yes i am aware of it. 
+        Authorization: process.env.API_SECRET, // temp API Key - yes i am aware of it.
       },
     }
   ).then((res) => res.json());
-  
-const text = `
+
+  const text = `
   *In Development*<br>
   🏆 Current Level: ${data.data.battlePass.level}<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/${data.data.battlePass.progress})<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/${
+    data.data.battlePass.progress
+  })<br>
   🎯 Total Kills: ${data.data.stats.all.overall.kills.toLocaleString()}<br>
   💀 Total Deaths: ${data.data.stats.all.overall.deaths.toLocaleString()}<br>
   👑 Total Wins: ${data.data.stats.all.overall.wins.toLocaleString()}<br>
@@ -64,7 +66,13 @@ const Fortnite_Stats = {
       "Nov",
       "Dec",
     ][date.getMonth()]
-  } ${date.getFullYear()} @ ${time(Date.now())} using magic</i>✨`;
+  } ${date.getFullYear()} @ ${
+    ("0" + date.getHours()).slice(-2) +
+    ":" +
+    ("0" + date.getMinutes()).slice(-2) +
+    ";" +
+    ("0" + date.getSeconds()).slice(-2)
+  } using magic</i>✨`;
   writeFileSync(ReadMe, text);
 };
 
