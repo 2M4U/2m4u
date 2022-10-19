@@ -3,11 +3,14 @@
   What you see below is a future project for updating my<br>
   In-Game Fortnite Statistics, Feel free to Fork this repository<br>
   If you wish to see how this works. <br><br>
+  Latest Tweet: [object Object]
+  <br>ImWay2Much4U Fortnite Stats<br>
   🏆 Current Level: 72<br>
   🎉 Progress To Next Level: ![](https://geps.dev/progress/53)<br>
   🎯 Total Kills: 4,997<br>
   💀 Total Deaths: 2,058<br>
   👑 Total Wins: 130<br>
+
 ```js
 const Fortnite_Stats = {
     Season: {    
@@ -19,21 +22,14 @@ const Fortnite_Stats = {
     Total_Wins: "130",
 }; 
 ```
-
+<br>Github Data<br>
 ```js
 const 2M4U = {
-    FavouriteLanguage: "Javascript",
-    OpenedIssues: {{ ISSUES }},
-    OpenedPullRequests: {{ PULL_REQUESTS }},
-    TotalCommits: {{ COMMITS }},
-    Stars: 36,
-    Repositories: {
-       Created: {{ REPOSITORIES }},
-       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
-    },
+    Fav_Lang: "Javascript",
+    Github_Stars: 0,
 }; 
 ```
-<img align="right" src="https://avatars.githubusercontent.com/u/72463084?v=4" width="200" />
+
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=2M4U&theme=tokyonight">
 </p>
@@ -47,5 +43,5 @@ const 2M4U = {
   </p>
 </details>
 
-<!-- Last updated on Wed Oct 19 2022 19:45:19 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 19th Oct 2022 @ 19:45;19 using magic</i>✨
+<!-- Last updated on Wed Oct 19 2022 19:45:44 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 19th Oct 2022 @ 19:45;44 using magic</i>✨
