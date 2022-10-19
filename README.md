@@ -1,10 +1,10 @@
 
   <br><h2 align="center"> ✨ About 2M4U ✨</h2><br>
-  Welcome **Github User** to the Code Land of 2M4U (me),<br>
+  <h4 align="center"> Welcome **Github User** to the Code Land of 2M4U (me),<br>
   What you see below is a future project for updating my<br>
   In-Game Fortnite Statistics, Feel free to Fork this repository<br>
-  If you wish to see how this works. <br><br>
-  Latest Tweet: For those curious: https://t.co/GdCeMsAu31
+  If you wish to see how this works.</h4> <br><br>
+  <b>Latest Tweet</b>: <br>For those curious: https://t.co/GdCeMsAu31
 #Fortnite #Coder #Developers #GOAT𓃵 https://t.co/oUGajCOyPq
   <br><h2 align="center"> ✨ ImWay2Much4U Fortnite Stats ✨</h2><br>
   🏆 Current Level: 72<br>
@@ -45,5 +45,5 @@ const 2M4U = {
   </p>
 </details>
 
-<!-- Last updated on Wed Oct 19 2022 19:53:48 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 19th Oct 2022 @ 19:53;48 using magic</i>✨
+<!-- Last updated on Wed Oct 19 2022 19:58:11 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 19th Oct 2022 @ 19:58;11 using magic</i>✨
