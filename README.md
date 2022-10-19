@@ -5,8 +5,7 @@
   In-Game Fortnite Statistics, Feel free to Fork this repository<br>
   If you wish to see how this works.
   <br><br>
-  <b>Latest Tweet</b>: <br>For those curious: https://t.co/GdCeMsAu31
-#Fortnite #Coder #Developers #GOAT𓃵 https://t.co/oUGajCOyPq
+  <b>Latest Tweet</b>: <br>➡️➡️➡️➡️➡️➡️
   <br><h2 align="center"> ✨ ImWay2Much4U Fortnite Stats ✨</h2><br>
   🏆 Current Level: 72<br>
   🎉 Progress To Next Level: ![](https://geps.dev/progress/53)<br>
@@ -49,5 +48,5 @@ const 2M4U = {
   </p>
 </details>
 
-<!-- Last updated on Wed Oct 19 2022 20:11:43 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 19th Oct 2022 @ 20:11;43 using magic</i>✨
+<!-- Last updated on Wed Oct 19 2022 20:39:28 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 19th Oct 2022 @ 20:39;28 using magic</i>✨
