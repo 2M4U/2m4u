@@ -1,6 +1,15 @@
 const { join } = require("path");
 const fetch = require("node-fetch");
 const { writeFileSync } = require("fs");
+const Twitter = require('twitter');
+
+var client = new Twitter({
+  consumer_key: process.env.TWITTER_API_KEY,
+  consumer_secret: process.env.TWITTER_SECRET, 
+  access_token_key: process.env.TWITTER_ACCESS_KEY, 
+  access_token_secret: process.env.TWITTER_TOKEN_SECRET, 
+});
+
 let stars = 0,
   page = 1;
 
@@ -12,9 +21,15 @@ const CountStars = async () => {
   page++;
   if (StarsData.length === 100) CountStars();
 };
+
 const WriteReadMe = async () => {
   const ReadMe = join(__dirname, "..", "README.md");
   const date = new Date();
+  
+  var params = {screen_name: 'stomperleaks', count: 1};
+  let tweet = await client.get('statuses/user_timeline', params);
+  
+  console.log(tweet)
 
   let data = await fetch(
     `https://fortnite-api.com/v2/stats/br/v2?name=${process.env.FORTNITE_USERNAME}`,
@@ -33,6 +48,8 @@ const WriteReadMe = async () => {
   What you see below is a future project for updating my<br>
   In-Game Fortnite Statistics, Feel free to Fork this repository<br>
   If you wish to see how this works. <br><br>
+  Latest Tweet: ${tweet}
+  <br>${process.env.FORTNITE_USERNAME} Fortnite Stats<br>
   🏆 Current Level: ${data.data.battlePass.level}<br>
   🎉 Progress To Next Level: ![](https://geps.dev/progress/${
     data.data.battlePass.progress
@@ -40,6 +57,7 @@ const WriteReadMe = async () => {
   🎯 Total Kills: ${data.data.stats.all.overall.kills.toLocaleString()}<br>
   💀 Total Deaths: ${data.data.stats.all.overall.deaths.toLocaleString()}<br>
   👑 Total Wins: ${data.data.stats.all.overall.wins.toLocaleString()}<br>
+
 \`\`\`js
 const Fortnite_Stats = {
     Season: {    
@@ -51,21 +69,14 @@ const Fortnite_Stats = {
     Total_Wins: "${data.data.stats.all.overall.wins.toLocaleString()}",
 }; 
 \`\`\`
-
+<br>Github Data<br>
 \`\`\`js
 const 2M4U = {
-    FavouriteLanguage: "Javascript",
-    OpenedIssues: {{ ISSUES }},
-    OpenedPullRequests: {{ PULL_REQUESTS }},
-    TotalCommits: {{ COMMITS }},
-    Stars: ${stars},
-    Repositories: {
-       Created: {{ REPOSITORIES }},
-       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
-    },
+    Fav_Lang: "Javascript",
+    Github_Stars: ${stars},
 }; 
 \`\`\`
-<img align="right" src="${UserData.avatar_url}" width="200" />
+
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=2M4U&theme=tokyonight">
 </p>
