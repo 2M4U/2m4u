@@ -1,21 +1,21 @@
 
   *In Development*<br>
-  🏆 Current Level: 72<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/5)<br>
-  🎯 Total Kills: 4,993<br>
-  💀 Total Deaths: 2,056<br>
-  👑 Total Wins: 130<br>
+  🏆 Current Level: 107<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/16)<br>
+  🎯 Total Kills: 3,846<br>
+  💀 Total Deaths: 2,785<br>
+  👑 Total Wins: 141<br>
 ```js
 const Fortnite_Stats = {
     Season: {    
-      Current_Level: "72",
-      Progress_To_Next_Level: "5%",
-      Kills: "4,993",
-      Deaths: "2,056"
+      Current_Level: "107",
+      Progress_To_Next_Level: "16%",
+      Kills: "3,846",
+      Deaths: "2,785"
     },
-    Total_Wins: "130",
+    Total_Wins: "141",
 }; 
 ```
 
-<!-- Last updated on Wed Oct 19 2022 13:43:40 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 19th Oct 2022 @ 13:43;40 using magic</i>✨
+<!-- Last updated on Wed Oct 19 2022 14:00:45 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 19th Oct 2022 @ 14:00;45 using magic</i>✨
