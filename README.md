@@ -1,4 +1,4 @@
-<img align="right" src="https://avatars.githubusercontent.com/u/72463084?v=4" width="200" />
+
   Welcome **Github User** to the Code Land of 2M4U (me),<br>
   What you see below is a future project for updating my<br>
   In-Game Fortnite Statistics, Feel free to Fork this repository<br>
@@ -26,14 +26,14 @@ const 2M4U = {
     OpenedIssues: {{ ISSUES }},
     OpenedPullRequests: {{ PULL_REQUESTS }},
     TotalCommits: {{ COMMITS }},
-    Stars: 36,
+    Stars: 0,
     Repositories: {
        Created: {{ REPOSITORIES }},
        Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
 }; 
 ```
-
+<img align="right" src="https://avatars.githubusercontent.com/u/72463084?v=4" width="200" />
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=2M4U&theme=tokyonight">
 </p>
@@ -47,5 +47,5 @@ const 2M4U = {
   </p>
 </details>
 
-<!-- Last updated on Wed Oct 19 2022 18:09:32 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 19th Oct 2022 @ 18:09;32 using magic</i>✨
+<!-- Last updated on Wed Oct 19 2022 18:11:01 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 19th Oct 2022 @ 18:11;01 using magic</i>✨
