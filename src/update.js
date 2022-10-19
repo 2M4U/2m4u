@@ -1,19 +1,13 @@
 const { join } = require("path");
 const fetch = require("node-fetch");
 const { writeFileSync } = require("fs");
-function time(ms) {
-  let minutes = Math.floor(ms / 60000);
-  let seconds = Number(((ms % 60000) / 1000).toFixed(0));
-  return seconds == 60
-    ? minutes + 1 + ":00"
-    : minutes + ":" + (seconds < 10 ? "0" : "") + seconds;
-}
+
 const WriteReadMe = async () => {
   const ReadMe = join(__dirname, "..", "README.md");
   const date = new Date();
 
   let data = await fetch(
-    "https://fortnite-api.com/v2/stats/br/v2?name=ImWay2Much4U",
+    "https://fortnite-api.com/v2/stats/br/v2?name=StomperTheBunny",
     {
       headers: {
         Authorization: process.env.API_SECRET, // temp API Key - yes i am aware of it.
