@@ -45,10 +45,11 @@ const WriteReadMe = async () => {
   console.log(UserData);
   const text = `
   <br><h2 align="center"> ✨ About ${UserData.login} ✨</h2><br>
-  <h4 align="center"> Welcome **Github User** to the Code Land of 2M4U (me),<br>
+  <p align="center">Welcome **Github User** to the Code Land of 2M4U (me),<br>
   What you see below is a future project for updating my<br>
   In-Game Fortnite Statistics, Feel free to Fork this repository<br>
-  If you wish to see how this works.</h4> <br><br>
+  If you wish to see how this works.</p> 
+  <br><br>
   <b>Latest Tweet</b>: <br>${tweet[0].text}
   <br><h2 align="center"> ✨ ${process.env.FORTNITE_USERNAME} Fortnite Stats ✨</h2><br>
   🏆 Current Level: ${data.data.battlePass.level}<br>
@@ -70,7 +71,10 @@ const Fortnite_Stats = {
     Total_Wins: "${data.data.stats.all.overall.wins.toLocaleString()}",
 }; 
 \`\`\`
+
+
 <br><h2 align="center"> ✨ Github Statistics & Data ✨</h2><br>
+
 \`\`\`js
 const 2M4U = {
     Fav_Lang: "Javascript",
