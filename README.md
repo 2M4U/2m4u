@@ -6,22 +6,22 @@
   If you wish to see how this works.
   <br><br>
   <b>Latest Tweet</b>: <br>➡️➡️➡️➡️➡️➡️
-  <br><h2 align="center"> ✨ ImWay2Much4U Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 72<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/53)<br>
-  🎯 Total Kills: 4,997<br>
-  💀 Total Deaths: 2,058<br>
-  👑 Total Wins: 130<br>
+  <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
+  🏆 Current Level: 108<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/20)<br>
+  🎯 Total Kills: 3,869<br>
+  💀 Total Deaths: 2,791<br>
+  👑 Total Wins: 141<br>
 
 ```js
 const Fortnite_Stats = {
     Season: {    
-      Current_Level: "72",
-      Progress_To_Next_Level: "53%",
-      Kills: "4,997",
-      Deaths: "2,058"
+      Current_Level: "108",
+      Progress_To_Next_Level: "20%",
+      Kills: "3,869",
+      Deaths: "2,791"
     },
-    Total_Wins: "130",
+    Total_Wins: "141",
 }; 
 ```
 
@@ -48,5 +48,5 @@ const 2M4U = {
   </p>
 </details>
 
-<!-- Last updated on Wed Oct 19 2022 21:54:05 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 19th Oct 2022 @ 21:54;05 using magic</i>✨
+<!-- Last updated on Wed Oct 19 2022 22:11:30 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 19th Oct 2022 @ 22:11;30 using magic</i>✨
