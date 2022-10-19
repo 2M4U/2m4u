@@ -1,5 +1,8 @@
 
-  *In Development*<br>
+  Welcome **Github User** to the Code Land of 2M4U (me),<br>
+  What you see below is a future project for updating my<br>
+  In-Game Fortnite Statistics, Feel free to Fork this repository<br>
+  If you wish to see how this works. <br>
   🏆 Current Level: 72<br>
   🎉 Progress To Next Level: ![](https://geps.dev/progress/53)<br>
   🎯 Total Kills: 4,997<br>
@@ -17,5 +20,5 @@ const Fortnite_Stats = {
 }; 
 ```
 
-<!-- Last updated on Wed Oct 19 2022 16:22:05 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 19th Oct 2022 @ 16:22;05 using magic</i>✨
+<!-- Last updated on Wed Oct 19 2022 16:31:00 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 19th Oct 2022 @ 16:31;00 using magic</i>✨
