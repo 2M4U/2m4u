@@ -11,6 +11,7 @@ const CountStars = async () => {
   stars += StarsData.length;
   page++;
   if (StarsData.length === 100) CountStars();
+  else WriteReadMe();
 };
 const WriteReadMe = async () => {
   const ReadMe = join(__dirname, "..", "README.md");
@@ -51,7 +52,7 @@ const Fortnite_Stats = {
     Total_Wins: "${data.data.stats.all.overall.wins.toLocaleString()}",
 }; 
 \`\`\`
-<p align="center">
+
 \`\`\`js
 const 2M4U = {
     FavouriteLanguage: "Javascript",
@@ -65,9 +66,9 @@ const 2M4U = {
     },
 }; 
 \`\`\`
-</p>
+
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=2M4U&theme=tokyonight">
 </p>
 <details>
   <summary>
