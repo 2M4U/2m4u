@@ -1,7 +1,13 @@
 const { join } = require("path");
 const fetch = require("node-fetch");
 const { writeFileSync } = require("fs");
-
+function time(ms) {
+  let minutes = Math.floor(ms / 60000);
+  let seconds = Number(((ms % 60000) / 1000).toFixed(0));
+  return seconds == 60
+    ? minutes + 1 + ":00"
+    : minutes + ":" + (seconds < 10 ? "0" : "") + seconds;
+}
 const WriteReadMe = async () => {
   const ReadMe = join(__dirname, "..", "README.md");
   const date = new Date();
@@ -58,7 +64,7 @@ const Fortnite_Stats = {
       "Nov",
       "Dec",
     ][date.getMonth()]
-  } ${date.getFullYear()} @ ${date.getHours()}:${date.getMinutes()};${date.getSeconds()} using magic</i>✨`;
+  } ${date.getFullYear()} @ ${time(date.now())} using magic</i>✨`;
   writeFileSync(ReadMe, text);
 };
 
