@@ -26,7 +26,7 @@ const Sudhan = {
     OpenedIssues: {{ ISSUES }},
     OpenedPullRequests: {{ PULL_REQUESTS }},
     TotalCommits: {{ COMMITS }},
-    Stars: 36,
+    Stars: 0,
     Repositories: {
        Created: {{ REPOSITORIES }},
        Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
@@ -47,5 +47,5 @@ const Sudhan = {
   </p>
 </details>
 
-<!-- Last updated on Wed Oct 19 2022 18:02:13 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 19th Oct 2022 @ 18:02;13 using magic</i>✨
+<!-- Last updated on Wed Oct 19 2022 18:06:04 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 19th Oct 2022 @ 18:06;04 using magic</i>✨
