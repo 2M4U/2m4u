@@ -7,7 +7,7 @@ const WriteReadMe = async () => {
   const date = new Date();
 
   let data = await fetch(
-    `https://fortnite-api.com/v2/stats/br/v2?name=${process.env.FORTNITE_USERNAME}`,
+    `https://fortnite-api.com/v2/stats/br/v2?name=ImWay2Much4U`,
     {
       headers: {
         Authorization: process.env.API_SECRET, 
