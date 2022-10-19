@@ -11,7 +11,6 @@ const CountStars = async () => {
   stars += StarsData.length;
   page++;
   if (StarsData.length === 100) CountStars();
-  else WriteReadMe();
 };
 const WriteReadMe = async () => {
   const ReadMe = join(__dirname, "..", "README.md");
@@ -29,7 +28,7 @@ const WriteReadMe = async () => {
     (res) => res.json()
   );
   console.log(UserData);
-  const text = `<img align="right" src="${UserData.avatar_url}" width="200" />
+  const text = `
   Welcome **Github User** to the Code Land of 2M4U (me),<br>
   What you see below is a future project for updating my<br>
   In-Game Fortnite Statistics, Feel free to Fork this repository<br>
@@ -66,7 +65,7 @@ const 2M4U = {
     },
 }; 
 \`\`\`
-
+<img align="right" src="${UserData.avatar_url}" width="200" />
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=2M4U&theme=tokyonight">
 </p>
