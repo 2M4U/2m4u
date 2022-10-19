@@ -10,11 +10,11 @@ const WriteReadMe = async () => {
     `https://fortnite-api.com/v2/stats/br/v2?name=${process.env.FORTNITE_USERNAME}`,
     {
       headers: {
-        Authorization: process.env.API_SECRET, // temp API Key - yes i am aware of it.
+        Authorization: process.env.API_SECRET, 
       },
     }
   ).then((res) => res.json());
-  console.log(process.env.FORTNITE_USERNAME)
+ 
   const text = `
   *In Development*<br>
   🏆 Current Level: ${data.data.battlePass.level}<br>
