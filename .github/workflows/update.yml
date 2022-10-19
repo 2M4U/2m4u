@@ -22,6 +22,7 @@ jobs:
                   node src/update.js
             env:
                   API_SECRET: ${{ secrets.FN_API_KEY }}
+                  FORTNITE_USERNAME: ${{ secrets.FORTNITE_USERNAME }}
           - name: 🚀 Deploy Update
             run: |
                 git config user.name "${GITHUB_ACTOR}"
