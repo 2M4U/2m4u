@@ -19,6 +19,33 @@ const Fortnite_Stats = {
     Total_Wins: "130",
 }; 
 ```
+<p align="center">
+```js
+const Sudhan = {
+    FavouriteLanguage: "Javascript/Typescript",
+    OpenedIssues: {{ ISSUES }},
+    OpenedPullRequests: {{ PULL_REQUESTS }},
+    TotalCommits: {{ COMMITS }},
+    Stars: 36,
+    Repositories: {
+       Created: {{ REPOSITORIES }},
+       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
+    },
+}; //I'm a Epic Object, UwU
+```
+</p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight">
+</p>
+<details>
+  <summary>
+      Even more stats
+  </summary>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=2M4U&theme=dracula">
+    <img src="https://github-readme-stats.vercel.app/api?username=2M4U&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true">
+  </p>
+</details>
 
-<!-- Last updated on Wed Oct 19 2022 17:27:42 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 19th Oct 2022 @ 17:27;42 using magic</i>✨
+<!-- Last updated on Wed Oct 19 2022 18:02:13 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 19th Oct 2022 @ 18:02;13 using magic</i>✨
