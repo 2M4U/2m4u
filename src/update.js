@@ -16,7 +16,10 @@ const WriteReadMe = async () => {
   ).then((res) => res.json());
  
   const text = `
-  *In Development*<br>
+  Welcome **Github User** to the Code Land of 2M4U (me),<br>
+  What you see below is a future project for updating my<br>
+  In-Game Fortnite Statistics, Feel free to Fork this repository<br>
+  If you wish to see how this works. <br>
   🏆 Current Level: ${data.data.battlePass.level}<br>
   🎉 Progress To Next Level: ![](https://geps.dev/progress/${
     data.data.battlePass.progress
@@ -74,24 +77,3 @@ const Fortnite_Stats = {
   WriteReadMe();
 })();
 
-
-//** TEST **//
-const { Client, GatewayIntentBits } = require("discord.js");
-const client = new Client({
-  intents: [GatewayIntentBits.Guilds, GatewayIntentBits.GuildMessages]
-});
-
-client.on("ready", () => {
-  var channel = client.guilds.cache
-      .get("1021882466270711908")
-      .channels.cache.get("1028001730048295042").send({content:"IM LIVE ON GITHUB O_O"});
-  console.log("I am ready!");
-});
-
-client.on("messageCreate", (message) => {
-  if (message.content.startsWith("ping")) {
-    message.channel.send("pong!");
-  }
-});
-
-client.login(process.env.BOT_TOKEN);
