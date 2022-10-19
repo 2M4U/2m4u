@@ -64,7 +64,7 @@ const Fortnite_Stats = {
       "Nov",
       "Dec",
     ][date.getMonth()]
-  } ${date.getFullYear()} @ ${time(date.now())} using magic</i>✨`;
+  } ${date.getFullYear()} @ ${time(Date.now())} using magic</i>✨`;
   writeFileSync(ReadMe, text);
 };
 
