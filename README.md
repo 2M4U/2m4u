@@ -6,10 +6,12 @@
   In-Game Fortnite Statistics, Feel free to Fork this repository<br>
   If you wish to see how this works.
   <br><br>
+  ---
   <b>Latest Tweet</b>: <br>246+ Days since Hookshot was last in item shop!
 ITS BACK!!!!!!!!!!
 
 #FortniteParadise
+  ---
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
   🏆 Current Level: 108<br>
   🎉 Progress To Next Level: ![](https://geps.dev/progress/45)<br>
@@ -52,5 +54,5 @@ const 2M4U = {
   </p>
 </details>
 
-<!-- Last updated on Thu Oct 20 2022 20:42:01 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 20th Oct 2022 @ 20:42;01 using magic</i>✨
+<!-- Last updated on Thu Oct 20 2022 20:56:18 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 20th Oct 2022 @ 20:56;18 using magic</i>✨
