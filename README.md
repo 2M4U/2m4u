@@ -27,7 +27,7 @@ const Fortnite_Stats = {
     },
     Overall: {
       Total_Kills: "1,101",
-      Total_Deaths: "1,161"
+      Total_Deaths: "1,161",
       Total_Wins: "19",
     }
 }; 
@@ -56,5 +56,5 @@ const 2M4U = {
   </p>
 </details>
 
-<!-- Last updated on Thu Oct 20 2022 22:22:25 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Thu 20th Oct 2022 @ 22:22;25 using magic</i>✨
+<!-- Last updated on Thu Oct 20 2022 22:27:48 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Thu 20th Oct 2022 @ 22:27;48 using magic</i>✨
