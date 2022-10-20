@@ -45,8 +45,8 @@ const WriteReadMe = async () => {
   console.log(UserData);
   const text = `
   ![Header](./src/github-header-image.png)
-  <br><h2 align="center"> ✨ About ${UserData.login} ✨</h2><br>
-  Welcome **Github User** to the Code Land of 2M4U (me),<br>
+  <br>
+  Welcome **Github User** to the Code Land of ${UserData.login} (me),<br>
   What you see below is a future project for updating my<br>
   In-Game Fortnite Statistics, Feel free to Fork this repository<br>
   If you wish to see how this works.
