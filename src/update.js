@@ -20,6 +20,7 @@ const CountStars = async () => {
   stars += StarsData.length;
   page++;
   if (StarsData.length === 100) CountStars();
+  else WriteReadMe();
 };
 
 const WriteReadMe = async () => {
@@ -69,7 +70,7 @@ const Fortnite_Stats = {
     },
     Overall: {
       Total_Kills: "${data.data.stats.all.overall.kills.toLocaleString()}",
-      Total_Deaths: "${data.data.stats.all.overall.deaths.toLocaleString()}"
+      Total_Deaths: "${data.data.stats.all.overall.deaths.toLocaleString()}",
       Total_Wins: "${data.data.stats.all.overall.wins.toLocaleString()}",
     }
 }; 
