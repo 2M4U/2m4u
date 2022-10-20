@@ -34,7 +34,7 @@ const Fortnite_Stats = {
 ```js
 const 2M4U = {
     Fav_Lang: "Javascript",
-    Github_Stars: 36,
+    Github_Stars: 0,
 }; 
 ```
 
@@ -51,5 +51,5 @@ const 2M4U = {
   </p>
 </details>
 
-<!-- Last updated on Thu Oct 20 2022 16:01:13 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 20th Oct 2022 @ 16:01;13 using magic</i>✨
+<!-- Last updated on Thu Oct 20 2022 16:48:01 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 20th Oct 2022 @ 16:48;01 using magic</i>✨
