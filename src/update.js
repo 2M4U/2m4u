@@ -83,10 +83,10 @@ const Fortnite_Stats = {
 const 2M4U = {
     Fav_Lang: "Javascript",
     Github_Stars: ${stars},
-    Public_Repos: ${UserData.user.public_repos},
-    Public_Gists: ${UserData.user.public_gists},
-    Followers: ${UserData.user.followers},
-    Following: ${UserData.user.following},
+    Public_Repos: ${UserData.public_repos},
+    Public_Gists: ${UserData.public_gists},
+    Followers: ${UserData.followers},
+    Following: ${UserData.following},
 }; 
 \`\`\`
 
