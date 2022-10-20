@@ -56,9 +56,7 @@ const WriteReadMe = async () => {
  
   <br><h2 align="center"> ✨ ${process.env.FORTNITE_USERNAME} Fortnite Stats ✨</h2><br>
   🏆 Current Level: ${data.data.battlePass.level}<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/${
-    data.data.battlePass.progress
-  })<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/${data.data.battlePass.progress})<br>
   🎯 Total Kills: ${data.data.stats.all.overall.kills.toLocaleString()}<br>
   💀 Total Deaths: ${data.data.stats.all.overall.deaths.toLocaleString()}<br>
   👑 Total Wins: ${data.data.stats.all.overall.wins.toLocaleString()}<br>
@@ -68,10 +66,12 @@ const Fortnite_Stats = {
     Season: {    
       Current_Level: "${data.data.battlePass.level}",
       Progress_To_Next_Level: "${data.data.battlePass.progress}%",
-      Kills: "${data.data.stats.all.overall.kills.toLocaleString()}",
-      Deaths: "${data.data.stats.all.overall.deaths.toLocaleString()}"
     },
-    Total_Wins: "${data.data.stats.all.overall.wins.toLocaleString()}",
+    Overall: {
+      Total_Kills: "${data.data.stats.all.overall.kills.toLocaleString()}",
+      Total_Deaths: "${data.data.stats.all.overall.deaths.toLocaleString()}"
+      Total_Wins: "${data.data.stats.all.overall.wins.toLocaleString()}",
+    }
 }; 
 \`\`\`
 
@@ -99,7 +99,15 @@ const 2M4U = {
 </details>
 
 <!-- Last updated on ${date.toString()} ;-;-->
-<i>Last updated on ${date.getDate()}${
+<i>Last updated on  ${[
+      "Sun",
+      "Mon",
+      "Tue",
+      "Wed",
+      "Thu",
+      "Fri",
+      "Sat"
+    ][date.getDay()]} ${date.getDate()}${
     date.getDate() === 1
       ? "st"
       : date.getDate() === 2
