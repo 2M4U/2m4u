@@ -51,9 +51,9 @@ const WriteReadMe = async () => {
   In-Game Fortnite Statistics, Feel free to Fork this repository<br>
   If you wish to see how this works.
   <br><br>
-  ---
+  
   <b>Latest Tweet</b>: <br>${tweet[0].text}
-  ---
+ 
   <br><h2 align="center"> ✨ ${process.env.FORTNITE_USERNAME} Fortnite Stats ✨</h2><br>
   🏆 Current Level: ${data.data.battlePass.level}<br>
   🎉 Progress To Next Level: ![](https://geps.dev/progress/${
