@@ -13,7 +13,7 @@ ITS BACK!!!!!!!!!!
   🏆 Current Level: 108<br>
   🎉 Progress To Next Level: ![](https://geps.dev/progress/45)<br>
   🎯 Total Kills: 3,887<br>
-  💀 Total Deaths: 2,796<br>
+  💀 Total Deaths: 2,797<br>
   👑 Total Wins: 142<br>
 
 ```js
@@ -22,7 +22,7 @@ const Fortnite_Stats = {
       Current_Level: "108",
       Progress_To_Next_Level: "45%",
       Kills: "3,887",
-      Deaths: "2,796"
+      Deaths: "2,797"
     },
     Total_Wins: "142",
 }; 
@@ -34,7 +34,7 @@ const Fortnite_Stats = {
 ```js
 const 2M4U = {
     Fav_Lang: "Javascript",
-    Github_Stars: 0,
+    Github_Stars: 36,
 }; 
 ```
 
@@ -51,5 +51,5 @@ const 2M4U = {
   </p>
 </details>
 
-<!-- Last updated on Thu Oct 20 2022 16:48:01 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 20th Oct 2022 @ 16:48;01 using magic</i>✨
+<!-- Last updated on Thu Oct 20 2022 17:26:57 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 20th Oct 2022 @ 17:26;57 using magic</i>✨
