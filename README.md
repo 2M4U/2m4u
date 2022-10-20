@@ -12,22 +12,22 @@ ITS BACK!!!!!!!!!!
 
 #FortniteParadise
  
-  <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 108<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/45)<br>
-  🎯 Total Kills: 3,887<br>
-  💀 Total Deaths: 2,798<br>
-  👑 Total Wins: 142<br>
+  <br><h2 align="center"> ✨ Rixqi Fortnite Stats ✨</h2><br>
+  🏆 Current Level: 60<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/83)<br>
+  🎯 Total Kills: 1,095<br>
+  💀 Total Deaths: 1,160<br>
+  👑 Total Wins: 19<br>
 
 ```js
 const Fortnite_Stats = {
     Season: {    
-      Current_Level: "108",
-      Progress_To_Next_Level: "45%",
-      Kills: "3,887",
-      Deaths: "2,798"
+      Current_Level: "60",
+      Progress_To_Next_Level: "83%",
+      Kills: "1,095",
+      Deaths: "1,160"
     },
-    Total_Wins: "142",
+    Total_Wins: "19",
 }; 
 ```
 
@@ -54,5 +54,5 @@ const 2M4U = {
   </p>
 </details>
 
-<!-- Last updated on Thu Oct 20 2022 21:53:39 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 20th Oct 2022 @ 21:53;39 using magic</i>✨
+<!-- Last updated on Thu Oct 20 2022 22:09:58 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 20th Oct 2022 @ 22:09;58 using magic</i>✨
