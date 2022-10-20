@@ -5,12 +5,15 @@
   In-Game Fortnite Statistics, Feel free to Fork this repository<br>
   If you wish to see how this works.
   <br><br>
-  <b>Latest Tweet</b>: <br>Gotta get schwifty in here @RickandMorty
+  <b>Latest Tweet</b>: <br>246+ Days since Hookshot was last in item shop!
+ITS BACK!!!!!!!!!!
+
+#FortniteParadise
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
   🏆 Current Level: 108<br>
   🎉 Progress To Next Level: ![](https://geps.dev/progress/45)<br>
-  🎯 Total Kills: 3,886<br>
-  💀 Total Deaths: 2,795<br>
+  🎯 Total Kills: 3,887<br>
+  💀 Total Deaths: 2,796<br>
   👑 Total Wins: 142<br>
 
 ```js
@@ -18,8 +21,8 @@ const Fortnite_Stats = {
     Season: {    
       Current_Level: "108",
       Progress_To_Next_Level: "45%",
-      Kills: "3,886",
-      Deaths: "2,795"
+      Kills: "3,887",
+      Deaths: "2,796"
     },
     Total_Wins: "142",
 }; 
@@ -48,5 +51,5 @@ const 2M4U = {
   </p>
 </details>
 
-<!-- Last updated on Thu Oct 20 2022 09:54:26 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 20th Oct 2022 @ 09:54;26 using magic</i>✨
+<!-- Last updated on Thu Oct 20 2022 10:15:00 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 20th Oct 2022 @ 10:15;00 using magic</i>✨
