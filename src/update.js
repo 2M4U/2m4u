@@ -44,7 +44,7 @@ const WriteReadMe = async () => {
   );
   console.log(UserData);
   const text = `
-  ![Header](./src/github-header-image.png)
+  ![Header](./src/github-header-image (1).png)
   <br>
   Welcome **Github User** to the Code Land of ${UserData.login} (me),<br>
   What you see below is a future project for updating my<br>
