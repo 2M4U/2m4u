@@ -13,22 +13,22 @@ ITS BACK!!!!!!!!!!
 #FortniteParadise
  
   <br><h2 align="center"> ✨ Rixqi Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 61<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/79)<br>
-  🎯 Total Kills: 1,108<br>
-  💀 Total Deaths: 1,162<br>
-  👑 Total Wins: 19<br>
+  🏆 Current Level: 62<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/6)<br>
+  🎯 Total Kills: 1,120<br>
+  💀 Total Deaths: 1,164<br>
+  👑 Total Wins: 20<br>
 
 ```js
 const Fortnite_Stats = {
     Season: {    
-      Current_Level: "61",
-      Progress_To_Next_Level: "79%",
+      Current_Level: "62",
+      Progress_To_Next_Level: "6%",
     },
     Overall: {
-      Total_Kills: "1,108",
-      Total_Deaths: "1,162",
-      Total_Wins: "19",
+      Total_Kills: "1,120",
+      Total_Deaths: "1,164",
+      Total_Wins: "20",
     }
 }; 
 ```
@@ -60,5 +60,5 @@ const 2M4U = {
   </p>
 </details>
 
-<!-- Last updated on Thu Oct 20 2022 22:55:35 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Thu 20th Oct 2022 @ 22:55;35 using magic</i>✨
+<!-- Last updated on Thu Oct 20 2022 23:19:25 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Thu 20th Oct 2022 @ 23:19;25 using magic</i>✨
