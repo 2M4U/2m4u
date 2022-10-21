@@ -1,7 +1,7 @@
 
   ![Header](./src/github-banner.png)
   <br>
-  Welcome **Github User** to the Code Land of 2M4U (me),<br>
+  Welcome **Github User** to the Code Land of undefined (me),<br>
   What you see below is a future project for updating my<br>
   In-Game Fortnite Statistics, Feel free to Fork this repository<br>
   If you wish to see how this works.
@@ -10,7 +10,7 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-78-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-211-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-78-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-212-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
@@ -43,11 +43,11 @@ const Fortnite_Stats = {
 ```js
 const 2M4U = {
     Fav_Lang: "Javascript",
-    Github_Stars: 36,
-    Public_Repos: 61,
-    Public_Gists: 1,
-    Followers: 8,
-    Following: 20,
+    Github_Stars: NaN,
+    Public_Repos: undefined,
+    Public_Gists: undefined,
+    Followers: undefined,
+    Following: undefined,
 }; 
 ```
 
@@ -64,5 +64,5 @@ const 2M4U = {
   </p>
 </details>
 
-<!-- Last updated on Fri Oct 21 2022 16:57:49 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Fri 21th Oct 2022 @ 16:57;49 using magic</i>✨
+<!-- Last updated on Fri Oct 21 2022 17:58:26 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Fri 21th Oct 2022 @ 17:58;26 using magic</i>✨
