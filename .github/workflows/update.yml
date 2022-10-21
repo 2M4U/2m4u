@@ -1,11 +1,14 @@
 name: FortniteStats Updater
 
 on:
-  push:
-    branches:
-      - master
   schedule:
-    - cron: '*/5 * * * *' 
+      - cron: '*/5 * * * *' 
+  workflow_run:
+    workflows: ["metrics"]
+    branches: [master]
+    types: 
+      - completed
+  
 jobs:
   update:
         runs-on: ubuntu-latest
