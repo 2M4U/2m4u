@@ -6,12 +6,19 @@
   In-Game Fortnite Statistics, Feel free to Fork this repository<br>
   If you wish to see how this works.
   <br><br>
+  <br>
   
-  <b>Latest Tweet</b>: <br>246+ Days since Hookshot was last in item shop!
+  | Followers  | Following |
+  | ---------- |:---------:|
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-78-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-211-blue)  |
+
+
+  <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet-246+ Days since Hookshot was last in item shop!
 ITS BACK!!!!!!!!!!
 
-#FortniteParadise
- 
+#FortniteParadise-blue)<br>
+  
+  
   <br><h2 align="center"> ✨ Rixqi Fortnite Stats ✨</h2><br>
   🏆 Current Level: 62<br>
   🎉 Progress To Next Level: ![](https://geps.dev/progress/6)<br>
@@ -60,5 +67,5 @@ const 2M4U = {
   </p>
 </details>
 
-<!-- Last updated on Fri Oct 21 2022 13:25:03 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Fri 21th Oct 2022 @ 13:25;03 using magic</i>✨
+<!-- Last updated on Fri Oct 21 2022 14:02:02 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Fri 21th Oct 2022 @ 14:02;02 using magic</i>✨
