@@ -52,9 +52,16 @@ const WriteReadMe = async () => {
   In-Game Fortnite Statistics, Feel free to Fork this repository<br>
   If you wish to see how this works.
   <br><br>
+  <br>
   
-  <b>Latest Tweet</b>: <br>${tweet[0].text}
- 
+  | Followers  | Following |
+  | ---------- |:---------:|
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-${tweet[0].user.followers_count}-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-${tweet[0].user.friends_count}-blue)  |
+
+
+  <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet-${tweet[0].text}-blue)<br>
+  
+  
   <br><h2 align="center"> ✨ ${process.env.FORTNITE_USERNAME} Fortnite Stats ✨</h2><br>
   🏆 Current Level: ${data.data.battlePass.level}<br>
   🎉 Progress To Next Level: ![](https://geps.dev/progress/${data.data.battlePass.progress})<br>
