@@ -59,9 +59,9 @@ const WriteReadMe = async () => {
   | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-${tweet[0].user.followers_count}-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-${tweet[0].user.friends_count}-blue)  |
 
 
-  <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet-${tweet[0].text.replaceAll(" ","%20")}-blue)<br>
-  
-  
+  <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
+  ${tweet[0].text}
+   
   <br><h2 align="center"> ✨ ${process.env.FORTNITE_USERNAME} Fortnite Stats ✨</h2><br>
   🏆 Current Level: ${data.data.battlePass.level}<br>
   🎉 Progress To Next Level: ![](https://geps.dev/progress/${data.data.battlePass.progress})<br>
