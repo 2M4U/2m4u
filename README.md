@@ -13,12 +13,9 @@
   | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-78-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-211-blue)  |
 
 
-  <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet-246+%20Days%20since%20Hookshot%20was%20last%20in%20item%20shop!
-ITS%20BACK!!!!!!!!!!
-
-#FortniteParadise-blue)<br>
-  
-  
+  <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
+  Bored... #Monday = New Controller, any recommendations on where to get a reasonable custom PS4 Controller from?… https://t.co/PJ3eIV3ziN
+   
   <br><h2 align="center"> ✨ Rixqi Fortnite Stats ✨</h2><br>
   🏆 Current Level: 62<br>
   🎉 Progress To Next Level: ![](https://geps.dev/progress/6)<br>
@@ -67,5 +64,5 @@ const 2M4U = {
   </p>
 </details>
 
-<!-- Last updated on Fri Oct 21 2022 14:04:09 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Fri 21th Oct 2022 @ 14:04;09 using magic</i>✨
+<!-- Last updated on Fri Oct 21 2022 15:55:30 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Fri 21th Oct 2022 @ 15:55;30 using magic</i>✨
