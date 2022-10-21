@@ -13,8 +13,8 @@
   | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-78-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-211-blue)  |
 
 
-  <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet-246+%20Days since Hookshot was last in item shop!
-ITS BACK!!!!!!!!!!
+  <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet-246+%20Days%20since%20Hookshot%20was%20last%20in%20item%20shop!
+ITS%20BACK!!!!!!!!!!
 
 #FortniteParadise-blue)<br>
   
@@ -67,5 +67,5 @@ const 2M4U = {
   </p>
 </details>
 
-<!-- Last updated on Fri Oct 21 2022 14:03:20 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Fri 21th Oct 2022 @ 14:03;20 using magic</i>✨
+<!-- Last updated on Fri Oct 21 2022 14:04:09 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Fri 21th Oct 2022 @ 14:04;09 using magic</i>✨
