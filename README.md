@@ -10,11 +10,12 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-78-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-212-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-77-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-215-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  Yawn...
+  Really #Fortnite did you actually expect no one to do this? 
+Ironically comic but also sad that there's a populatio… https://t.co/E4D0BUn72x
    
   <br><h2 align="center"> ✨ Rixqi Fortnite Stats ✨</h2><br>
   🏆 Current Level: 62<br>
@@ -64,5 +65,5 @@ const 2M4U = {
   </p>
 </details>
 
-<!-- Last updated on Fri Oct 21 2022 23:55:22 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Fri 21th Oct 2022 @ 23:55;22 using magic</i>✨
+<!-- Last updated on Sat Oct 22 2022 01:22:00 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Sat 22th Oct 2022 @ 01:22;00 using magic</i>✨
