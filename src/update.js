@@ -1,13 +1,44 @@
 const { join } = require("path");
 const fetch = require("node-fetch");
 const { writeFileSync } = require("fs");
-const Twitter = require('twitter');
+const Twitter = require("twitter");
+const days = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+const months = [
+  "Jan",
+  "Feb",
+  "Mar",
+  "Apr",
+  "May",
+  "Jun",
+  "Jul",
+  "Aug",
+  "Sep",
+  "Oct",
+  "Nov",
+  "Dec",
+];
+
+const getDateSuffix = (date) => {
+  if (date >= 10 && date < 20) {
+    return "th";
+  }
+
+  return (
+    {
+      1: "st",
+      2: "nd",
+      3: "rd",
+    }[date % 10] ?? "th"
+  );
+};
+
+const make2Digit = (num) => `0${num}`.slice(-2);
 
 var client = new Twitter({
   consumer_key: process.env.TWITTER_API_KEY,
-  consumer_secret: process.env.TWITTER_SECRET, 
-  access_token_key: process.env.TWITTER_ACCESS_KEY, 
-  access_token_secret: process.env.TWITTER_TOKEN_SECRET, 
+  consumer_secret: process.env.TWITTER_SECRET,
+  access_token_key: process.env.TWITTER_ACCESS_KEY,
+  access_token_secret: process.env.TWITTER_TOKEN_SECRET,
 });
 
 let stars = 0,
@@ -25,12 +56,12 @@ const CountStars = async () => {
 
 const WriteReadMe = async () => {
   const ReadMe = join(__dirname, "..", "README.md");
-  const date = new Date();
-  
-  var params = {screen_name: 'stomperleaks', count: 1};
-  let tweet = await client.get('statuses/user_timeline', params);
-  
-  console.log(tweet)
+  const now = new Date();
+
+  var params = { screen_name: "stomperleaks", count: 1 };
+  let tweet = await client.get("statuses/user_timeline", params);
+
+  console.log(tweet);
 
   let data = await fetch(
     `https://fortnite-api.com/v2/stats/br/v2?name=${process.env.FORTNITE_USERNAME}`,
@@ -40,8 +71,8 @@ const WriteReadMe = async () => {
       },
     }
   ).then((res) => res.json());
-  let UserData = await fetch("https://api.github.com/users/2M4U").then(
-    (res) => res.json()
+  let UserData = await fetch("https://api.github.com/users/2M4U").then((res) =>
+    res.json()
   );
   console.log(UserData);
   const text = `
@@ -56,15 +87,23 @@ const WriteReadMe = async () => {
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-${tweet[0].user.followers_count}-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-${tweet[0].user.friends_count}-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-${
+    tweet[0].user.followers_count
+  }-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-${
+    tweet[0].user.friends_count
+  }-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
   ${tweet[0].text}
    
-  <br><h2 align="center"> ✨ ${process.env.FORTNITE_USERNAME} Fortnite Stats ✨</h2><br>
+  <br><h2 align="center"> ✨ ${
+    process.env.FORTNITE_USERNAME
+  } Fortnite Stats ✨</h2><br>
   🏆 Current Level: ${data.data.battlePass.level}<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/${data.data.battlePass.progress})<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/${
+    data.data.battlePass.progress
+  })<br>
   🎯 Total Kills: ${data.data.stats.all.overall.kills.toLocaleString()}<br>
   💀 Total Deaths: ${data.data.stats.all.overall.deaths.toLocaleString()}<br>
   👑 Total Wins: ${data.data.stats.all.overall.wins.toLocaleString()}<br>
@@ -110,45 +149,12 @@ const 2M4U = {
   </p>
 </details>
 
-<!-- Last updated on ${date.toString()} ;-;-->
-<i>Last updated on  ${[
-      "Sun",
-      "Mon",
-      "Tue",
-      "Wed",
-      "Thu",
-      "Fri",
-      "Sat"
-    ][date.getDay()]} ${date.getDate()}${
-    date.getDate() === 1
-      ? "st"
-      : date.getDate() === 2
-      ? "nd"
-      : date.getDate() === 3
-      ? "rd"
-      : "th"
-  } ${
-    [
-      "Jan",
-      "Feb",
-      "Mar",
-      "Apr",
-      "May",
-      "Jun",
-      "Jul",
-      "Aug",
-      "Sep",
-      "Oct",
-      "Nov",
-      "Dec",
-    ][date.getMonth()]
-  } ${date.getFullYear()} @ ${
-    ("0" + date.getHours()).slice(-2) +
-    ":" +
-    ("0" + date.getMinutes()).slice(-2) +
-    ";" +
-    ("0" + date.getSeconds()).slice(-2)
-  } using magic</i>✨`;
+<!-- Last updated on ${now.toString()} ;-;-->
+<i>Last updated on  ${days[now.getDay()]} ${now.getDate()}${getDateSuffix(
+    now.getDate()
+  )} ${months[now.getMonth()]} @ ${make2Digit(now.getHours())}:${make2Digit(
+    now.getMinutes()
+  )}:${make2Digit(now.getSeconds())} using magic</i>✨`;
   writeFileSync(ReadMe, text);
 };
 
