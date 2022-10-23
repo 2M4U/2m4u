@@ -10,16 +10,15 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-77-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-215-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-77-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-216-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  RT @FortnitePV2: BIGGEST FORTNITE HALLOWEEN GIVEAWAY 🎃
-
-🛑You MUST LIKE &amp; RT &amp; FOLLOW @FortnitePV2 with Notifications ON🛑
-
-REWARDS:
-2 - Wild…
+  DIAMOND PONY
+GAMING LEGENDS SERIES GLIDER
+ 1,200 vbucks
+The majestical, beauteous ruler of the Wonderlands.
+Source:… https://t.co/yEE10KcMH0
    
   <br><h2 align="center"> ✨ Rixqi Fortnite Stats ✨</h2><br>
   🏆 Current Level: 62<br>
@@ -69,5 +68,5 @@ const 2M4U = {
   </p>
 </details>
 
-<!-- Last updated on Sun Oct 23 2022 19:37:26 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Sun 23rd Oct @ 19:37:26 using magic</i>✨
+<!-- Last updated on Sun Oct 23 2022 19:42:14 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Sun 23rd Oct @ 19:42:14 using magic</i>✨
