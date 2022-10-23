@@ -14,7 +14,12 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  RT @FortnitePV2: LIKE &amp; RT IF YOU WOULD BE INTERESTED IN GETTING BLACK ADAM SKIN FROM FORTNITE ITEM SHOP! 🤫 https://t.co/6G91MljOqk
+  RT @FortnitePV2: BIGGEST FORTNITE HALLOWEEN GIVEAWAY 🎃
+
+🛑You MUST LIKE &amp; RT &amp; FOLLOW @FortnitePV2 with Notifications ON🛑
+
+REWARDS:
+2 - Wild…
    
   <br><h2 align="center"> ✨ Rixqi Fortnite Stats ✨</h2><br>
   🏆 Current Level: 62<br>
@@ -64,5 +69,5 @@ const 2M4U = {
   </p>
 </details>
 
-<!-- Last updated on Sun Oct 23 2022 17:18:11 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Sun 23rd Oct @ 17:18:11 using magic</i>✨
+<!-- Last updated on Sun Oct 23 2022 17:38:14 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Sun 23rd Oct @ 17:38:14 using magic</i>✨
