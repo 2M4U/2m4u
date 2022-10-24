@@ -17,21 +17,21 @@
   Check out my broadcast from my PlayStation 4! #PS4live (Fortnite)  live at https://t.co/EMgD0ujjMq
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 112<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/44)<br>
-  🎯 Total Kills: 3,965<br>
-  💀 Total Deaths: 2,831<br>
+  🏆 Current Level: 113<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/56)<br>
+  🎯 Total Kills: 3,969<br>
+  💀 Total Deaths: 2,833<br>
   👑 Total Wins: 143<br>
 
 ```js
 const Fortnite_Stats = {
     Season: {    
-      Current_Level: "112",
-      Progress_To_Next_Level: "44%",
+      Current_Level: "113",
+      Progress_To_Next_Level: "56%",
     },
     Overall: {
-      Total_Kills: "3,965",
-      Total_Deaths: "2,831",
+      Total_Kills: "3,969",
+      Total_Deaths: "2,833",
       Total_Wins: "143",
     }
 }; 
@@ -64,5 +64,5 @@ const 2M4U = {
   </p>
 </details>
 
-<!-- Last updated on Mon Oct 24 2022 22:57:14 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Mon 24th Oct @ 22:57:14 using magic</i>✨
+<!-- Last updated on Mon Oct 24 2022 23:19:27 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Mon 24th Oct @ 23:19:27 using magic</i>✨
