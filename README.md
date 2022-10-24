@@ -14,11 +14,7 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  DIAMOND PONY
-GAMING LEGENDS SERIES GLIDER
- 1,200 vbucks
-The majestical, beauteous ruler of the Wonderlands.
-Source:… https://t.co/yEE10KcMH0
+  #fortnitemares2022 more like #shitemares2022
    
   <br><h2 align="center"> ✨ Rixqi Fortnite Stats ✨</h2><br>
   🏆 Current Level: 62<br>
@@ -68,5 +64,5 @@ const 2M4U = {
   </p>
 </details>
 
-<!-- Last updated on Mon Oct 24 2022 09:19:19 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Mon 24th Oct @ 09:19:19 using magic</i>✨
+<!-- Last updated on Mon Oct 24 2022 10:02:18 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Mon 24th Oct @ 10:02:18 using magic</i>✨
