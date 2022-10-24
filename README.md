@@ -14,7 +14,7 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  #EatHerOut #ToHelpOut Eat Out to HelpOut
+  @jxr lame fags who cant reply daaaaaaaaaaaaaym
    
   <br><h2 align="center"> ✨ Rixqi Fortnite Stats ✨</h2><br>
   🏆 Current Level: 62<br>
@@ -64,5 +64,5 @@ const 2M4U = {
   </p>
 </details>
 
-<!-- Last updated on Mon Oct 24 2022 15:21:53 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Mon 24th Oct @ 15:21:53 using magic</i>✨
+<!-- Last updated on Mon Oct 24 2022 15:29:44 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Mon 24th Oct @ 15:29:44 using magic</i>✨
