@@ -16,23 +16,23 @@
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
   Check out my broadcast from my PlayStation 4! #PS4live (Fortnite)  live at https://t.co/EMgD0ujjMq
    
-  <br><h2 align="center"> ✨ Rixqi Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 62<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/6)<br>
-  🎯 Total Kills: 1,120<br>
-  💀 Total Deaths: 1,164<br>
-  👑 Total Wins: 20<br>
+  <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
+  🏆 Current Level: 112<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/34)<br>
+  🎯 Total Kills: 3,961<br>
+  💀 Total Deaths: 2,829<br>
+  👑 Total Wins: 143<br>
 
 ```js
 const Fortnite_Stats = {
     Season: {    
-      Current_Level: "62",
-      Progress_To_Next_Level: "6%",
+      Current_Level: "112",
+      Progress_To_Next_Level: "34%",
     },
     Overall: {
-      Total_Kills: "1,120",
-      Total_Deaths: "1,164",
-      Total_Wins: "20",
+      Total_Kills: "3,961",
+      Total_Deaths: "2,829",
+      Total_Wins: "143",
     }
 }; 
 ```
@@ -64,5 +64,5 @@ const 2M4U = {
   </p>
 </details>
 
-<!-- Last updated on Mon Oct 24 2022 22:17:34 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Mon 24th Oct @ 22:17:34 using magic</i>✨
+<!-- Last updated on Mon Oct 24 2022 22:37:04 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Mon 24th Oct @ 22:37:04 using magic</i>✨
