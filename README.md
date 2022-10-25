@@ -17,21 +17,21 @@
   [#YourMomGae](https://t.co/Y2eQ9C10O8) live at https://t.co/EMgD0ujjMq
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 115<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/88)<br>
-  🎯 Total Kills: 3,991<br>
-  💀 Total Deaths: 2,847<br>
+  🏆 Current Level: 116<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/19)<br>
+  🎯 Total Kills: 4,003<br>
+  💀 Total Deaths: 2,851<br>
   👑 Total Wins: 143<br>
 
 ```js
 const Fortnite_Stats = {
     Season: {    
-      Current_Level: "115",
-      Progress_To_Next_Level: "88%",
+      Current_Level: "116",
+      Progress_To_Next_Level: "19%",
     },
     Overall: {
-      Total_Kills: "3,991",
-      Total_Deaths: "2,847",
+      Total_Kills: "4,003",
+      Total_Deaths: "2,851",
       Total_Wins: "143",
     }
 }; 
@@ -64,5 +64,5 @@ const 2M4U = {
   </p>
 </details>
 
-<!-- Last updated on Tue Oct 25 2022 19:24:34 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Tue 25th Oct @ 19:24:34 using magic</i>✨
+<!-- Last updated on Tue Oct 25 2022 19:53:40 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Tue 25th Oct @ 19:53:40 using magic</i>✨
