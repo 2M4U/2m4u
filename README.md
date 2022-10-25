@@ -14,7 +14,7 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  #Fortnite #WTF @FortniteGame @EpicGames How the heck you aint gonna say this isnt AIMBOT??????  #PS4share https://t.co/MW2i0asI61
+  @iFireMonkey Someone get him a OVH VPS to host that bot!!!
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
   🏆 Current Level: 116<br>
@@ -64,5 +64,5 @@ const 2M4U = {
   </p>
 </details>
 
-<!-- Last updated on Tue Oct 25 2022 21:27:10 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Tue 25th Oct @ 21:27:10 using magic</i>✨
+<!-- Last updated on Tue Oct 25 2022 21:40:40 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Tue 25th Oct @ 21:40:40 using magic</i>✨
