@@ -14,24 +14,24 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  Check out my broadcast from my PlayStation 4! #PS4live (Fortnite)  live at https://t.co/EMgD0ujjMq
+  [#YourMomGae](https://t.co/Y2eQ9C10O8) live at https://t.co/EMgD0ujjMq
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 113<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/66)<br>
-  🎯 Total Kills: 3,975<br>
-  💀 Total Deaths: 2,834<br>
+  🏆 Current Level: 114<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/87)<br>
+  🎯 Total Kills: 3,979<br>
+  💀 Total Deaths: 2,837<br>
   👑 Total Wins: 143<br>
 
 ```js
 const Fortnite_Stats = {
     Season: {    
-      Current_Level: "113",
-      Progress_To_Next_Level: "66%",
+      Current_Level: "114",
+      Progress_To_Next_Level: "87%",
     },
     Overall: {
-      Total_Kills: "3,975",
-      Total_Deaths: "2,834",
+      Total_Kills: "3,979",
+      Total_Deaths: "2,837",
       Total_Wins: "143",
     }
 }; 
@@ -64,5 +64,5 @@ const 2M4U = {
   </p>
 </details>
 
-<!-- Last updated on Tue Oct 25 2022 16:34:32 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Tue 25th Oct @ 16:34:32 using magic</i>✨
+<!-- Last updated on Tue Oct 25 2022 17:48:15 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Tue 25th Oct @ 17:48:15 using magic</i>✨
