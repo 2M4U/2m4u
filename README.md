@@ -17,21 +17,21 @@
   @JeffryCandelar4 ur dumb u got sniped
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 119<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/93)<br>
-  🎯 Total Kills: 4,084<br>
-  💀 Total Deaths: 2,874<br>
+  🏆 Current Level: 120<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/8)<br>
+  🎯 Total Kills: 4,088<br>
+  💀 Total Deaths: 2,875<br>
   👑 Total Wins: 146<br>
 
 ```js
 const Fortnite_Stats = {
     Season: {    
-      Current_Level: "119",
-      Progress_To_Next_Level: "93%",
+      Current_Level: "120",
+      Progress_To_Next_Level: "8%",
     },
     Overall: {
-      Total_Kills: "4,084",
-      Total_Deaths: "2,874",
+      Total_Kills: "4,088",
+      Total_Deaths: "2,875",
       Total_Wins: "146",
     }
 }; 
@@ -64,5 +64,5 @@ const 2M4U = {
   </p>
 </details>
 
-<!-- Last updated on Wed Oct 26 2022 21:56:55 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Wed 26th Oct @ 21:56:55 using magic</i>✨
+<!-- Last updated on Wed Oct 26 2022 22:18:50 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Wed 26th Oct @ 22:18:50 using magic</i>✨
