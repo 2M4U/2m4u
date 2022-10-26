@@ -14,24 +14,24 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @iFireMonkey Someone get him a OVH VPS to host that bot!!!
+  @JeffryCandelar4 ur dumb u got sniped
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
   🏆 Current Level: 117<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/18)<br>
-  🎯 Total Kills: 4,036<br>
-  💀 Total Deaths: 2,864<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/61)<br>
+  🎯 Total Kills: 4,042<br>
+  💀 Total Deaths: 2,866<br>
   👑 Total Wins: 144<br>
 
 ```js
 const Fortnite_Stats = {
     Season: {    
       Current_Level: "117",
-      Progress_To_Next_Level: "18%",
+      Progress_To_Next_Level: "61%",
     },
     Overall: {
-      Total_Kills: "4,036",
-      Total_Deaths: "2,864",
+      Total_Kills: "4,042",
+      Total_Deaths: "2,866",
       Total_Wins: "144",
     }
 }; 
@@ -64,5 +64,5 @@ const 2M4U = {
   </p>
 </details>
 
-<!-- Last updated on Wed Oct 26 2022 16:51:21 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Wed 26th Oct @ 16:51:21 using magic</i>✨
+<!-- Last updated on Wed Oct 26 2022 17:02:44 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Wed 26th Oct @ 17:02:44 using magic</i>✨
