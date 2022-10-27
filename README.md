@@ -19,8 +19,8 @@
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
   🏆 Current Level: 124<br>
   🎉 Progress To Next Level: ![](https://geps.dev/progress/27)<br>
-  🎯 Total Kills: 4,139<br>
-  💀 Total Deaths: 2,906<br>
+  🎯 Total Kills: 4,144<br>
+  💀 Total Deaths: 2,907<br>
   👑 Total Wins: 148<br>
 
 ```js
@@ -30,8 +30,8 @@ const Fortnite_Stats = {
       Progress_To_Next_Level: "27%",
     },
     Overall: {
-      Total_Kills: "4,139",
-      Total_Deaths: "2,906",
+      Total_Kills: "4,144",
+      Total_Deaths: "2,907",
       Total_Wins: "148",
     }
 }; 
@@ -64,5 +64,5 @@ const 2M4U = {
   </p>
 </details>
 
-<!-- Last updated on Thu Oct 27 2022 19:06:46 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Thu 27th Oct @ 19:06:46 using magic</i>✨
+<!-- Last updated on Thu Oct 27 2022 19:25:43 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Thu 27th Oct @ 19:25:43 using magic</i>✨
