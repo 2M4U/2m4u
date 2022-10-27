@@ -14,7 +14,7 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @JeffryCandelar4 ur dumb u got sniped
+  Cute IMO #FortniteLeaks https://t.co/XNPzHO8qY4
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
   🏆 Current Level: 121<br>
@@ -64,5 +64,5 @@ const 2M4U = {
   </p>
 </details>
 
-<!-- Last updated on Thu Oct 27 2022 14:40:44 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Thu 27th Oct @ 14:40:44 using magic</i>✨
+<!-- Last updated on Thu Oct 27 2022 14:44:06 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Thu 27th Oct @ 14:44:06 using magic</i>✨
