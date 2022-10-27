@@ -14,7 +14,11 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  #UndercoverSweat #Fortnite #FortniteParadise  SemiPro Goes Default Sweat #PS4share https://t.co/BBRaCWDnvN
+  Beware of this user on #Fortnite
+EpicID: RIT2006
+PSN: RIT9
+They are using Aimbot/ESP, how do I know you ask?
+I was… https://t.co/hACwO5yQ3l
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
   🏆 Current Level: 125<br>
@@ -64,5 +68,5 @@ const 2M4U = {
   </p>
 </details>
 
-<!-- Last updated on Thu Oct 27 2022 21:23:18 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Thu 27th Oct @ 21:23:18 using magic</i>✨
+<!-- Last updated on Thu Oct 27 2022 21:37:59 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Thu 27th Oct @ 21:37:59 using magic</i>✨
