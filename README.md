@@ -10,28 +10,28 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-79-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-217-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-78-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-217-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
   #UndercoverSweat #Fortnite #FortniteParadise  SemiPro Goes Default Sweat #PS4share https://t.co/BBRaCWDnvN
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 124<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/94)<br>
-  🎯 Total Kills: 4,156<br>
-  💀 Total Deaths: 2,912<br>
+  🏆 Current Level: 125<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/2)<br>
+  🎯 Total Kills: 4,158<br>
+  💀 Total Deaths: 2,913<br>
   👑 Total Wins: 148<br>
 
 ```js
 const Fortnite_Stats = {
     Season: {    
-      Current_Level: "124",
-      Progress_To_Next_Level: "94%",
+      Current_Level: "125",
+      Progress_To_Next_Level: "2%",
     },
     Overall: {
-      Total_Kills: "4,156",
-      Total_Deaths: "2,912",
+      Total_Kills: "4,158",
+      Total_Deaths: "2,913",
       Total_Wins: "148",
     }
 }; 
@@ -64,5 +64,5 @@ const 2M4U = {
   </p>
 </details>
 
-<!-- Last updated on Thu Oct 27 2022 20:59:35 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Thu 27th Oct @ 20:59:35 using magic</i>✨
+<!-- Last updated on Thu Oct 27 2022 21:23:18 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Thu 27th Oct @ 21:23:18 using magic</i>✨
