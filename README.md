@@ -10,11 +10,11 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-78-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-217-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-79-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-217-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  # Fortnite #BrokenGUI Cant access archived cosmetics @EpicGames @FortniteGame @iFireMonkey #PS4share https://t.co/6BQIQyD1FG
+  #UndercoverSweat #Fortnite #FortniteParadise  SemiPro Goes Default Sweat #PS4share https://t.co/BBRaCWDnvN
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
   🏆 Current Level: 123<br>
@@ -64,5 +64,5 @@ const 2M4U = {
   </p>
 </details>
 
-<!-- Last updated on Thu Oct 27 2022 16:56:45 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Thu 27th Oct @ 16:56:45 using magic</i>✨
+<!-- Last updated on Thu Oct 27 2022 17:14:46 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Thu 27th Oct @ 17:14:46 using magic</i>✨
