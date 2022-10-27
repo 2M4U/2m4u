@@ -20,7 +20,7 @@
   🏆 Current Level: 122<br>
   🎉 Progress To Next Level: ![](https://geps.dev/progress/57)<br>
   🎯 Total Kills: 4,122<br>
-  💀 Total Deaths: 2,899<br>
+  💀 Total Deaths: 2,900<br>
   👑 Total Wins: 146<br>
 
 ```js
@@ -31,7 +31,7 @@ const Fortnite_Stats = {
     },
     Overall: {
       Total_Kills: "4,122",
-      Total_Deaths: "2,899",
+      Total_Deaths: "2,900",
       Total_Wins: "146",
     }
 }; 
@@ -64,5 +64,5 @@ const 2M4U = {
   </p>
 </details>
 
-<!-- Last updated on Thu Oct 27 2022 15:17:30 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Thu 27th Oct @ 15:17:30 using magic</i>✨
+<!-- Last updated on Thu Oct 27 2022 15:39:26 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Thu 27th Oct @ 15:39:26 using magic</i>✨
