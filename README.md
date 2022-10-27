@@ -10,7 +10,7 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-78-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-217-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-79-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-217-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
@@ -18,20 +18,20 @@
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
   🏆 Current Level: 124<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/79)<br>
-  🎯 Total Kills: 4,149<br>
-  💀 Total Deaths: 2,910<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/89)<br>
+  🎯 Total Kills: 4,155<br>
+  💀 Total Deaths: 2,911<br>
   👑 Total Wins: 148<br>
 
 ```js
 const Fortnite_Stats = {
     Season: {    
       Current_Level: "124",
-      Progress_To_Next_Level: "79%",
+      Progress_To_Next_Level: "89%",
     },
     Overall: {
-      Total_Kills: "4,149",
-      Total_Deaths: "2,910",
+      Total_Kills: "4,155",
+      Total_Deaths: "2,911",
       Total_Wins: "148",
     }
 }; 
@@ -64,5 +64,5 @@ const 2M4U = {
   </p>
 </details>
 
-<!-- Last updated on Thu Oct 27 2022 20:17:25 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Thu 27th Oct @ 20:17:25 using magic</i>✨
+<!-- Last updated on Thu Oct 27 2022 20:37:39 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Thu 27th Oct @ 20:37:39 using magic</i>✨
