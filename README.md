@@ -10,29 +10,29 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-79-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-217-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-78-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-217-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
   # Fortnite #BrokenGUI Cant access archived cosmetics @EpicGames @FortniteGame @iFireMonkey #PS4share https://t.co/6BQIQyD1FG
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 122<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/83)<br>
-  🎯 Total Kills: 4,123<br>
-  💀 Total Deaths: 2,902<br>
-  👑 Total Wins: 146<br>
+  🏆 Current Level: 123<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/7)<br>
+  🎯 Total Kills: 4,134<br>
+  💀 Total Deaths: 2,903<br>
+  👑 Total Wins: 147<br>
 
 ```js
 const Fortnite_Stats = {
     Season: {    
-      Current_Level: "122",
-      Progress_To_Next_Level: "83%",
+      Current_Level: "123",
+      Progress_To_Next_Level: "7%",
     },
     Overall: {
-      Total_Kills: "4,123",
-      Total_Deaths: "2,902",
-      Total_Wins: "146",
+      Total_Kills: "4,134",
+      Total_Deaths: "2,903",
+      Total_Wins: "147",
     }
 }; 
 ```
@@ -64,5 +64,5 @@ const 2M4U = {
   </p>
 </details>
 
-<!-- Last updated on Thu Oct 27 2022 16:18:33 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Thu 27th Oct @ 16:18:33 using magic</i>✨
+<!-- Last updated on Thu Oct 27 2022 16:51:10 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Thu 27th Oct @ 16:51:10 using magic</i>✨
