@@ -22,20 +22,20 @@ I was… https://t.co/hACwO5yQ3l
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
   🏆 Current Level: 125<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/24)<br>
-  🎯 Total Kills: 4,164<br>
-  💀 Total Deaths: 2,915<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/37)<br>
+  🎯 Total Kills: 4,166<br>
+  💀 Total Deaths: 2,916<br>
   👑 Total Wins: 148<br>
 
 ```js
 const Fortnite_Stats = {
     Season: {    
       Current_Level: "125",
-      Progress_To_Next_Level: "24%",
+      Progress_To_Next_Level: "37%",
     },
     Overall: {
-      Total_Kills: "4,164",
-      Total_Deaths: "2,915",
+      Total_Kills: "4,166",
+      Total_Deaths: "2,916",
       Total_Wins: "148",
     }
 }; 
@@ -68,5 +68,5 @@ const 2M4U = {
   </p>
 </details>
 
-<!-- Last updated on Thu Oct 27 2022 22:39:17 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Thu 27th Oct @ 22:39:17 using magic</i>✨
+<!-- Last updated on Thu Oct 27 2022 22:50:30 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Thu 27th Oct @ 22:50:30 using magic</i>✨
