@@ -206,6 +206,12 @@ const 2M4U = {
     <img src="https://github-readme-stats.vercel.app/api?username=2M4U&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true">
   </p>
 </details>
+<br><h2 align="center"> ✨ Contributors & Credits ✨</h2><br>
+<details>
+  <summary>
+      Fortnite Stats - Credit: <a href="https://fortnite-api.com/?utm_source=github.com/2M4U/2M4U">Fortnite-API.com</a>
+  </summary>
+</details>
 
 <!-- Last updated on ${now.toString()} ;-;-->
 <i>Last updated on  ${days[now.getDay()]} ${now.getDate()}${getDateSuffix(
