@@ -18,36 +18,36 @@
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
   🏆 Current Level: 128<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/8)<br>
-  🎯 Total Kills: 4,212<br>
-  💀 Total Deaths: 2,940<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/18)<br>
+  🎯 Total Kills: 4,215<br>
+  💀 Total Deaths: 2,941<br>
   👑 Total Wins: 148<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
       Level: "128",
-      Progress: "8%",    
+      Progress: "18%",    
     }
     Season: { 
        Win_Ratio: "3.79%",
        KD_Ratio: "2.04%",
        Kills_Per_Match: "1.97%",
-       Total_Matches: "791",
-       Total_Kills: "1,554",
-       Total_Deaths: "761",
+       Total_Matches: "792",
+       Total_Kills: "1,557",
+       Total_Deaths: "762",
        Total_Wins: "30",
-       Outlived_Players: "46,957"
+       Outlived_Players: "47,031"
     },
     Lifetime: {
       Win_Ratio: "4.79%",
       KD_Ratio: "1.43%",
       Kills_Per_Match: "1.36%",
-      Total_Matches: "3,088",
-      Total_Kills: "4,212",
-      Total_Deaths: "2,940",
+      Total_Matches: "3,089",
+      Total_Kills: "4,215",
+      Total_Deaths: "2,941",
       Total_Wins: "148",
-      Outlived_Players: "190,808"
+      Outlived_Players: "190,882"
       },
     }
 }; 
@@ -86,5 +86,5 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Fri Oct 28 2022 22:47:49 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Fri 28th Oct @ 22:47:49 using magic</i>✨
+<!-- Last updated on Fri Oct 28 2022 22:56:57 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Fri 28th Oct @ 22:56:57 using magic</i>✨
