@@ -71,6 +71,14 @@ const WriteReadMe = async () => {
       },
     }
   ).then((res) => res.json());
+  let season = await fetch(
+    `https://fortnite-api.com/v2/stats/br/v2?name=${process.env.FORTNITE_USERNAME}&timeWindow=season`,
+    {
+      headers: {
+        Authorization: process.env.API_SECRET,
+      },
+    }
+  ).then((res) => res.json());
   let UserData = await fetch("https://api.github.com/users/2M4U").then((res) =>
     res.json()
   );
@@ -110,11 +118,24 @@ const WriteReadMe = async () => {
 
 \`\`\`js
 const Fortnite_Stats = {
-    Season: {    
+    Battlepass: {
       Current_Level: "${data.data.battlePass.level}",
       Progress_To_Next_Level: "${data.data.battlePass.progress}%",
+    }
+    Season: { 
+       Win_Ratio: "${season.data.stats.all.overall.win_rate.toFixed(3)}%",
+       KD_Ratio: "${season.data.stats.all.overall.kd.toFixed(3)}%",
+       Kills_Per_Match: "${season.data.stats.all.overall.killsPerMatch.toFixed(3)}%",
+       Total_Matches: "${season.data.stats.all.overall.matches.toLocaleString()}",
+       Total_Kills: "${season.data.stats.all.overall.kills.toLocaleString()}",
+       Total_Deaths: "${season.data.stats.all.overall.deaths.toLocaleString()}",
+       Total_Wins: "${season.data.stats.all.overall.wins.toLocaleString()}",
     },
-    Overall: {
+    Lifetime: {
+      Win_Ratio: "${data.data.stats.all.overall.win_rate.toFixed(3)}%",
+      KD_Ratio: "${data.data.stats.all.overall.kd.toFixed(3)}%",
+      Kills_Per_Match: "${data.data.stats.all.overall.killsPerMatch.toFixed(3)}%",
+      Total_Matches: "${data.data.stats.all.overall.matches.toLocaleString()}",
       Total_Kills: "${data.data.stats.all.overall.kills.toLocaleString()}",
       Total_Deaths: "${data.data.stats.all.overall.deaths.toLocaleString()}",
       Total_Wins: "${data.data.stats.all.overall.wins.toLocaleString()}",
