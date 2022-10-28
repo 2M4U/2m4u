@@ -10,44 +10,44 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-80-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-217-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-79-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-217-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
   Vivica Saint Quests are not registering for some players, this has been confirmed by @EpicGames to be a Visual Bug… https://t.co/XxrWqNYuap
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 127<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/98)<br>
-  🎯 Total Kills: 4,206<br>
-  💀 Total Deaths: 2,939<br>
+  🏆 Current Level: 128<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/8)<br>
+  🎯 Total Kills: 4,212<br>
+  💀 Total Deaths: 2,940<br>
   👑 Total Wins: 148<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
-      Level: "127",
-      Progress: "98%",    
+      Level: "128",
+      Progress: "8%",    
     }
     Season: { 
-       Win_Ratio: "3.80%",
+       Win_Ratio: "3.79%",
        KD_Ratio: "2.04%",
-       Kills_Per_Match: "1.96%",
-       Total_Matches: "790",
-       Total_Kills: "1,548",
-       Total_Deaths: "760",
+       Kills_Per_Match: "1.97%",
+       Total_Matches: "791",
+       Total_Kills: "1,554",
+       Total_Deaths: "761",
        Total_Wins: "30",
-       Outlived_Players: "46,861"
+       Outlived_Players: "46,957"
     },
     Lifetime: {
       Win_Ratio: "4.79%",
       KD_Ratio: "1.43%",
       Kills_Per_Match: "1.36%",
-      Total_Matches: "3,087",
-      Total_Kills: "4,206",
-      Total_Deaths: "2,939",
+      Total_Matches: "3,088",
+      Total_Kills: "4,212",
+      Total_Deaths: "2,940",
       Total_Wins: "148",
-      Outlived_Players: "190,712"
+      Outlived_Players: "190,808"
       },
     }
 }; 
@@ -86,5 +86,5 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Fri Oct 28 2022 22:32:42 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Fri 28th Oct @ 22:32:42 using magic</i>✨
+<!-- Last updated on Fri Oct 28 2022 22:47:49 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Fri 28th Oct @ 22:47:49 using magic</i>✨
