@@ -10,29 +10,45 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-78-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-217-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-80-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-217-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
   Vivica Saint Quests are not registering for some players, this has been confirmed by @EpicGames to be a Visual Bug… https://t.co/XxrWqNYuap
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 125<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/89)<br>
-  🎯 Total Kills: 4,178<br>
-  💀 Total Deaths: 2,923<br>
+  🏆 Current Level: 126<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/92)<br>
+  🎯 Total Kills: 4,193<br>
+  💀 Total Deaths: 2,931<br>
   👑 Total Wins: 148<br>
 
 ```js
 const Fortnite_Stats = {
-    Season: {    
-      Current_Level: "125",
-      Progress_To_Next_Level: "89%",
+    Battlepass: {
+      Level: "126",
+      Progress: "92%",    
+    }
+    Season: { 
+       Win_Ratio: "3.84%",
+       KD_Ratio: "2.04%",
+       Kills_Per_Match: "1.96%",
+       Total_Matches: "782",
+       Total_Kills: "1,535",
+       Total_Deaths: "752",
+       Total_Wins: "30",
+       Outlived_Players: "46,226"
     },
-    Overall: {
-      Total_Kills: "4,178",
-      Total_Deaths: "2,923",
+    Lifetime: {
+      Win_Ratio: "4.81%",
+      KD_Ratio: "1.43%",
+      Kills_Per_Match: "1.36%",
+      Total_Matches: "3,079",
+      Total_Kills: "4,193",
+      Total_Deaths: "2,931",
       Total_Wins: "148",
+      Outlived_Players: "190,077"
+      },
     }
 }; 
 ```
@@ -64,5 +80,5 @@ const 2M4U = {
   </p>
 </details>
 
-<!-- Last updated on Fri Oct 28 2022 16:29:41 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Fri 28th Oct @ 16:29:41 using magic</i>✨
+<!-- Last updated on Fri Oct 28 2022 20:22:01 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Fri 28th Oct @ 20:22:01 using magic</i>✨
