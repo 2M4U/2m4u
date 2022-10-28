@@ -17,37 +17,37 @@
   Vivica Saint Quests are not registering for some players, this has been confirmed by @EpicGames to be a Visual Bug… https://t.co/XxrWqNYuap
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 126<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/97)<br>
-  🎯 Total Kills: 4,194<br>
-  💀 Total Deaths: 2,932<br>
+  🏆 Current Level: 127<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/7)<br>
+  🎯 Total Kills: 4,198<br>
+  💀 Total Deaths: 2,933<br>
   👑 Total Wins: 148<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
-      Level: "126",
-      Progress: "97%",    
+      Level: "127",
+      Progress: "7%",    
     }
     Season: { 
        Win_Ratio: "3.83%",
        KD_Ratio: "2.04%",
        Kills_Per_Match: "1.96%",
-       Total_Matches: "783",
-       Total_Kills: "1,536",
-       Total_Deaths: "753",
+       Total_Matches: "784",
+       Total_Kills: "1,540",
+       Total_Deaths: "754",
        Total_Wins: "30",
-       Outlived_Players: "46,297"
+       Outlived_Players: "46,394"
     },
     Lifetime: {
       Win_Ratio: "4.80%",
       KD_Ratio: "1.43%",
       Kills_Per_Match: "1.36%",
-      Total_Matches: "3,080",
-      Total_Kills: "4,194",
-      Total_Deaths: "2,932",
+      Total_Matches: "3,081",
+      Total_Kills: "4,198",
+      Total_Deaths: "2,933",
       Total_Wins: "148",
-      Outlived_Players: "190,148"
+      Outlived_Players: "190,245"
       },
     }
 }; 
@@ -80,5 +80,5 @@ const 2M4U = {
   </p>
 </details>
 
-<!-- Last updated on Fri Oct 28 2022 20:40:17 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Fri 28th Oct @ 20:40:17 using magic</i>✨
+<!-- Last updated on Fri Oct 28 2022 20:52:21 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Fri 28th Oct @ 20:52:21 using magic</i>✨
