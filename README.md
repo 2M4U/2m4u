@@ -10,7 +10,7 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-80-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-217-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-79-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-217-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
@@ -18,36 +18,36 @@
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
   🏆 Current Level: 127<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/7)<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/32)<br>
   🎯 Total Kills: 4,198<br>
-  💀 Total Deaths: 2,933<br>
+  💀 Total Deaths: 2,934<br>
   👑 Total Wins: 148<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
       Level: "127",
-      Progress: "7%",    
+      Progress: "32%",    
     }
     Season: { 
-       Win_Ratio: "3.83%",
+       Win_Ratio: "3.82%",
        KD_Ratio: "2.04%",
        Kills_Per_Match: "1.96%",
-       Total_Matches: "784",
+       Total_Matches: "785",
        Total_Kills: "1,540",
-       Total_Deaths: "754",
+       Total_Deaths: "755",
        Total_Wins: "30",
-       Outlived_Players: "46,394"
+       Outlived_Players: "46,468"
     },
     Lifetime: {
       Win_Ratio: "4.80%",
       KD_Ratio: "1.43%",
       Kills_Per_Match: "1.36%",
-      Total_Matches: "3,081",
+      Total_Matches: "3,082",
       Total_Kills: "4,198",
-      Total_Deaths: "2,933",
+      Total_Deaths: "2,934",
       Total_Wins: "148",
-      Outlived_Players: "190,245"
+      Outlived_Players: "190,319"
       },
     }
 }; 
@@ -79,6 +79,12 @@ const 2M4U = {
     <img src="https://github-readme-stats.vercel.app/api?username=2M4U&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true">
   </p>
 </details>
+<br><h2 align="center"> ✨ Contributors & Credits ✨</h2><br>
+<details>
+  <summary>
+      Fortnite Stats - Credit: <a href="https://fortnite-api.com/?utm_source=github.com/2M4U/2M4U">Fortnite-API.com</a>
+  </summary>
+</details>
 
-<!-- Last updated on Fri Oct 28 2022 20:52:21 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Fri 28th Oct @ 20:52:21 using magic</i>✨
+<!-- Last updated on Fri Oct 28 2022 21:07:43 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Fri 28th Oct @ 21:07:43 using magic</i>✨
