@@ -79,6 +79,40 @@ const WriteReadMe = async () => {
       },
     }
   ).then((res) => res.json());
+  let struct = {
+    Battlepass: {
+      Level: `${data.data.battlePass.level}`,
+      Progress: `${data.data.battlePass.progress}%`,
+    },
+    Season: {
+      Win_Ratio: `${season.data.stats.all.overall.winRate.toFixed(2)}%`,
+      KD_Ratio: `${season.data.stats.all.overall.kd.toFixed(2)}%`,
+      Kills_Per_Match: `${season.data.stats.all.overall.killsPerMatch.toFixed(
+        2
+      )}%`,
+      Total_Matches: `${season.data.stats.all.overall.matches.toLocaleString()}`,
+      Total_Kills: `${season.data.stats.all.overall.kills.toLocaleString()}`,
+      Total_Deaths: `${season.data.stats.all.overall.deaths.toLocaleString()}`,
+      Total_Wins: `${season.data.stats.all.overall.wins.toLocaleString()}`,
+      Outlived: {
+        Players: `${season.data.stats.all.overall.playersOutlived.toLocaleString()}`,
+      },
+    },
+    Lifetime: {
+      Win_Ratio: `${data.data.stats.all.overall.winRate.toFixed(2)}%`,
+      KD_Ratio: `${data.data.stats.all.overall.kd.toFixed(2)}%`,
+      Kills_Per_Match: `${data.data.stats.all.overall.killsPerMatch.toFixed(
+        2
+      )}%`,
+      Total_Matches: `${data.data.stats.all.overall.matches.toLocaleString()}`,
+      Total_Kills: `${data.data.stats.all.overall.kills.toLocaleString()}`,
+      Total_Deaths: `${data.data.stats.all.overall.deaths.toLocaleString()}`,
+      Total_Wins: `${data.data.stats.all.overall.wins.toLocaleString()}`,
+      Outlived: {
+        Players: `${data.data.stats.all.overall.playersOutlived.toLocaleString()}`,
+      },
+    },
+  };
   let UserData = await fetch("https://api.github.com/users/2M4U").then((res) =>
     res.json()
   );
@@ -119,26 +153,29 @@ const WriteReadMe = async () => {
 \`\`\`js
 const Fortnite_Stats = {
     Battlepass: {
-      Current_Level: "${data.data.battlePass.level}",
-      Progress_To_Next_Level: "${data.data.battlePass.progress}%",
+      Level: "${struct.Battlepass.Level}",
+      Progress: "${struct.Battlepass.Progress}",    
     }
     Season: { 
-       Win_Ratio: "${season.data.stats.all.overall.win_rate.toFixed(3)}%",
-       KD_Ratio: "${season.data.stats.all.overall.kd.toFixed(3)}%",
-       Kills_Per_Match: "${season.data.stats.all.overall.killsPerMatch.toFixed(3)}%",
-       Total_Matches: "${season.data.stats.all.overall.matches.toLocaleString()}",
-       Total_Kills: "${season.data.stats.all.overall.kills.toLocaleString()}",
-       Total_Deaths: "${season.data.stats.all.overall.deaths.toLocaleString()}",
-       Total_Wins: "${season.data.stats.all.overall.wins.toLocaleString()}",
+       Win_Ratio: "${struct.Season.Win_Ratio}",
+       KD_Ratio: "${struct.Season.KD_Ratio}",
+       Kills_Per_Match: "${struct.Season.Kills_Per_Match}",
+       Total_Matches: "${struct.Season.Total_Matches}",
+       Total_Kills: "${struct.Season.Total_Kills}",
+       Total_Deaths: "${struct.Season.Total_Deaths}",
+       Total_Wins: "${struct.Season.Total_Wins}",
+       Outlived_Players: "${struct.Season.Outlived.Players}"
     },
     Lifetime: {
-      Win_Ratio: "${data.data.stats.all.overall.win_rate.toFixed(3)}%",
-      KD_Ratio: "${data.data.stats.all.overall.kd.toFixed(3)}%",
-      Kills_Per_Match: "${data.data.stats.all.overall.killsPerMatch.toFixed(3)}%",
-      Total_Matches: "${data.data.stats.all.overall.matches.toLocaleString()}",
-      Total_Kills: "${data.data.stats.all.overall.kills.toLocaleString()}",
-      Total_Deaths: "${data.data.stats.all.overall.deaths.toLocaleString()}",
-      Total_Wins: "${data.data.stats.all.overall.wins.toLocaleString()}",
+      Win_Ratio: "${struct.Lifetime.Win_Ratio}",
+      KD_Ratio: "${struct.Lifetime.KD_Ratio}",
+      Kills_Per_Match: "${struct.Lifetime.Kills_Per_Match}",
+      Total_Matches: "${struct.Lifetime.Total_Matches}",
+      Total_Kills: "${struct.Lifetime.Total_Kills}",
+      Total_Deaths: "${struct.Lifetime.Total_Deaths}",
+      Total_Wins: "${struct.Lifetime.Total_Wins}",
+      Outlived_Players: "${struct.Lifetime.Outlived.Players}"
+      },
     }
 }; 
 \`\`\`
