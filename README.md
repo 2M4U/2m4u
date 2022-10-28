@@ -10,32 +10,28 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-80-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-216-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-80-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-217-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  Beware of this user on #Fortnite
-EpicID: RIT2006
-PSN: RIT9
-They are using Aimbot/ESP, how do I know you ask?
-I was… https://t.co/hACwO5yQ3l
+  Vivica Saint Quests are not registering for some players, this has been confirmed by @EpicGames to be a Visual Bug… https://t.co/XxrWqNYuap
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
   🏆 Current Level: 125<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/60)<br>
-  🎯 Total Kills: 4,169<br>
-  💀 Total Deaths: 2,918<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/86)<br>
+  🎯 Total Kills: 4,176<br>
+  💀 Total Deaths: 2,921<br>
   👑 Total Wins: 148<br>
 
 ```js
 const Fortnite_Stats = {
     Season: {    
       Current_Level: "125",
-      Progress_To_Next_Level: "60%",
+      Progress_To_Next_Level: "86%",
     },
     Overall: {
-      Total_Kills: "4,169",
-      Total_Deaths: "2,918",
+      Total_Kills: "4,176",
+      Total_Deaths: "2,921",
       Total_Wins: "148",
     }
 }; 
@@ -68,5 +64,5 @@ const 2M4U = {
   </p>
 </details>
 
-<!-- Last updated on Thu Oct 27 2022 23:57:53 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Thu 27th Oct @ 23:57:53 using magic</i>✨
+<!-- Last updated on Fri Oct 28 2022 02:18:08 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Fri 28th Oct @ 02:18:08 using magic</i>✨
