@@ -210,6 +210,7 @@ const 2M4U = {
 <details>
   <summary>
       Fortnite Stats - Credit: <a href="https://fortnite-api.com/?utm_source=github.com/2M4U/2M4U">Fortnite-API.com</a>
+      Code of Conduct - Credit: <a href="https://github.com/Akshun-01">Akshun-01</a>
   </summary>
 </details>
 
