@@ -83,8 +83,9 @@ const 2M4U = {
 <details>
   <summary>
       Fortnite Stats - Credit: <a href="https://fortnite-api.com/?utm_source=github.com/2M4U/2M4U">Fortnite-API.com</a>
+      Code of Conduct - Credit: <a href="https://github.com/Akshun-01">Akshun-01</a>
   </summary>
 </details>
 
-<!-- Last updated on Sat Oct 29 2022 17:43:14 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Sat 29th Oct @ 17:43:14 using magic</i>✨
+<!-- Last updated on Sat Oct 29 2022 19:07:51 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Sat 29th Oct @ 19:07:51 using magic</i>✨
