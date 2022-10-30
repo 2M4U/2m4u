@@ -10,17 +10,18 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-78-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-217-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-79-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-217-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  Nice Supply Drop @EpicGames @FortniteGame https://t.co/0PuQCqTIaL
+  EpicGames/Fortnite need to make this skin a reality!
+#Fortnite #FortniteChrome #FortniteParadise #FortniteLeaks https://t.co/vBbQqpRioc
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
   🏆 Current Level: 128<br>
   🎉 Progress To Next Level: ![](https://geps.dev/progress/37)<br>
   🎯 Total Kills: 4,217<br>
-  💀 Total Deaths: 2,941<br>
+  💀 Total Deaths: 2,942<br>
   👑 Total Wins: 149<br>
 
 ```js
@@ -30,12 +31,12 @@ const Fortnite_Stats = {
       Progress: "37%",    
     }
     Season: { 
-       Win_Ratio: "3.91%",
-       KD_Ratio: "2.05%",
-       Kills_Per_Match: "1.97%",
-       Total_Matches: "793",
+       Win_Ratio: "3.90%",
+       KD_Ratio: "2.04%",
+       Kills_Per_Match: "1.96%",
+       Total_Matches: "794",
        Total_Kills: "1,559",
-       Total_Deaths: "762",
+       Total_Deaths: "763",
        Total_Wins: "31",
        Outlived_Players: "47,128"
     },
@@ -43,9 +44,9 @@ const Fortnite_Stats = {
       Win_Ratio: "4.82%",
       KD_Ratio: "1.43%",
       Kills_Per_Match: "1.36%",
-      Total_Matches: "3,090",
+      Total_Matches: "3,091",
       Total_Kills: "4,217",
-      Total_Deaths: "2,941",
+      Total_Deaths: "2,942",
       Total_Wins: "149",
       Outlived_Players: "190,979"
       },
@@ -87,5 +88,5 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Sun Oct 30 2022 17:58:22 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Sun 30th Oct @ 17:58:22 using magic</i>✨
+<!-- Last updated on Sun Oct 30 2022 18:29:13 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Sun 30th Oct @ 18:29:13 using magic</i>✨
