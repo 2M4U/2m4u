@@ -10,7 +10,7 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-78-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-218-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-79-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-218-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
@@ -18,36 +18,36 @@
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
   🏆 Current Level: 129<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/19)<br>
-  🎯 Total Kills: 4,228<br>
-  💀 Total Deaths: 2,948<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/73)<br>
+  🎯 Total Kills: 4,232<br>
+  💀 Total Deaths: 2,951<br>
   👑 Total Wins: 150<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
       Level: "129",
-      Progress: "19%",    
+      Progress: "73%",    
     }
     Season: { 
-       Win_Ratio: "4.00%",
+       Win_Ratio: "3.98%",
        KD_Ratio: "2.04%",
        Kills_Per_Match: "1.96%",
-       Total_Matches: "801",
-       Total_Kills: "1,570",
-       Total_Deaths: "769",
+       Total_Matches: "804",
+       Total_Kills: "1,574",
+       Total_Deaths: "772",
        Total_Wins: "32",
-       Outlived_Players: "47,504"
+       Outlived_Players: "47,669"
     },
     Lifetime: {
       Win_Ratio: "4.84%",
       KD_Ratio: "1.43%",
       Kills_Per_Match: "1.36%",
-      Total_Matches: "3,098",
-      Total_Kills: "4,228",
-      Total_Deaths: "2,948",
+      Total_Matches: "3,101",
+      Total_Kills: "4,232",
+      Total_Deaths: "2,951",
       Total_Wins: "150",
-      Outlived_Players: "191,355"
+      Outlived_Players: "191,520"
       },
     }
 }; 
@@ -87,5 +87,5 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Sun Oct 30 2022 20:59:48 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Sun 30th Oct @ 20:59:48 using magic</i>✨
+<!-- Last updated on Sun Oct 30 2022 21:23:11 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Sun 30th Oct @ 21:23:11 using magic</i>✨
