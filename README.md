@@ -14,7 +14,7 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  Vivica Saint Quests are not registering for some players, this has been confirmed by @EpicGames to be a Visual Bug… https://t.co/XxrWqNYuap
+  Nice Supply Drop @EpicGames @FortniteGame https://t.co/0PuQCqTIaL
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
   🏆 Current Level: 128<br>
@@ -87,5 +87,5 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Sun Oct 30 2022 16:42:47 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Sun 30th Oct @ 16:42:47 using magic</i>✨
+<!-- Last updated on Sun Oct 30 2022 17:48:58 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Sun 30th Oct @ 17:48:58 using magic</i>✨
