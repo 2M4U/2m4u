@@ -10,45 +10,44 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-79-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-217-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-78-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-218-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  EpicGames/Fortnite need to make this skin a reality!
-#Fortnite #FortniteChrome #FortniteParadise #FortniteLeaks https://t.co/vBbQqpRioc
+  @TalbertSwan Most racial status I've ever did saw, no one truly knows whether our Lord and Saviour was of colour or… https://t.co/DDfyZq99N6
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 128<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/37)<br>
-  🎯 Total Kills: 4,217<br>
-  💀 Total Deaths: 2,942<br>
-  👑 Total Wins: 149<br>
+  🏆 Current Level: 129<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/19)<br>
+  🎯 Total Kills: 4,228<br>
+  💀 Total Deaths: 2,948<br>
+  👑 Total Wins: 150<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
-      Level: "128",
-      Progress: "37%",    
+      Level: "129",
+      Progress: "19%",    
     }
     Season: { 
-       Win_Ratio: "3.90%",
+       Win_Ratio: "4.00%",
        KD_Ratio: "2.04%",
        Kills_Per_Match: "1.96%",
-       Total_Matches: "794",
-       Total_Kills: "1,559",
-       Total_Deaths: "763",
-       Total_Wins: "31",
-       Outlived_Players: "47,128"
+       Total_Matches: "801",
+       Total_Kills: "1,570",
+       Total_Deaths: "769",
+       Total_Wins: "32",
+       Outlived_Players: "47,504"
     },
     Lifetime: {
-      Win_Ratio: "4.82%",
+      Win_Ratio: "4.84%",
       KD_Ratio: "1.43%",
       Kills_Per_Match: "1.36%",
-      Total_Matches: "3,091",
-      Total_Kills: "4,217",
-      Total_Deaths: "2,942",
-      Total_Wins: "149",
-      Outlived_Players: "190,979"
+      Total_Matches: "3,098",
+      Total_Kills: "4,228",
+      Total_Deaths: "2,948",
+      Total_Wins: "150",
+      Outlived_Players: "191,355"
       },
     }
 }; 
@@ -88,5 +87,5 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Sun Oct 30 2022 18:29:13 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Sun 30th Oct @ 18:29:13 using magic</i>✨
+<!-- Last updated on Sun Oct 30 2022 19:58:17 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Sun 30th Oct @ 19:58:17 using magic</i>✨
