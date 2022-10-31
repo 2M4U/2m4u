@@ -17,35 +17,35 @@
   @TalbertSwan Most racial status I've ever did saw, no one truly knows whether our Lord and Saviour was of colour or… https://t.co/DDfyZq99N6
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 131<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/13)<br>
-  🎯 Total Kills: 4,246<br>
-  💀 Total Deaths: 2,956<br>
+  🏆 Current Level: 132<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/14)<br>
+  🎯 Total Kills: 4,282<br>
+  💀 Total Deaths: 2,958<br>
   👑 Total Wins: 152<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
-      Level: "131",
-      Progress: "13%",    
+      Level: "132",
+      Progress: "14%",    
     }
     Season: { 
-       Win_Ratio: "4.19%",
-       KD_Ratio: "2.04%",
-       Kills_Per_Match: "1.96%",
-       Total_Matches: "811",
-       Total_Kills: "1,588",
-       Total_Deaths: "777",
+       Win_Ratio: "4.18%",
+       KD_Ratio: "2.08%",
+       Kills_Per_Match: "2.00%",
+       Total_Matches: "813",
+       Total_Kills: "1,624",
+       Total_Deaths: "779",
        Total_Wins: "34",
        Outlived_Players: "48,255"
     },
     Lifetime: {
       Win_Ratio: "4.89%",
-      KD_Ratio: "1.44%",
-      Kills_Per_Match: "1.37%",
-      Total_Matches: "3,108",
-      Total_Kills: "4,246",
-      Total_Deaths: "2,956",
+      KD_Ratio: "1.45%",
+      Kills_Per_Match: "1.38%",
+      Total_Matches: "3,110",
+      Total_Kills: "4,282",
+      Total_Deaths: "2,958",
       Total_Wins: "152",
       Outlived_Players: "192,106"
       },
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Mon Oct 31 2022 23:46:31 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Mon 31st Oct @ 23:46:31 using magic<br>
-Script Optimization; RAM Usage: 14.64</i>✨
+<!-- Last updated on Mon Oct 31 2022 23:56:57 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Mon 31st Oct @ 23:56:57 using magic<br>
+Script Optimization; RAM Usage: 14.65</i>✨
