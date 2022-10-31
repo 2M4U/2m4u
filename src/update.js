@@ -116,6 +116,7 @@ const WriteReadMe = async () => {
   let UserData = await fetch("https://api.github.com/users/2M4U").then((res) =>
     res.json()
   );
+  let ram = process.memoryUsage().heapUsed / 1024 / 1024;
   console.log(UserData);
   const text = `
   ![Header](./src/github-banner.png)
@@ -219,7 +220,8 @@ const 2M4U = {
     now.getDate()
   )} ${months[now.getMonth()]} @ ${make2Digit(now.getHours())}:${make2Digit(
     now.getMinutes()
-  )}:${make2Digit(now.getSeconds())} using magic</i>✨`;
+  )}:${make2Digit(now.getSeconds())} using magic<br>
+Script Optimization; RAM Usage: ${ram.toFixed(2)}</i>✨`;
   writeFileSync(ReadMe, text);
 };
 
