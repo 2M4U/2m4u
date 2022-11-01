@@ -10,44 +10,44 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-77-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-218-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-78-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-218-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
   @TalbertSwan Most racial status I've ever did saw, no one truly knows whether our Lord and Saviour was of colour or… https://t.co/DDfyZq99N6
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 132<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/14)<br>
-  🎯 Total Kills: 4,282<br>
-  💀 Total Deaths: 2,958<br>
+  🏆 Current Level: 133<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/3)<br>
+  🎯 Total Kills: 4,302<br>
+  💀 Total Deaths: 2,962<br>
   👑 Total Wins: 152<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
-      Level: "132",
-      Progress: "14%",    
+      Level: "133",
+      Progress: "3%",    
     }
     Season: { 
-       Win_Ratio: "4.18%",
-       KD_Ratio: "2.08%",
-       Kills_Per_Match: "2.00%",
-       Total_Matches: "813",
-       Total_Kills: "1,624",
-       Total_Deaths: "779",
+       Win_Ratio: "4.16%",
+       KD_Ratio: "2.10%",
+       Kills_Per_Match: "2.01%",
+       Total_Matches: "817",
+       Total_Kills: "1,644",
+       Total_Deaths: "783",
        Total_Wins: "34",
-       Outlived_Players: "48,255"
+       Outlived_Players: "48,606"
     },
     Lifetime: {
-      Win_Ratio: "4.89%",
+      Win_Ratio: "4.88%",
       KD_Ratio: "1.45%",
       Kills_Per_Match: "1.38%",
-      Total_Matches: "3,110",
-      Total_Kills: "4,282",
-      Total_Deaths: "2,958",
+      Total_Matches: "3,114",
+      Total_Kills: "4,302",
+      Total_Deaths: "2,962",
       Total_Wins: "152",
-      Outlived_Players: "192,106"
+      Outlived_Players: "192,457"
       },
     }
 }; 
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Mon Oct 31 2022 23:56:57 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Mon 31st Oct @ 23:56:57 using magic<br>
-Script Optimization; RAM Usage: 14.65</i>✨
+<!-- Last updated on Tue Nov 01 2022 02:10:57 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Tue 1st Nov @ 02:10:57 using magic<br>
+Script Optimization; RAM Usage: 14.76</i>✨
