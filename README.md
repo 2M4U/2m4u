@@ -17,35 +17,35 @@
   @TalbertSwan Most racial status I've ever did saw, no one truly knows whether our Lord and Saviour was of colour or… https://t.co/DDfyZq99N6
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 133<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/76)<br>
+  🏆 Current Level: 134<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/5)<br>
   🎯 Total Kills: 4,312<br>
-  💀 Total Deaths: 2,966<br>
+  💀 Total Deaths: 2,967<br>
   👑 Total Wins: 153<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
-      Level: "133",
-      Progress: "76%",    
+      Level: "134",
+      Progress: "5%",    
     }
     Season: { 
-       Win_Ratio: "4.26%",
+       Win_Ratio: "4.25%",
        KD_Ratio: "2.10%",
        Kills_Per_Match: "2.01%",
-       Total_Matches: "822",
+       Total_Matches: "823",
        Total_Kills: "1,654",
-       Total_Deaths: "787",
+       Total_Deaths: "788",
        Total_Wins: "35",
        Outlived_Players: "49,045"
     },
     Lifetime: {
-      Win_Ratio: "4.91%",
+      Win_Ratio: "4.90%",
       KD_Ratio: "1.45%",
       Kills_Per_Match: "1.38%",
-      Total_Matches: "3,119",
+      Total_Matches: "3,120",
       Total_Kills: "4,312",
-      Total_Deaths: "2,966",
+      Total_Deaths: "2,967",
       Total_Wins: "153",
       Outlived_Players: "192,896"
       },
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Tue Nov 01 2022 19:10:11 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Tue 1st Nov @ 19:10:11 using magic<br>
-Script Optimization; RAM Usage: 14.63</i>✨
+<!-- Last updated on Tue Nov 01 2022 19:38:44 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Tue 1st Nov @ 19:38:44 using magic<br>
+Script Optimization; RAM Usage: 14.55</i>✨
