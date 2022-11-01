@@ -14,7 +14,7 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @TalbertSwan Most racial status I've ever did saw, no one truly knows whether our Lord and Saviour was of colour or… https://t.co/DDfyZq99N6
+  Fortnitemares Horde Rush Questing Tryna Get Pickle Rick Back Bling live at https://t.co/EMgD0ujjMq
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
   🏆 Current Level: 134<br>
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Tue Nov 01 2022 21:30:47 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Tue 1st Nov @ 21:30:47 using magic<br>
-Script Optimization; RAM Usage: 14.72</i>✨
+<!-- Last updated on Tue Nov 01 2022 21:45:39 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Tue 1st Nov @ 21:45:39 using magic<br>
+Script Optimization; RAM Usage: 14.65</i>✨
