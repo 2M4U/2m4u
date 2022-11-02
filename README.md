@@ -10,17 +10,17 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-79-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-218-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-78-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-219-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  Fortnitemares Horde Rush Questing Tryna Get Pickle Rick Back Bling live at https://t.co/EMgD0ujjMq
+  @FortniteGame So funny that even the Living Dead found it that funny that they're dead from laughing so hard *insert yawn here*
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
   🏆 Current Level: 135<br>
   🎉 Progress To Next Level: ![](https://geps.dev/progress/0)<br>
   🎯 Total Kills: 4,312<br>
-  💀 Total Deaths: 2,984<br>
+  💀 Total Deaths: 2,985<br>
   👑 Total Wins: 153<br>
 
 ```js
@@ -30,22 +30,22 @@ const Fortnite_Stats = {
       Progress: "0%",    
     }
     Season: { 
-       Win_Ratio: "4.17%",
-       KD_Ratio: "2.06%",
+       Win_Ratio: "4.16%",
+       KD_Ratio: "2.05%",
        Kills_Per_Match: "1.97%",
-       Total_Matches: "840",
+       Total_Matches: "841",
        Total_Kills: "1,654",
-       Total_Deaths: "805",
+       Total_Deaths: "806",
        Total_Wins: "35",
        Outlived_Players: "49,127"
     },
     Lifetime: {
       Win_Ratio: "4.88%",
       KD_Ratio: "1.45%",
-      Kills_Per_Match: "1.38%",
-      Total_Matches: "3,137",
+      Kills_Per_Match: "1.37%",
+      Total_Matches: "3,138",
       Total_Kills: "4,312",
-      Total_Deaths: "2,984",
+      Total_Deaths: "2,985",
       Total_Wins: "153",
       Outlived_Players: "192,978"
       },
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Wed Nov 02 2022 22:55:06 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Wed 2nd Nov @ 22:55:06 using magic<br>
-Script Optimization; RAM Usage: 14.67</i>✨
+<!-- Last updated on Wed Nov 02 2022 23:16:27 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Wed 2nd Nov @ 23:16:27 using magic<br>
+Script Optimization; RAM Usage: 14.65</i>✨
