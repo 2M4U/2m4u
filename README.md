@@ -10,7 +10,7 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-79-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-218-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-78-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-218-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
@@ -20,7 +20,7 @@
   🏆 Current Level: 134<br>
   🎉 Progress To Next Level: ![](https://geps.dev/progress/95)<br>
   🎯 Total Kills: 4,312<br>
-  💀 Total Deaths: 2,978<br>
+  💀 Total Deaths: 2,980<br>
   👑 Total Wins: 153<br>
 
 ```js
@@ -30,24 +30,24 @@ const Fortnite_Stats = {
       Progress: "95%",    
     }
     Season: { 
-       Win_Ratio: "4.20%",
-       KD_Ratio: "2.07%",
+       Win_Ratio: "4.19%",
+       KD_Ratio: "2.06%",
        Kills_Per_Match: "1.98%",
-       Total_Matches: "834",
+       Total_Matches: "836",
        Total_Kills: "1,654",
-       Total_Deaths: "799",
+       Total_Deaths: "801",
        Total_Wins: "35",
-       Outlived_Players: "49,072"
+       Outlived_Players: "49,074"
     },
     Lifetime: {
-      Win_Ratio: "4.89%",
+      Win_Ratio: "4.88%",
       KD_Ratio: "1.45%",
       Kills_Per_Match: "1.38%",
-      Total_Matches: "3,131",
+      Total_Matches: "3,133",
       Total_Kills: "4,312",
-      Total_Deaths: "2,978",
+      Total_Deaths: "2,980",
       Total_Wins: "153",
-      Outlived_Players: "192,923"
+      Outlived_Players: "192,925"
       },
     }
 }; 
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Wed Nov 02 2022 16:20:34 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Wed 2nd Nov @ 16:20:34 using magic<br>
-Script Optimization; RAM Usage: 14.61</i>✨
+<!-- Last updated on Wed Nov 02 2022 17:02:13 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Wed 2nd Nov @ 17:02:13 using magic<br>
+Script Optimization; RAM Usage: 14.65</i>✨
