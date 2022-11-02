@@ -10,44 +10,44 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-79-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-218-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-78-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-218-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
   Fortnitemares Horde Rush Questing Tryna Get Pickle Rick Back Bling live at https://t.co/EMgD0ujjMq
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 134<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/95)<br>
+  🏆 Current Level: 135<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/0)<br>
   🎯 Total Kills: 4,312<br>
-  💀 Total Deaths: 2,980<br>
+  💀 Total Deaths: 2,981<br>
   👑 Total Wins: 153<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
-      Level: "134",
-      Progress: "95%",    
+      Level: "135",
+      Progress: "0%",    
     }
     Season: { 
-       Win_Ratio: "4.19%",
+       Win_Ratio: "4.18%",
        KD_Ratio: "2.06%",
        Kills_Per_Match: "1.98%",
-       Total_Matches: "836",
+       Total_Matches: "837",
        Total_Kills: "1,654",
-       Total_Deaths: "801",
+       Total_Deaths: "802",
        Total_Wins: "35",
-       Outlived_Players: "49,074"
+       Outlived_Players: "49,127"
     },
     Lifetime: {
       Win_Ratio: "4.88%",
       KD_Ratio: "1.45%",
       Kills_Per_Match: "1.38%",
-      Total_Matches: "3,133",
+      Total_Matches: "3,134",
       Total_Kills: "4,312",
-      Total_Deaths: "2,980",
+      Total_Deaths: "2,981",
       Total_Wins: "153",
-      Outlived_Players: "192,925"
+      Outlived_Players: "192,978"
       },
     }
 }; 
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Wed Nov 02 2022 19:00:32 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Wed 2nd Nov @ 19:00:32 using magic<br>
-Script Optimization; RAM Usage: 14.67</i>✨
+<!-- Last updated on Wed Nov 02 2022 19:21:11 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Wed 2nd Nov @ 19:21:11 using magic<br>
+Script Optimization; RAM Usage: 14.65</i>✨
