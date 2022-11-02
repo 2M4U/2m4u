@@ -10,7 +10,7 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-78-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-219-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-79-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-219-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
@@ -20,7 +20,7 @@
   🏆 Current Level: 135<br>
   🎉 Progress To Next Level: ![](https://geps.dev/progress/0)<br>
   🎯 Total Kills: 4,312<br>
-  💀 Total Deaths: 2,985<br>
+  💀 Total Deaths: 2,986<br>
   👑 Total Wins: 153<br>
 
 ```js
@@ -32,20 +32,20 @@ const Fortnite_Stats = {
     Season: { 
        Win_Ratio: "4.16%",
        KD_Ratio: "2.05%",
-       Kills_Per_Match: "1.97%",
-       Total_Matches: "841",
+       Kills_Per_Match: "1.96%",
+       Total_Matches: "842",
        Total_Kills: "1,654",
-       Total_Deaths: "806",
+       Total_Deaths: "807",
        Total_Wins: "35",
        Outlived_Players: "49,127"
     },
     Lifetime: {
-      Win_Ratio: "4.88%",
-      KD_Ratio: "1.45%",
+      Win_Ratio: "4.87%",
+      KD_Ratio: "1.44%",
       Kills_Per_Match: "1.37%",
-      Total_Matches: "3,138",
+      Total_Matches: "3,139",
       Total_Kills: "4,312",
-      Total_Deaths: "2,985",
+      Total_Deaths: "2,986",
       Total_Wins: "153",
       Outlived_Players: "192,978"
       },
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Wed Nov 02 2022 23:16:27 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Wed 2nd Nov @ 23:16:27 using magic<br>
-Script Optimization; RAM Usage: 14.65</i>✨
+<!-- Last updated on Wed Nov 02 2022 23:51:55 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Wed 2nd Nov @ 23:51:55 using magic<br>
+Script Optimization; RAM Usage: 14.64</i>✨
