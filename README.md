@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Thu Nov 03 2022 07:41:43 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Thu 3rd Nov @ 07:41:43 using magic<br>
-Script Optimization; RAM Usage: 14.65</i>✨
+<!-- Last updated on Thu Nov 03 2022 07:51:04 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Thu 3rd Nov @ 07:51:04 using magic<br>
+Script Optimization; RAM Usage: 14.50</i>✨
