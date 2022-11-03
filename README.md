@@ -17,37 +17,37 @@
   @FortniteGame So funny that even the Living Dead found it that funny that they're dead from laughing so hard *insert yawn here*
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 139<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/44)<br>
-  🎯 Total Kills: 4,345<br>
-  💀 Total Deaths: 2,995<br>
+  🏆 Current Level: 141<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/76)<br>
+  🎯 Total Kills: 4,346<br>
+  💀 Total Deaths: 2,996<br>
   👑 Total Wins: 154<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
-      Level: "139",
-      Progress: "44%",    
+      Level: "141",
+      Progress: "76%",    
     }
     Season: { 
        Win_Ratio: "4.22%",
        KD_Ratio: "2.07%",
        Kills_Per_Match: "1.98%",
-       Total_Matches: "852",
-       Total_Kills: "1,687",
-       Total_Deaths: "816",
+       Total_Matches: "853",
+       Total_Kills: "1,688",
+       Total_Deaths: "817",
        Total_Wins: "36",
-       Outlived_Players: "49,744"
+       Outlived_Players: "49,834"
     },
     Lifetime: {
       Win_Ratio: "4.89%",
       KD_Ratio: "1.45%",
       Kills_Per_Match: "1.38%",
-      Total_Matches: "3,149",
-      Total_Kills: "4,345",
-      Total_Deaths: "2,995",
+      Total_Matches: "3,150",
+      Total_Kills: "4,346",
+      Total_Deaths: "2,996",
       Total_Wins: "154",
-      Outlived_Players: "193,595"
+      Outlived_Players: "193,685"
       },
     }
 }; 
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Thu Nov 03 2022 17:29:04 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Thu 3rd Nov @ 17:29:04 using magic<br>
-Script Optimization; RAM Usage: 14.65</i>✨
+<!-- Last updated on Thu Nov 03 2022 17:44:45 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Thu 3rd Nov @ 17:44:45 using magic<br>
+Script Optimization; RAM Usage: 14.63</i>✨
