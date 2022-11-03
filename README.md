@@ -14,17 +14,13 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  2nd time of Killing Horde Rush Boss;
-Perfect Weapon Combo 
-Team Mate#1 Gold Scythe
-Team Mate#2 Gold Mini-Gun
-Team M… https://t.co/Loe7A2qFS7
+  Fortnite need to make Pickle Rick EXCLUSIVE, bc the Horde Rush take A LONG TIME to do, it's only fair that the peop… https://t.co/Y1PBxLD4xg
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
   🏆 Current Level: 143<br>
   🎉 Progress To Next Level: ![](https://geps.dev/progress/50)<br>
   🎯 Total Kills: 4,363<br>
-  💀 Total Deaths: 3,002<br>
+  💀 Total Deaths: 3,003<br>
   👑 Total Wins: 157<br>
 
 ```js
@@ -37,9 +33,9 @@ const Fortnite_Stats = {
        Win_Ratio: "4.52%",
        KD_Ratio: "2.07%",
        Kills_Per_Match: "1.98%",
-       Total_Matches: "862",
+       Total_Matches: "863",
        Total_Kills: "1,705",
-       Total_Deaths: "823",
+       Total_Deaths: "824",
        Total_Wins: "39",
        Outlived_Players: "50,278"
     },
@@ -47,9 +43,9 @@ const Fortnite_Stats = {
       Win_Ratio: "4.97%",
       KD_Ratio: "1.45%",
       Kills_Per_Match: "1.38%",
-      Total_Matches: "3,159",
+      Total_Matches: "3,160",
       Total_Kills: "4,363",
-      Total_Deaths: "3,002",
+      Total_Deaths: "3,003",
       Total_Wins: "157",
       Outlived_Players: "194,129"
       },
@@ -91,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Thu Nov 03 2022 21:47:11 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Thu 3rd Nov @ 21:47:11 using magic<br>
-Script Optimization; RAM Usage: 14.69</i>✨
+<!-- Last updated on Thu Nov 03 2022 22:14:48 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Thu 3rd Nov @ 22:14:48 using magic<br>
+Script Optimization; RAM Usage: 14.64</i>✨
