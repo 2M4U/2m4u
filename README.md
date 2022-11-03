@@ -24,7 +24,7 @@ Team M… https://t.co/Loe7A2qFS7
   🏆 Current Level: 143<br>
   🎉 Progress To Next Level: ![](https://geps.dev/progress/50)<br>
   🎯 Total Kills: 4,363<br>
-  💀 Total Deaths: 3,001<br>
+  💀 Total Deaths: 3,002<br>
   👑 Total Wins: 157<br>
 
 ```js
@@ -34,12 +34,12 @@ const Fortnite_Stats = {
       Progress: "50%",    
     }
     Season: { 
-       Win_Ratio: "4.53%",
+       Win_Ratio: "4.52%",
        KD_Ratio: "2.07%",
        Kills_Per_Match: "1.98%",
-       Total_Matches: "861",
+       Total_Matches: "862",
        Total_Kills: "1,705",
-       Total_Deaths: "822",
+       Total_Deaths: "823",
        Total_Wins: "39",
        Outlived_Players: "50,278"
     },
@@ -47,9 +47,9 @@ const Fortnite_Stats = {
       Win_Ratio: "4.97%",
       KD_Ratio: "1.45%",
       Kills_Per_Match: "1.38%",
-      Total_Matches: "3,158",
+      Total_Matches: "3,159",
       Total_Kills: "4,363",
-      Total_Deaths: "3,001",
+      Total_Deaths: "3,002",
       Total_Wins: "157",
       Outlived_Players: "194,129"
       },
@@ -91,6 +91,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Thu Nov 03 2022 21:28:30 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Thu 3rd Nov @ 21:28:30 using magic<br>
-Script Optimization; RAM Usage: 14.42</i>✨
+<!-- Last updated on Thu Nov 03 2022 21:47:11 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Thu 3rd Nov @ 21:47:11 using magic<br>
+Script Optimization; RAM Usage: 14.69</i>✨
