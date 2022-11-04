@@ -17,37 +17,37 @@
   Fortnite need to make Pickle Rick EXCLUSIVE, bc the Horde Rush take A LONG TIME to do, it's only fair that the peop… https://t.co/Y1PBxLD4xg
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 143<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/57)<br>
-  🎯 Total Kills: 4,363<br>
-  💀 Total Deaths: 3,006<br>
+  🏆 Current Level: 144<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/24)<br>
+  🎯 Total Kills: 4,376<br>
+  💀 Total Deaths: 3,012<br>
   👑 Total Wins: 158<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
-      Level: "143",
-      Progress: "57%",    
+      Level: "144",
+      Progress: "24%",    
     }
     Season: { 
-       Win_Ratio: "4.61%",
+       Win_Ratio: "4.58%",
        KD_Ratio: "2.06%",
        Kills_Per_Match: "1.97%",
-       Total_Matches: "867",
-       Total_Kills: "1,705",
-       Total_Deaths: "827",
+       Total_Matches: "873",
+       Total_Kills: "1,718",
+       Total_Deaths: "833",
        Total_Wins: "40",
-       Outlived_Players: "50,278"
+       Outlived_Players: "50,815"
     },
     Lifetime: {
-      Win_Ratio: "4.99%",
+      Win_Ratio: "4.98%",
       KD_Ratio: "1.45%",
       Kills_Per_Match: "1.38%",
-      Total_Matches: "3,164",
-      Total_Kills: "4,363",
-      Total_Deaths: "3,006",
+      Total_Matches: "3,170",
+      Total_Kills: "4,376",
+      Total_Deaths: "3,012",
       Total_Wins: "158",
-      Outlived_Players: "194,129"
+      Outlived_Players: "194,666"
       },
     }
 }; 
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Thu Nov 03 2022 23:45:39 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Thu 3rd Nov @ 23:45:39 using magic<br>
-Script Optimization; RAM Usage: 14.67</i>✨
+<!-- Last updated on Fri Nov 04 2022 03:18:00 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Fri 4th Nov @ 03:18:00 using magic<br>
+Script Optimization; RAM Usage: 14.63</i>✨
