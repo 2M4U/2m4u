@@ -1,7 +1,7 @@
 
   ![Header](./src/github-banner.png)
   <br>
-  Welcome **Github User** to the Code Land of 2M4U (me),<br>
+  Welcome **Github User** to the Code Land of undefined (me),<br>
   What you see below is a future project for updating my<br>
   In-Game Fortnite Statistics, Feel free to Fork this repository<br>
   If you wish to see how this works.
@@ -60,10 +60,10 @@ const Fortnite_Stats = {
 const 2M4U = {
     Fav_Lang: "Javascript",
     Github_Stars: 36,
-    Public_Repos: 61,
-    Public_Gists: 1,
-    Followers: 8,
-    Following: 21,
+    Public_Repos: undefined,
+    Public_Gists: undefined,
+    Followers: undefined,
+    Following: undefined,
 }; 
 ```
 
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Fri Nov 04 2022 10:19:39 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Fri 4th Nov @ 10:19:39 using magic<br>
-Script Optimization; RAM Usage: 14.63</i>✨
+<!-- Last updated on Fri Nov 04 2022 10:59:42 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Fri 4th Nov @ 10:59:42 using magic<br>
+Script Optimization; RAM Usage: 14.53</i>✨
