@@ -41,6 +41,15 @@ var client = new Twitter({
   access_token_secret: process.env.TWITTER_TOKEN_SECRET,
 });
 
+function getUser(name) {
+  return fetch(`https://fortnite-api.com/v2/stats/br/v2?name=${name}`,
+    {
+      headers: {
+        Authorization: process.env.API_SECRET,
+      },
+    }).then(r => r.json());
+}
+
 let stars = 0,
   page = 1;
 
@@ -60,7 +69,11 @@ const WriteReadMe = async () => {
 
   var params = { screen_name: "stomperleaks", count: 1 };
   let tweet = await client.get("statuses/user_timeline", params);
-
+  
+  const names = ["Rixqi", "StomperTheBunny","ImWay2Much4U"];
+  console.log(names.map(getUser))
+  const users = await Promise.all(names.map(getUser))
+  console.log(JSON.stringify(users))
   console.log(tweet);
 
   let data = await fetch(
