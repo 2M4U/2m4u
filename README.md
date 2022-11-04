@@ -10,44 +10,44 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-79-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-218-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-80-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-218-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
   Fortnite need to make Pickle Rick EXCLUSIVE, bc the Horde Rush take A LONG TIME to do, it's only fair that the peop… https://t.co/Y1PBxLD4xg
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 145<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/83)<br>
-  🎯 Total Kills: 4,381<br>
-  💀 Total Deaths: 3,015<br>
+  🏆 Current Level: 146<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/13)<br>
+  🎯 Total Kills: 4,386<br>
+  💀 Total Deaths: 3,016<br>
   👑 Total Wins: 158<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
-      Level: "145",
-      Progress: "83%",    
+      Level: "146",
+      Progress: "13%",    
     }
     Season: { 
-       Win_Ratio: "4.57%",
+       Win_Ratio: "4.56%",
        KD_Ratio: "2.06%",
        Kills_Per_Match: "1.97%",
-       Total_Matches: "876",
-       Total_Kills: "1,723",
-       Total_Deaths: "836",
+       Total_Matches: "877",
+       Total_Kills: "1,728",
+       Total_Deaths: "837",
        Total_Wins: "40",
-       Outlived_Players: "51,053"
+       Outlived_Players: "51,151"
     },
     Lifetime: {
       Win_Ratio: "4.98%",
       KD_Ratio: "1.45%",
       Kills_Per_Match: "1.38%",
-      Total_Matches: "3,173",
-      Total_Kills: "4,381",
-      Total_Deaths: "3,015",
+      Total_Matches: "3,174",
+      Total_Kills: "4,386",
+      Total_Deaths: "3,016",
       Total_Wins: "158",
-      Outlived_Players: "194,904"
+      Outlived_Players: "195,002"
       },
     }
 }; 
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Fri Nov 04 2022 21:34:26 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Fri 4th Nov @ 21:34:26 using magic<br>
-Script Optimization; RAM Usage: 14.52</i>✨
+<!-- Last updated on Fri Nov 04 2022 21:44:20 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Fri 4th Nov @ 21:44:20 using magic<br>
+Script Optimization; RAM Usage: 14.70</i>✨
