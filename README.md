@@ -10,11 +10,11 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-79-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-220-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-78-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-220-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @twdownloader @GetVideoBot
+  @mulletmarauder9 @iFireMonkey 1am (BST) 12am Non-BST
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
   🏆 Current Level: 152<br>
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Sun Nov 06 2022 21:28:47 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Sun 6th Nov @ 21:28:47 using magic<br>
-Script Optimization; RAM Usage: 14.67</i>✨
+<!-- Last updated on Sun Nov 06 2022 21:40:45 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Sun 6th Nov @ 21:40:45 using magic<br>
+Script Optimization; RAM Usage: 14.64</i>✨
