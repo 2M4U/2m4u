@@ -17,37 +17,37 @@
   @twdownloader @GetVideoBot
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 149<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/84)<br>
-  🎯 Total Kills: 4,424<br>
-  💀 Total Deaths: 3,044<br>
+  🏆 Current Level: 150<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/32)<br>
+  🎯 Total Kills: 4,430<br>
+  💀 Total Deaths: 3,047<br>
   👑 Total Wins: 161<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
-      Level: "149",
-      Progress: "84%",    
+      Level: "150",
+      Progress: "32%",    
     }
     Season: { 
-       Win_Ratio: "4.74%",
+       Win_Ratio: "4.72%",
        KD_Ratio: "2.04%",
        Kills_Per_Match: "1.95%",
-       Total_Matches: "908",
-       Total_Kills: "1,766",
-       Total_Deaths: "865",
+       Total_Matches: "911",
+       Total_Kills: "1,772",
+       Total_Deaths: "868",
        Total_Wins: "43",
-       Outlived_Players: "52,811"
+       Outlived_Players: "53,031"
     },
     Lifetime: {
       Win_Ratio: "5.02%",
       KD_Ratio: "1.45%",
       Kills_Per_Match: "1.38%",
-      Total_Matches: "3,205",
-      Total_Kills: "4,424",
-      Total_Deaths: "3,044",
+      Total_Matches: "3,208",
+      Total_Kills: "4,430",
+      Total_Deaths: "3,047",
       Total_Wins: "161",
-      Outlived_Players: "196,662"
+      Outlived_Players: "196,882"
       },
     }
 }; 
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Sun Nov 06 2022 17:53:32 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Sun 6th Nov @ 17:53:32 using magic<br>
-Script Optimization; RAM Usage: 14.68</i>✨
+<!-- Last updated on Sun Nov 06 2022 18:36:21 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Sun 6th Nov @ 18:36:21 using magic<br>
+Script Optimization; RAM Usage: 14.63</i>✨
