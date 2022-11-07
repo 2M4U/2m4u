@@ -10,44 +10,44 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-80-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-233-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-79-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-232-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
   What has happened to Fortnite's Audio, it sounds so distorted like Voice Cancellation over ALL forms of audio… https://t.co/QXGM1mgpfC
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 153<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/82)<br>
-  🎯 Total Kills: 4,488<br>
-  💀 Total Deaths: 3,078<br>
+  🏆 Current Level: 154<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/38)<br>
+  🎯 Total Kills: 4,492<br>
+  💀 Total Deaths: 3,079<br>
   👑 Total Wins: 162<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
-      Level: "153",
-      Progress: "82%",    
+      Level: "154",
+      Progress: "38%",    
     }
     Season: { 
        Win_Ratio: "4.68%",
        KD_Ratio: "2.04%",
        Kills_Per_Match: "1.94%",
-       Total_Matches: "940",
-       Total_Kills: "1,824",
-       Total_Deaths: "896",
+       Total_Matches: "941",
+       Total_Kills: "1,828",
+       Total_Deaths: "897",
        Total_Wins: "44",
-       Outlived_Players: "54,749"
+       Outlived_Players: "54,839"
     },
     Lifetime: {
       Win_Ratio: "5.00%",
       KD_Ratio: "1.46%",
       Kills_Per_Match: "1.39%",
-      Total_Matches: "3,240",
-      Total_Kills: "4,488",
-      Total_Deaths: "3,078",
+      Total_Matches: "3,241",
+      Total_Kills: "4,492",
+      Total_Deaths: "3,079",
       Total_Wins: "162",
-      Outlived_Players: "198,698"
+      Outlived_Players: "198,788"
       },
     }
 }; 
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Mon Nov 07 2022 21:15:52 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Mon 7th Nov @ 21:15:52 using magic<br>
-Script Optimization; RAM Usage: 14.63</i>✨
+<!-- Last updated on Mon Nov 07 2022 21:33:10 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Mon 7th Nov @ 21:33:10 using magic<br>
+Script Optimization; RAM Usage: 14.61</i>✨
