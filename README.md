@@ -17,37 +17,37 @@
   @mulletmarauder9 @iFireMonkey 1am (BST) 12am Non-BST
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 152<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/82)<br>
-  🎯 Total Kills: 4,464<br>
-  💀 Total Deaths: 3,062<br>
+  🏆 Current Level: 153<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/43)<br>
+  🎯 Total Kills: 4,481<br>
+  💀 Total Deaths: 3,073<br>
   👑 Total Wins: 162<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
-      Level: "152",
-      Progress: "82%",    
+      Level: "153",
+      Progress: "43%",    
     }
     Season: { 
-       Win_Ratio: "4.76%",
+       Win_Ratio: "4.71%",
        KD_Ratio: "2.04%",
-       Kills_Per_Match: "1.95%",
-       Total_Matches: "924",
-       Total_Kills: "1,800",
-       Total_Deaths: "880",
+       Kills_Per_Match: "1.94%",
+       Total_Matches: "935",
+       Total_Kills: "1,817",
+       Total_Deaths: "891",
        Total_Wins: "44",
-       Outlived_Players: "53,981"
+       Outlived_Players: "54,538"
     },
     Lifetime: {
-      Win_Ratio: "5.03%",
+      Win_Ratio: "5.01%",
       KD_Ratio: "1.46%",
       Kills_Per_Match: "1.39%",
-      Total_Matches: "3,224",
-      Total_Kills: "4,464",
-      Total_Deaths: "3,062",
+      Total_Matches: "3,235",
+      Total_Kills: "4,481",
+      Total_Deaths: "3,073",
       Total_Wins: "162",
-      Outlived_Players: "197,930"
+      Outlived_Players: "198,487"
       },
     }
 }; 
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Sun Nov 06 2022 23:50:24 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Sun 6th Nov @ 23:50:24 using magic<br>
-Script Optimization; RAM Usage: 14.56</i>✨
+<!-- Last updated on Mon Nov 07 2022 03:44:11 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Mon 7th Nov @ 03:44:11 using magic<br>
+Script Optimization; RAM Usage: 14.58</i>✨
