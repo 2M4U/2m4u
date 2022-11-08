@@ -10,7 +10,7 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-80-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-232-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-79-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-232-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
@@ -18,7 +18,7 @@
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
   🏆 Current Level: 157<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/5)<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/9)<br>
   🎯 Total Kills: 4,540<br>
   💀 Total Deaths: 3,100<br>
   👑 Total Wins: 162<br>
@@ -27,7 +27,7 @@
 const Fortnite_Stats = {
     Battlepass: {
       Level: "157",
-      Progress: "5%",    
+      Progress: "9%",    
     }
     Season: { 
        Win_Ratio: "4.57%",
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Tue Nov 08 2022 21:52:28 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Tue 8th Nov @ 21:52:28 using magic<br>
-Script Optimization; RAM Usage: 14.55</i>✨
+<!-- Last updated on Tue Nov 08 2022 22:08:16 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Tue 8th Nov @ 22:08:16 using magic<br>
+Script Optimization; RAM Usage: 14.69</i>✨
