@@ -14,7 +14,7 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  #costofliving
+  @tedkardas £RixqiLeaks u wont 😅
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
   🏆 Current Level: 157<br>
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Tue Nov 08 2022 23:14:27 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Tue 8th Nov @ 23:14:27 using magic<br>
-Script Optimization; RAM Usage: 14.69</i>✨
+<!-- Last updated on Tue Nov 08 2022 23:38:59 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Tue 8th Nov @ 23:38:59 using magic<br>
+Script Optimization; RAM Usage: 14.63</i>✨
