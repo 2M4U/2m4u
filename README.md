@@ -10,7 +10,7 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-80-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-232-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-79-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-232-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
@@ -20,7 +20,7 @@
   🏆 Current Level: 157<br>
   🎉 Progress To Next Level: ![](https://geps.dev/progress/0)<br>
   🎯 Total Kills: 4,535<br>
-  💀 Total Deaths: 3,095<br>
+  💀 Total Deaths: 3,096<br>
   👑 Total Wins: 162<br>
 
 ```js
@@ -30,24 +30,24 @@ const Fortnite_Stats = {
       Progress: "0%",    
     }
     Season: { 
-       Win_Ratio: "4.60%",
+       Win_Ratio: "4.59%",
        KD_Ratio: "2.05%",
-       Kills_Per_Match: "1.96%",
-       Total_Matches: "957",
+       Kills_Per_Match: "1.95%",
+       Total_Matches: "958",
        Total_Kills: "1,871",
-       Total_Deaths: "913",
+       Total_Deaths: "914",
        Total_Wins: "44",
-       Outlived_Players: "55,913"
+       Outlived_Players: "55,939"
     },
     Lifetime: {
       Win_Ratio: "4.97%",
       KD_Ratio: "1.47%",
       Kills_Per_Match: "1.39%",
-      Total_Matches: "3,257",
+      Total_Matches: "3,258",
       Total_Kills: "4,535",
-      Total_Deaths: "3,095",
+      Total_Deaths: "3,096",
       Total_Wins: "162",
-      Outlived_Players: "199,862"
+      Outlived_Players: "199,888"
       },
     }
 }; 
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Tue Nov 08 2022 20:09:39 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Tue 8th Nov @ 20:09:39 using magic<br>
-Script Optimization; RAM Usage: 14.64</i>✨
+<!-- Last updated on Tue Nov 08 2022 20:33:09 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Tue 8th Nov @ 20:33:09 using magic<br>
+Script Optimization; RAM Usage: 14.69</i>✨
