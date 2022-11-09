@@ -60,7 +60,7 @@ const Fortnite_Stats = {
 ```js
 const 2M4U = {
     Fav_Lang: "Javascript",
-    Github_Stars: 36,
+    Github_Stars: 37,
     Public_Repos: 61,
     Public_Gists: 1,
     Followers: 8,
@@ -88,6 +88,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Wed Nov 09 2022 16:10:37 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Wed 9th Nov @ 16:10:37 using magic<br>
-Script Optimization; RAM Usage: 14.67</i>✨
+<!-- Last updated on Wed Nov 09 2022 16:47:00 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Wed 9th Nov @ 16:47:00 using magic<br>
+Script Optimization; RAM Usage: 14.64</i>✨
