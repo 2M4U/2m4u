@@ -10,44 +10,45 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-80-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-232-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-78-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-232-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @tedkardas £RixqiLeaks u wont 😅
+  #costofliving #CostOfLivingCrisis 
+2nd waiting.... still no payment even though I received the first installment first day :/
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 157<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/61)<br>
-  🎯 Total Kills: 4,548<br>
-  💀 Total Deaths: 3,102<br>
+  🏆 Current Level: 158<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/8)<br>
+  🎯 Total Kills: 4,559<br>
+  💀 Total Deaths: 3,109<br>
   👑 Total Wins: 162<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
-      Level: "157",
-      Progress: "61%",    
+      Level: "158",
+      Progress: "8%",    
     }
     Season: { 
-       Win_Ratio: "4.56%",
-       KD_Ratio: "2.05%",
+       Win_Ratio: "4.53%",
+       KD_Ratio: "2.04%",
        Kills_Per_Match: "1.95%",
-       Total_Matches: "964",
-       Total_Kills: "1,884",
-       Total_Deaths: "920",
+       Total_Matches: "971",
+       Total_Kills: "1,895",
+       Total_Deaths: "927",
        Total_Wins: "44",
-       Outlived_Players: "56,261"
+       Outlived_Players: "56,716"
     },
     Lifetime: {
-      Win_Ratio: "4.96%",
+      Win_Ratio: "4.95%",
       KD_Ratio: "1.47%",
       Kills_Per_Match: "1.39%",
-      Total_Matches: "3,264",
-      Total_Kills: "4,548",
-      Total_Deaths: "3,102",
+      Total_Matches: "3,271",
+      Total_Kills: "4,559",
+      Total_Deaths: "3,109",
       Total_Wins: "162",
-      Outlived_Players: "200,210"
+      Outlived_Players: "200,665"
       },
     }
 }; 
@@ -87,6 +88,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Wed Nov 09 2022 00:46:34 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Wed 9th Nov @ 00:46:34 using magic<br>
-Script Optimization; RAM Usage: 14.70</i>✨
+<!-- Last updated on Wed Nov 09 2022 02:56:21 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Wed 9th Nov @ 02:56:21 using magic<br>
+Script Optimization; RAM Usage: 14.62</i>✨
