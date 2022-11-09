@@ -10,7 +10,7 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-79-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-231-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-78-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-231-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
@@ -18,37 +18,37 @@
 2nd waiting.... still no payment even though I received the first installment first day :/
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 158<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/59)<br>
-  🎯 Total Kills: 4,578<br>
-  💀 Total Deaths: 3,115<br>
+  🏆 Current Level: 160<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/77)<br>
+  🎯 Total Kills: 4,581<br>
+  💀 Total Deaths: 3,116<br>
   👑 Total Wins: 164<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
-      Level: "158",
-      Progress: "59%",    
+      Level: "160",
+      Progress: "77%",    
     }
     Season: { 
-       Win_Ratio: "4.70%",
+       Win_Ratio: "4.69%",
        KD_Ratio: "2.05%",
        Kills_Per_Match: "1.96%",
-       Total_Matches: "979",
-       Total_Kills: "1,914",
-       Total_Deaths: "933",
+       Total_Matches: "980",
+       Total_Kills: "1,917",
+       Total_Deaths: "934",
        Total_Wins: "46",
-       Outlived_Players: "57,298"
+       Outlived_Players: "57,395"
     },
     Lifetime: {
       Win_Ratio: "5.00%",
       KD_Ratio: "1.47%",
       Kills_Per_Match: "1.40%",
-      Total_Matches: "3,279",
-      Total_Kills: "4,578",
-      Total_Deaths: "3,115",
+      Total_Matches: "3,280",
+      Total_Kills: "4,581",
+      Total_Deaths: "3,116",
       Total_Wins: "164",
-      Outlived_Players: "201,247"
+      Outlived_Players: "201,344"
       },
     }
 }; 
@@ -88,6 +88,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Wed Nov 09 2022 20:55:53 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Wed 9th Nov @ 20:55:53 using magic<br>
-Script Optimization; RAM Usage: 14.67</i>✨
+<!-- Last updated on Wed Nov 09 2022 21:55:48 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Wed 9th Nov @ 21:55:48 using magic<br>
+Script Optimization; RAM Usage: 11.23</i>✨
