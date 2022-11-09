@@ -18,37 +18,37 @@
 2nd waiting.... still no payment even though I received the first installment first day :/
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 160<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/99)<br>
+  🏆 Current Level: 161<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/2)<br>
   🎯 Total Kills: 4,581<br>
-  💀 Total Deaths: 3,118<br>
+  💀 Total Deaths: 3,119<br>
   👑 Total Wins: 164<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
-      Level: "160",
-      Progress: "99%",    
+      Level: "161",
+      Progress: "2%",    
     }
     Season: { 
        Win_Ratio: "4.68%",
        KD_Ratio: "2.05%",
        Kills_Per_Match: "1.95%",
-       Total_Matches: "982",
+       Total_Matches: "983",
        Total_Kills: "1,917",
-       Total_Deaths: "936",
+       Total_Deaths: "937",
        Total_Wins: "46",
-       Outlived_Players: "57,485"
+       Outlived_Players: "57,544"
     },
     Lifetime: {
       Win_Ratio: "5.00%",
       KD_Ratio: "1.47%",
       Kills_Per_Match: "1.40%",
-      Total_Matches: "3,282",
+      Total_Matches: "3,283",
       Total_Kills: "4,581",
-      Total_Deaths: "3,118",
+      Total_Deaths: "3,119",
       Total_Wins: "164",
-      Outlived_Players: "201,434"
+      Outlived_Players: "201,493"
       },
     }
 }; 
@@ -88,6 +88,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Wed Nov 09 2022 22:35:08 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Wed 9th Nov @ 22:35:08 using magic<br>
-Script Optimization; RAM Usage: 14.78</i>✨
+<!-- Last updated on Wed Nov 09 2022 22:47:02 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Wed 9th Nov @ 22:47:02 using magic<br>
+Script Optimization; RAM Usage: 14.63</i>✨
