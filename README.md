@@ -10,7 +10,7 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-77-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-231-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-78-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-231-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
@@ -19,36 +19,36 @@
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
   🏆 Current Level: 161<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/2)<br>
-  🎯 Total Kills: 4,581<br>
-  💀 Total Deaths: 3,119<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/8)<br>
+  🎯 Total Kills: 4,583<br>
+  💀 Total Deaths: 3,120<br>
   👑 Total Wins: 164<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
       Level: "161",
-      Progress: "2%",    
+      Progress: "8%",    
     }
     Season: { 
-       Win_Ratio: "4.68%",
+       Win_Ratio: "4.67%",
        KD_Ratio: "2.05%",
        Kills_Per_Match: "1.95%",
-       Total_Matches: "983",
-       Total_Kills: "1,917",
-       Total_Deaths: "937",
+       Total_Matches: "984",
+       Total_Kills: "1,919",
+       Total_Deaths: "938",
        Total_Wins: "46",
-       Outlived_Players: "57,544"
+       Outlived_Players: "57,634"
     },
     Lifetime: {
-      Win_Ratio: "5.00%",
+      Win_Ratio: "4.99%",
       KD_Ratio: "1.47%",
       Kills_Per_Match: "1.40%",
-      Total_Matches: "3,283",
-      Total_Kills: "4,581",
-      Total_Deaths: "3,119",
+      Total_Matches: "3,284",
+      Total_Kills: "4,583",
+      Total_Deaths: "3,120",
       Total_Wins: "164",
-      Outlived_Players: "201,493"
+      Outlived_Players: "201,583"
       },
     }
 }; 
@@ -88,6 +88,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Wed Nov 09 2022 22:56:07 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Wed 9th Nov @ 22:56:07 using magic<br>
-Script Optimization; RAM Usage: 14.64</i>✨
+<!-- Last updated on Wed Nov 09 2022 23:19:58 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Wed 9th Nov @ 23:19:58 using magic<br>
+Script Optimization; RAM Usage: 14.82</i>✨
