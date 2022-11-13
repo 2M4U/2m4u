@@ -14,8 +14,7 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  #costofliving #CostOfLivingCrisis 
-2nd waiting.... still no payment even though I received the first installment first day :/
+  #BlackKnight #FortniteLeaks #FortniteChapter3Season4 https://t.co/fh2QlEiBVU
    
   <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
   🏆 Current Level: 162<br>
@@ -88,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Sun Nov 13 2022 03:18:52 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Sun 13th Nov @ 03:18:52 using magic<br>
-Script Optimization; RAM Usage: 14.58</i>✨
+<!-- Last updated on Sun Nov 13 2022 04:42:31 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Sun 13th Nov @ 04:42:31 using magic<br>
+Script Optimization; RAM Usage: 14.76</i>✨
