@@ -10,44 +10,44 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-80-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-231-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-80-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-232-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
   #BlackKnight #FortniteLeaks #FortniteChapter3Season4 https://t.co/fh2QlEiBVU
    
-  <br><h2 align="center"> ✨ StomperTheBunny Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 162<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/80)<br>
-  🎯 Total Kills: 4,607<br>
-  💀 Total Deaths: 3,131<br>
-  👑 Total Wins: 165<br>
+  <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
+  🏆 Current Level: 30<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/96)<br>
+  🎯 Total Kills: 10,461<br>
+  💀 Total Deaths: 4,405<br>
+  👑 Total Wins: 367<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
-      Level: "162",
-      Progress: "80%",    
+      Level: "30",
+      Progress: "96%",    
     }
     Season: { 
-       Win_Ratio: "4.72%",
-       KD_Ratio: "2.05%",
-       Kills_Per_Match: "1.95%",
-       Total_Matches: "996",
-       Total_Kills: "1,943",
-       Total_Deaths: "949",
-       Total_Wins: "47",
-       Outlived_Players: "58,371"
+       Win_Ratio: "12.00%",
+       KD_Ratio: "2.54%",
+       Kills_Per_Match: "2.24%",
+       Total_Matches: "25",
+       Total_Kills: "56",
+       Total_Deaths: "22",
+       Total_Wins: "3",
+       Outlived_Players: "1,289"
     },
     Lifetime: {
-      Win_Ratio: "5.01%",
-      KD_Ratio: "1.47%",
-      Kills_Per_Match: "1.40%",
-      Total_Matches: "3,296",
-      Total_Kills: "4,607",
-      Total_Deaths: "3,131",
-      Total_Wins: "165",
-      Outlived_Players: "202,320"
+      Win_Ratio: "7.69%",
+      KD_Ratio: "2.38%",
+      Kills_Per_Match: "2.19%",
+      Total_Matches: "4,772",
+      Total_Kills: "10,461",
+      Total_Deaths: "4,405",
+      Total_Wins: "367",
+      Outlived_Players: "71,252"
       },
     }
 }; 
@@ -82,11 +82,11 @@ const 2M4U = {
 <br><h2 align="center"> ✨ Contributors & Credits ✨</h2><br>
 <details>
   <summary>
-      Fortnite Stats - Credit: <a href="https://fortnite-api.com/?utm_source=github.com/2M4U/2M4U">Fortnite-API.com</a>
+      Fortnite Stats - Credit: <a href="https://fortnite-api.com/?utm_source=github.com/2M4U/2M4U">Fortnite-API.com</a><br>
       Code of Conduct - Credit: <a href="https://github.com/Akshun-01">Akshun-01</a>
   </summary>
 </details>
 
-<!-- Last updated on Sun Nov 13 2022 19:35:23 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Sun 13th Nov @ 19:35:23 using magic<br>
-Script Optimization; RAM Usage: 14.77</i>✨
+<!-- Last updated on Sun Nov 13 2022 21:27:34 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Sun 13th Nov @ 21:27:34 using magic<br>
+Script Optimization; RAM Usage: 14.65</i>✨
