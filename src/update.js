@@ -153,9 +153,7 @@ const WriteReadMe = async () => {
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
   ${tweet[0].text}
    
-  <br><h2 align="center"> ✨ ${
-    process.env.FORTNITE_USERNAME==="Voltic Stratus":"Black Knight OG"?process.env.FORTNITE_USERNAME
-  } Fortnite Stats ✨</h2><br>
+  <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: ${data.data.battlePass.level}<br>
   🎉 Progress To Next Level: ![](https://geps.dev/progress/${
     data.data.battlePass.progress
@@ -223,7 +221,7 @@ const 2M4U = {
 <br><h2 align="center"> ✨ Contributors & Credits ✨</h2><br>
 <details>
   <summary>
-      Fortnite Stats - Credit: <a href="https://fortnite-api.com/?utm_source=github.com/2M4U/2M4U">Fortnite-API.com</a>
+      Fortnite Stats - Credit: <a href="https://fortnite-api.com/?utm_source=github.com/2M4U/2M4U">Fortnite-API.com</a><br>
       Code of Conduct - Credit: <a href="https://github.com/Akshun-01">Akshun-01</a>
   </summary>
 </details>
