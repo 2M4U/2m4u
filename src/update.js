@@ -77,7 +77,7 @@ const WriteReadMe = async () => {
   console.log(tweet);
 
   let data = await fetch(
-    `https://fortnite-api.com/v2/stats/br/v2?name=${process.env.FORTNITE_USERNAME}`,
+    `https://fortnite-api.com/v2/stats/br/v2?name=${encodeURIComponent(process.env.FORTNITE_USERNAME)}`,
     {
       headers: {
         Authorization: process.env.API_SECRET,
@@ -85,7 +85,7 @@ const WriteReadMe = async () => {
     }
   ).then((res) => res.json());
   let season = await fetch(
-    `https://fortnite-api.com/v2/stats/br/v2?name=${process.env.FORTNITE_USERNAME}&timeWindow=season`,
+    `https://fortnite-api.com/v2/stats/br/v2?name=${encodeURIComponent(process.env.FORTNITE_USERNAME)}&timeWindow=season`,
     {
       headers: {
         Authorization: process.env.API_SECRET,
@@ -154,7 +154,7 @@ const WriteReadMe = async () => {
   ${tweet[0].text}
    
   <br><h2 align="center"> ✨ ${
-    process.env.FORTNITE_USERNAME
+    process.env.FORTNITE_USERNAME==="Voltic Stratus":"Black Knight OG"?process.env.FORTNITE_USERNAME
   } Fortnite Stats ✨</h2><br>
   🏆 Current Level: ${data.data.battlePass.level}<br>
   🎉 Progress To Next Level: ![](https://geps.dev/progress/${
