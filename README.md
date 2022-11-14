@@ -14,7 +14,7 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  #BlackKnight #FortniteLeaks #FortniteChapter3Season4 https://t.co/fh2QlEiBVU
+  @nintqn @DonaldMustard You’re butthurt frfr a typical kid who rages every time a pro player batters them (fish stick)
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 37<br>
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Mon Nov 14 2022 11:27:36 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Mon 14th Nov @ 11:27:36 using magic<br>
-Script Optimization; RAM Usage: 14.71</i>✨
+<!-- Last updated on Mon Nov 14 2022 11:39:12 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Mon 14th Nov @ 11:39:12 using magic<br>
+Script Optimization; RAM Usage: 14.66</i>✨
