@@ -10,44 +10,44 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-80-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-232-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-81-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-232-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
   #BlackKnight #FortniteLeaks #FortniteChapter3Season4 https://t.co/fh2QlEiBVU
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 31<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/52)<br>
-  🎯 Total Kills: 10,461<br>
-  💀 Total Deaths: 4,410<br>
-  👑 Total Wins: 367<br>
+  🏆 Current Level: 37<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/27)<br>
+  🎯 Total Kills: 10,472<br>
+  💀 Total Deaths: 4,413<br>
+  👑 Total Wins: 368<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
-      Level: "31",
-      Progress: "52%",    
+      Level: "37",
+      Progress: "27%",    
     }
     Season: { 
-       Win_Ratio: "10.00%",
-       KD_Ratio: "2.07%",
-       Kills_Per_Match: "1.87%",
-       Total_Matches: "30",
-       Total_Kills: "56",
-       Total_Deaths: "27",
-       Total_Wins: "3",
-       Outlived_Players: "1,289"
+       Win_Ratio: "11.77%",
+       KD_Ratio: "2.23%",
+       Kills_Per_Match: "1.97%",
+       Total_Matches: "34",
+       Total_Kills: "67",
+       Total_Deaths: "30",
+       Total_Wins: "4",
+       Outlived_Players: "1,547"
     },
     Lifetime: {
-      Win_Ratio: "7.68%",
+      Win_Ratio: "7.70%",
       KD_Ratio: "2.37%",
       Kills_Per_Match: "2.19%",
-      Total_Matches: "4,777",
-      Total_Kills: "10,461",
-      Total_Deaths: "4,410",
-      Total_Wins: "367",
-      Outlived_Players: "71,252"
+      Total_Matches: "4,781",
+      Total_Kills: "10,472",
+      Total_Deaths: "4,413",
+      Total_Wins: "368",
+      Outlived_Players: "71,510"
       },
     }
 }; 
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Mon Nov 14 2022 01:58:35 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Mon 14th Nov @ 01:58:35 using magic<br>
-Script Optimization; RAM Usage: 14.73</i>✨
+<!-- Last updated on Mon Nov 14 2022 04:55:09 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Mon 14th Nov @ 04:55:09 using magic<br>
+Script Optimization; RAM Usage: 14.75</i>✨
