@@ -17,25 +17,25 @@
   @nintqn @DonaldMustard You’re butthurt frfr a typical kid who rages every time a pro player batters them (fish stick)
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 37<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/27)<br>
+  🏆 Current Level: 47<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/85)<br>
   🎯 Total Kills: 10,472<br>
-  💀 Total Deaths: 4,413<br>
+  💀 Total Deaths: 4,414<br>
   👑 Total Wins: 368<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
-      Level: "37",
-      Progress: "27%",    
+      Level: "47",
+      Progress: "85%",    
     }
     Season: { 
-       Win_Ratio: "11.77%",
-       KD_Ratio: "2.23%",
-       Kills_Per_Match: "1.97%",
-       Total_Matches: "34",
+       Win_Ratio: "11.43%",
+       KD_Ratio: "2.16%",
+       Kills_Per_Match: "1.91%",
+       Total_Matches: "35",
        Total_Kills: "67",
-       Total_Deaths: "30",
+       Total_Deaths: "31",
        Total_Wins: "4",
        Outlived_Players: "1,547"
     },
@@ -43,9 +43,9 @@ const Fortnite_Stats = {
       Win_Ratio: "7.70%",
       KD_Ratio: "2.37%",
       Kills_Per_Match: "2.19%",
-      Total_Matches: "4,781",
+      Total_Matches: "4,782",
       Total_Kills: "10,472",
-      Total_Deaths: "4,413",
+      Total_Deaths: "4,414",
       Total_Wins: "368",
       Outlived_Players: "71,510"
       },
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Mon Nov 14 2022 18:47:04 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Mon 14th Nov @ 18:47:04 using magic<br>
-Script Optimization; RAM Usage: 14.64</i>✨
+<!-- Last updated on Mon Nov 14 2022 19:18:33 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Mon 14th Nov @ 19:18:33 using magic<br>
+Script Optimization; RAM Usage: 14.68</i>✨
