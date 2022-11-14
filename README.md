@@ -10,42 +10,42 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-80-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-232-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-81-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-232-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
   @nintqn @DonaldMustard You’re butthurt frfr a typical kid who rages every time a pro player batters them (fish stick)
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 47<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/85)<br>
-  🎯 Total Kills: 10,472<br>
-  💀 Total Deaths: 4,414<br>
+  🏆 Current Level: 48<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/4)<br>
+  🎯 Total Kills: 10,473<br>
+  💀 Total Deaths: 4,415<br>
   👑 Total Wins: 368<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
-      Level: "47",
-      Progress: "85%",    
+      Level: "48",
+      Progress: "4%",    
     }
     Season: { 
-       Win_Ratio: "11.43%",
-       KD_Ratio: "2.16%",
-       Kills_Per_Match: "1.91%",
-       Total_Matches: "35",
-       Total_Kills: "67",
-       Total_Deaths: "31",
+       Win_Ratio: "11.11%",
+       KD_Ratio: "2.13%",
+       Kills_Per_Match: "1.89%",
+       Total_Matches: "36",
+       Total_Kills: "68",
+       Total_Deaths: "32",
        Total_Wins: "4",
        Outlived_Players: "1,547"
     },
     Lifetime: {
-      Win_Ratio: "7.70%",
+      Win_Ratio: "7.69%",
       KD_Ratio: "2.37%",
       Kills_Per_Match: "2.19%",
-      Total_Matches: "4,782",
-      Total_Kills: "10,472",
-      Total_Deaths: "4,414",
+      Total_Matches: "4,783",
+      Total_Kills: "10,473",
+      Total_Deaths: "4,415",
       Total_Wins: "368",
       Outlived_Players: "71,510"
       },
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Mon Nov 14 2022 20:18:32 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Mon 14th Nov @ 20:18:32 using magic<br>
-Script Optimization; RAM Usage: 14.69</i>✨
+<!-- Last updated on Mon Nov 14 2022 20:36:02 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Mon 14th Nov @ 20:36:02 using magic<br>
+Script Optimization; RAM Usage: 14.64</i>✨
