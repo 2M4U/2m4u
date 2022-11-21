@@ -10,44 +10,45 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-81-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-232-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-80-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-232-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @nintqn @DonaldMustard You’re butthurt frfr a typical kid who rages every time a pro player batters them (fish stick)
+  Mi Ya Hi
+#FortniteChapter3Season4
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 48<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/4)<br>
-  🎯 Total Kills: 10,473<br>
-  💀 Total Deaths: 4,415<br>
-  👑 Total Wins: 369<br>
+  🏆 Current Level: 88<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/49)<br>
+  🎯 Total Kills: 10,580<br>
+  💀 Total Deaths: 4,471<br>
+  👑 Total Wins: 371<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
-      Level: "48",
-      Progress: "4%",    
+      Level: "88",
+      Progress: "49%",    
     }
     Season: { 
-       Win_Ratio: "13.51%",
-       KD_Ratio: "2.13%",
+       Win_Ratio: "7.37%",
+       KD_Ratio: "1.99%",
        Kills_Per_Match: "1.84%",
-       Total_Matches: "37",
-       Total_Kills: "68",
-       Total_Deaths: "32",
-       Total_Wins: "5",
-       Outlived_Players: "1,547"
+       Total_Matches: "95",
+       Total_Kills: "175",
+       Total_Deaths: "88",
+       Total_Wins: "7",
+       Outlived_Players: "5,396"
     },
     Lifetime: {
-      Win_Ratio: "7.71%",
+      Win_Ratio: "7.66%",
       KD_Ratio: "2.37%",
       Kills_Per_Match: "2.19%",
-      Total_Matches: "4,784",
-      Total_Kills: "10,473",
-      Total_Deaths: "4,415",
-      Total_Wins: "369",
-      Outlived_Players: "71,510"
+      Total_Matches: "4,842",
+      Total_Kills: "10,580",
+      Total_Deaths: "4,471",
+      Total_Wins: "371",
+      Outlived_Players: "75,359"
       },
     }
 }; 
@@ -60,7 +61,7 @@ const Fortnite_Stats = {
 const 2M4U = {
     Fav_Lang: "Javascript",
     Github_Stars: 37,
-    Public_Repos: 61,
+    Public_Repos: 62,
     Public_Gists: 1,
     Followers: 8,
     Following: 21,
@@ -87,6 +88,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Mon Nov 14 2022 21:17:38 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Mon 14th Nov @ 21:17:38 using magic<br>
-Script Optimization; RAM Usage: 14.69</i>✨
+<!-- Last updated on Mon Nov 21 2022 22:46:34 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Mon 21st Nov @ 22:46:34 using magic<br>
+Script Optimization; RAM Usage: 14.68</i>✨
