@@ -10,44 +10,44 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-81-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-232-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-80-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-232-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
   @JustTooSauxy @Goated_Himself He didn’t, it’s his bio 😏
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 88<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/49)<br>
-  🎯 Total Kills: 10,580<br>
-  💀 Total Deaths: 4,471<br>
+  🏆 Current Level: 92<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/90)<br>
+  🎯 Total Kills: 10,582<br>
+  💀 Total Deaths: 4,472<br>
   👑 Total Wins: 371<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
-      Level: "88",
-      Progress: "49%",    
+      Level: "92",
+      Progress: "90%",    
     }
     Season: { 
-       Win_Ratio: "7.37%",
+       Win_Ratio: "7.29%",
        KD_Ratio: "1.99%",
        Kills_Per_Match: "1.84%",
-       Total_Matches: "95",
-       Total_Kills: "175",
-       Total_Deaths: "88",
+       Total_Matches: "96",
+       Total_Kills: "177",
+       Total_Deaths: "89",
        Total_Wins: "7",
-       Outlived_Players: "5,396"
+       Outlived_Players: "5,470"
     },
     Lifetime: {
       Win_Ratio: "7.66%",
       KD_Ratio: "2.37%",
       Kills_Per_Match: "2.19%",
-      Total_Matches: "4,842",
-      Total_Kills: "10,580",
-      Total_Deaths: "4,471",
+      Total_Matches: "4,843",
+      Total_Kills: "10,582",
+      Total_Deaths: "4,472",
       Total_Wins: "371",
-      Outlived_Players: "75,359"
+      Outlived_Players: "75,433"
       },
     }
 }; 
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Mon Nov 21 2022 23:55:03 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Mon 21st Nov @ 23:55:03 using magic<br>
-Script Optimization; RAM Usage: 14.74</i>✨
+<!-- Last updated on Tue Nov 22 2022 03:57:43 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Tue 22nd Nov @ 03:57:43 using magic<br>
+Script Optimization; RAM Usage: 14.67</i>✨
