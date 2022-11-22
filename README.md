@@ -17,37 +17,37 @@
   @JustTooSauxy @Goated_Himself He didn’t, it’s his bio 😏
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 92<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/90)<br>
-  🎯 Total Kills: 10,582<br>
-  💀 Total Deaths: 4,472<br>
+  🏆 Current Level: 93<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/42)<br>
+  🎯 Total Kills: 10,587<br>
+  💀 Total Deaths: 4,473<br>
   👑 Total Wins: 371<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
-      Level: "92",
-      Progress: "90%",    
+      Level: "93",
+      Progress: "42%",    
     }
     Season: { 
-       Win_Ratio: "7.29%",
-       KD_Ratio: "1.99%",
-       Kills_Per_Match: "1.84%",
-       Total_Matches: "96",
-       Total_Kills: "177",
-       Total_Deaths: "89",
+       Win_Ratio: "7.22%",
+       KD_Ratio: "2.02%",
+       Kills_Per_Match: "1.88%",
+       Total_Matches: "97",
+       Total_Kills: "182",
+       Total_Deaths: "90",
        Total_Wins: "7",
-       Outlived_Players: "5,470"
+       Outlived_Players: "5,558"
     },
     Lifetime: {
       Win_Ratio: "7.66%",
       KD_Ratio: "2.37%",
       Kills_Per_Match: "2.19%",
-      Total_Matches: "4,843",
-      Total_Kills: "10,582",
-      Total_Deaths: "4,472",
+      Total_Matches: "4,844",
+      Total_Kills: "10,587",
+      Total_Deaths: "4,473",
       Total_Wins: "371",
-      Outlived_Players: "75,433"
+      Outlived_Players: "75,521"
       },
     }
 }; 
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Tue Nov 22 2022 03:57:43 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Tue 22nd Nov @ 03:57:43 using magic<br>
-Script Optimization; RAM Usage: 14.67</i>✨
+<!-- Last updated on Tue Nov 22 2022 04:44:36 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Tue 22nd Nov @ 04:44:36 using magic<br>
+Script Optimization; RAM Usage: 14.63</i>✨
