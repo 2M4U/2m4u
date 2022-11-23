@@ -10,11 +10,11 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-79-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-235-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-78-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-235-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @SmokingBabe420 Eh not worth it when my account is worth https://t.co/t0S8RPjxEI
+  @amagicmantv @OFFICIALJONESY5 @evie_fortnite @prime_rib94
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 93<br>
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Wed Nov 23 2022 15:45:46 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Wed 23rd Nov @ 15:45:46 using magic<br>
-Script Optimization; RAM Usage: 14.71</i>✨
+<!-- Last updated on Wed Nov 23 2022 16:44:35 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Wed 23rd Nov @ 16:44:35 using magic<br>
+Script Optimization; RAM Usage: 14.63</i>✨
