@@ -10,11 +10,11 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-78-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-233-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-78-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-235-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @rikbtw @RimzixGives He privated all his vids lmao
+  @SmokingBabe420 Eh not worth it when my account is worth https://t.co/t0S8RPjxEI
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 93<br>
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Wed Nov 23 2022 14:14:42 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Wed 23rd Nov @ 14:14:42 using magic<br>
+<!-- Last updated on Wed Nov 23 2022 14:29:24 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Wed 23rd Nov @ 14:29:24 using magic<br>
 Script Optimization; RAM Usage: 14.63</i>✨
