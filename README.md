@@ -14,7 +14,9 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @amagicmantv @OFFICIALJONESY5 @evie_fortnite @prime_rib94
+  RT @amagicmantv: 5K VBUCKS | 20 DoIlars - 24 hours 
+-Retweet 
+-Follow Me &amp; @TeTheGamer with Notis https://t.co/yEwUtCPwMi
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 93<br>
@@ -87,6 +89,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Wed Nov 23 2022 17:28:29 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Wed 23rd Nov @ 17:28:29 using magic<br>
-Script Optimization; RAM Usage: 14.62</i>✨
+<!-- Last updated on Wed Nov 23 2022 17:56:23 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Wed 23rd Nov @ 17:56:23 using magic<br>
+Script Optimization; RAM Usage: 14.81</i>✨
