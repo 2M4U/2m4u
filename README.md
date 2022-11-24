@@ -14,42 +14,40 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  RT @amagicmantv: 5K VBUCKS | 20 DoIlars - 24 hours 
--Retweet 
--Follow Me &amp; @TeTheGamer with Notis https://t.co/yEwUtCPwMi
+  #PS4share https://t.co/NNiTYWaLV2
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 96<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/91)<br>
-  🎯 Total Kills: 10,587<br>
+  🏆 Current Level: 97<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/0)<br>
+  🎯 Total Kills: 10,594<br>
   💀 Total Deaths: 4,474<br>
-  👑 Total Wins: 371<br>
+  👑 Total Wins: 372<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
-      Level: "96",
-      Progress: "91%",    
+      Level: "97",
+      Progress: "0%",    
     }
     Season: { 
-       Win_Ratio: "7.14%",
-       KD_Ratio: "2.00%",
-       Kills_Per_Match: "1.86%",
-       Total_Matches: "98",
-       Total_Kills: "182",
+       Win_Ratio: "8.08%",
+       KD_Ratio: "2.08%",
+       Kills_Per_Match: "1.91%",
+       Total_Matches: "99",
+       Total_Kills: "189",
        Total_Deaths: "91",
-       Total_Wins: "7",
-       Outlived_Players: "5,646"
+       Total_Wins: "8",
+       Outlived_Players: "5,742"
     },
     Lifetime: {
-      Win_Ratio: "7.66%",
+      Win_Ratio: "7.68%",
       KD_Ratio: "2.37%",
       Kills_Per_Match: "2.19%",
-      Total_Matches: "4,845",
-      Total_Kills: "10,587",
+      Total_Matches: "4,846",
+      Total_Kills: "10,594",
       Total_Deaths: "4,474",
-      Total_Wins: "371",
-      Outlived_Players: "75,609"
+      Total_Wins: "372",
+      Outlived_Players: "75,705"
       },
     }
 }; 
@@ -89,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Thu Nov 24 2022 20:26:24 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Thu 24th Nov @ 20:26:24 using magic<br>
-Script Optimization; RAM Usage: 14.62</i>✨
+<!-- Last updated on Thu Nov 24 2022 21:53:52 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Thu 24th Nov @ 21:53:52 using magic<br>
+Script Optimization; RAM Usage: 14.88</i>✨
