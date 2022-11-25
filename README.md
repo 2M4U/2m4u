@@ -17,37 +17,37 @@
   #PS4share https://t.co/NNiTYWaLV2
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 100<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/88)<br>
-  🎯 Total Kills: 10,594<br>
-  💀 Total Deaths: 4,478<br>
+  🏆 Current Level: 101<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/30)<br>
+  🎯 Total Kills: 10,602<br>
+  💀 Total Deaths: 4,482<br>
   👑 Total Wins: 372<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
-      Level: "100",
-      Progress: "88%",    
+      Level: "101",
+      Progress: "30%",    
     }
     Season: { 
-       Win_Ratio: "7.77%",
+       Win_Ratio: "7.48%",
        KD_Ratio: "1.99%",
-       Kills_Per_Match: "1.83%",
-       Total_Matches: "103",
-       Total_Kills: "189",
-       Total_Deaths: "95",
+       Kills_Per_Match: "1.84%",
+       Total_Matches: "107",
+       Total_Kills: "197",
+       Total_Deaths: "99",
        Total_Wins: "8",
-       Outlived_Players: "5,960"
+       Outlived_Players: "6,277"
     },
     Lifetime: {
-      Win_Ratio: "7.67%",
+      Win_Ratio: "7.66%",
       KD_Ratio: "2.37%",
       Kills_Per_Match: "2.18%",
-      Total_Matches: "4,850",
-      Total_Kills: "10,594",
-      Total_Deaths: "4,478",
+      Total_Matches: "4,854",
+      Total_Kills: "10,602",
+      Total_Deaths: "4,482",
       Total_Wins: "372",
-      Outlived_Players: "75,923"
+      Outlived_Players: "76,240"
       },
     }
 }; 
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Thu Nov 24 2022 23:42:27 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Thu 24th Nov @ 23:42:27 using magic<br>
-Script Optimization; RAM Usage: 14.68</i>✨
+<!-- Last updated on Fri Nov 25 2022 02:16:16 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Fri 25th Nov @ 02:16:16 using magic<br>
+Script Optimization; RAM Usage: 14.86</i>✨
