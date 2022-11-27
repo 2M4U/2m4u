@@ -10,11 +10,11 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-77-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-237-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-78-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-237-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @amagicmantv Yeet
+  @SmokingBabe420 @EpicGames @FortniteGame HUSH https://t.co/66BfplM8Nl
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 102<br>
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Sun Nov 27 2022 20:59:41 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Sun 27th Nov @ 20:59:41 using magic<br>
-Script Optimization; RAM Usage: 14.72</i>✨
+<!-- Last updated on Sun Nov 27 2022 22:58:50 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Sun 27th Nov @ 22:58:50 using magic<br>
+Script Optimization; RAM Usage: 14.68</i>✨
