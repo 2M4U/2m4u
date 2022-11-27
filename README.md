@@ -10,11 +10,11 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-78-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-235-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-77-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-237-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  #PS4share https://t.co/NNiTYWaLV2
+  @amagicmantv Yeet
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 102<br>
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Sat Nov 26 2022 22:57:59 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Sat 26th Nov @ 22:57:59 using magic<br>
-Script Optimization; RAM Usage: 14.71</i>✨
+<!-- Last updated on Sun Nov 27 2022 02:58:56 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Sun 27th Nov @ 02:58:56 using magic<br>
+Script Optimization; RAM Usage: 14.54</i>✨
