@@ -17,37 +17,37 @@
   @SmokingBabe420 @EpicGames @FortniteGame HUSH https://t.co/66BfplM8Nl
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 106<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/56)<br>
-  🎯 Total Kills: 10,622<br>
-  💀 Total Deaths: 4,491<br>
+  🏆 Current Level: 107<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/44)<br>
+  🎯 Total Kills: 10,626<br>
+  💀 Total Deaths: 4,493<br>
   👑 Total Wins: 372<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
-      Level: "106",
-      Progress: "56%",    
+      Level: "107",
+      Progress: "44%",    
     }
     Season: { 
-       Win_Ratio: "6.90%",
+       Win_Ratio: "6.78%",
        KD_Ratio: "2.01%",
        Kills_Per_Match: "1.87%",
-       Total_Matches: "116",
-       Total_Kills: "217",
-       Total_Deaths: "108",
+       Total_Matches: "118",
+       Total_Kills: "221",
+       Total_Deaths: "110",
        Total_Wins: "8",
-       Outlived_Players: "6,845"
+       Outlived_Players: "6,961"
     },
     Lifetime: {
       Win_Ratio: "7.65%",
       KD_Ratio: "2.37%",
       Kills_Per_Match: "2.18%",
-      Total_Matches: "4,863",
-      Total_Kills: "10,622",
-      Total_Deaths: "4,491",
+      Total_Matches: "4,865",
+      Total_Kills: "10,626",
+      Total_Deaths: "4,493",
       Total_Wins: "372",
-      Outlived_Players: "76,808"
+      Outlived_Players: "76,924"
       },
     }
 }; 
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Mon Nov 28 2022 11:41:16 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Mon 28th Nov @ 11:41:16 using magic<br>
-Script Optimization; RAM Usage: 14.78</i>✨
+<!-- Last updated on Mon Nov 28 2022 13:12:23 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Mon 28th Nov @ 13:12:23 using magic<br>
+Script Optimization; RAM Usage: 14.84</i>✨
