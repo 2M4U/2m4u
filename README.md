@@ -14,40 +14,40 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @SmokingBabe420 @EpicGames @FortniteGame HUSH https://t.co/66BfplM8Nl
+  Fortnite has become that TOXIC now that people are legit TEAMING in SOLO. #FortniteChapter4  #FortniteFracture
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 107<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/44)<br>
-  🎯 Total Kills: 10,626<br>
-  💀 Total Deaths: 4,493<br>
+  🏆 Current Level: 108<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/85)<br>
+  🎯 Total Kills: 10,635<br>
+  💀 Total Deaths: 4,495<br>
   👑 Total Wins: 372<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
-      Level: "107",
-      Progress: "44%",    
+      Level: "108",
+      Progress: "85%",    
     }
     Season: { 
-       Win_Ratio: "6.78%",
-       KD_Ratio: "2.01%",
-       Kills_Per_Match: "1.87%",
-       Total_Matches: "118",
-       Total_Kills: "221",
-       Total_Deaths: "110",
+       Win_Ratio: "6.67%",
+       KD_Ratio: "2.05%",
+       Kills_Per_Match: "1.92%",
+       Total_Matches: "120",
+       Total_Kills: "230",
+       Total_Deaths: "112",
        Total_Wins: "8",
-       Outlived_Players: "6,961"
+       Outlived_Players: "7,144"
     },
     Lifetime: {
-      Win_Ratio: "7.65%",
+      Win_Ratio: "7.64%",
       KD_Ratio: "2.37%",
-      Kills_Per_Match: "2.18%",
-      Total_Matches: "4,865",
-      Total_Kills: "10,626",
-      Total_Deaths: "4,493",
+      Kills_Per_Match: "2.19%",
+      Total_Matches: "4,867",
+      Total_Kills: "10,635",
+      Total_Deaths: "4,495",
       Total_Wins: "372",
-      Outlived_Players: "76,924"
+      Outlived_Players: "77,107"
       },
     }
 }; 
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Mon Nov 28 2022 13:36:03 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Mon 28th Nov @ 13:36:03 using magic<br>
-Script Optimization; RAM Usage: 14.73</i>✨
+<!-- Last updated on Mon Nov 28 2022 15:46:06 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Mon 28th Nov @ 15:46:06 using magic<br>
+Script Optimization; RAM Usage: 14.68</i>✨
