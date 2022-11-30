@@ -14,7 +14,7 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  Fortnite has become that TOXIC now that people are legit TEAMING in SOLO. #FortniteChapter4  #FortniteFracture
+  @localmudwitch @RickandMorty https://t.co/UfYHl6WeO4
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 108<br>
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Wed Nov 30 2022 10:25:06 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Wed 30th Nov @ 10:25:06 using magic<br>
-Script Optimization; RAM Usage: 14.71</i>✨
+<!-- Last updated on Wed Nov 30 2022 10:39:24 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Wed 30th Nov @ 10:39:24 using magic<br>
+Script Optimization; RAM Usage: 14.59</i>✨
