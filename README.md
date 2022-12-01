@@ -14,7 +14,7 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @localmudwitch @RickandMorty https://t.co/UfYHl6WeO4
+  #DiscordDown https://t.co/qyqDScu7II
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 108<br>
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Wed Nov 30 2022 23:56:10 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Wed 30th Nov @ 23:56:10 using magic<br>
-Script Optimization; RAM Usage: 14.65</i>✨
+<!-- Last updated on Thu Dec 01 2022 01:25:51 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Thu 1st Dec @ 01:25:51 using magic<br>
+Script Optimization; RAM Usage: 14.72</i>✨
