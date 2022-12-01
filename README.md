@@ -10,11 +10,11 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-75-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-238-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-76-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-238-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @discord What if I told you ur biased and making it US. Only
+  @pulte never works but $RixqiLeaks, anything would help.
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 108<br>
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Thu Dec 01 2022 21:54:06 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Thu 1st Dec @ 21:54:06 using magic<br>
-Script Optimization; RAM Usage: 14.67</i>✨
+<!-- Last updated on Thu Dec 01 2022 22:09:48 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Thu 1st Dec @ 22:09:48 using magic<br>
+Script Optimization; RAM Usage: 14.62</i>✨
