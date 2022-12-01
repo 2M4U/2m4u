@@ -10,11 +10,11 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-76-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-238-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-75-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-238-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  #DiscordDown https://t.co/qyqDScu7II
+  @discord What if I told you ur biased and making it US. Only
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 108<br>
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Thu Dec 01 2022 19:50:08 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Thu 1st Dec @ 19:50:08 using magic<br>
-Script Optimization; RAM Usage: 14.68</i>✨
+<!-- Last updated on Thu Dec 01 2022 20:40:05 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Thu 1st Dec @ 20:40:05 using magic<br>
+Script Optimization; RAM Usage: 14.70</i>✨
