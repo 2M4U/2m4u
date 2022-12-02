@@ -14,7 +14,7 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @pulte never works but $RixqiLeaks, anything would help.
+  @Ioversnt @gwnbmi ong ur a dumbass, thats absolutely incorrect, secondly doxing is HIGHLY Dangerous &amp; A FEDERAL CRIME.
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 108<br>
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Fri Dec 02 2022 16:42:13 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Fri 2nd Dec @ 16:42:13 using magic<br>
-Script Optimization; RAM Usage: 14.74</i>✨
+<!-- Last updated on Fri Dec 02 2022 16:53:42 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Fri 2nd Dec @ 16:53:42 using magic<br>
+Script Optimization; RAM Usage: 14.72</i>✨
