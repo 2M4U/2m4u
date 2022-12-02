@@ -14,7 +14,8 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @Ioversnt @gwnbmi ong ur a dumbass, thats absolutely incorrect, secondly doxing is HIGHLY Dangerous &amp; A FEDERAL CRIME.
+  @gwnbmi 1. I do however I will not do it for you, nor teach you how to
+2. It's a federal crime (as per US Governmen… https://t.co/uERaQlLBZE
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 108<br>
@@ -87,6 +88,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Fri Dec 02 2022 16:53:42 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Fri 2nd Dec @ 16:53:42 using magic<br>
-Script Optimization; RAM Usage: 14.72</i>✨
+<!-- Last updated on Fri Dec 02 2022 17:24:17 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Fri 2nd Dec @ 17:24:17 using magic<br>
+Script Optimization; RAM Usage: 14.83</i>✨
