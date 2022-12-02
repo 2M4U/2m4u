@@ -14,8 +14,7 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @gwnbmi 1. I do however I will not do it for you, nor teach you how to
-2. It's a federal crime (as per US Governmen… https://t.co/uERaQlLBZE
+  @amagicmantv I know I ain’t finna win it but GL
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 108<br>
@@ -88,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Fri Dec 02 2022 20:36:46 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Fri 2nd Dec @ 20:36:46 using magic<br>
-Script Optimization; RAM Usage: 14.68</i>✨
+<!-- Last updated on Fri Dec 02 2022 21:43:00 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Fri 2nd Dec @ 21:43:00 using magic<br>
+Script Optimization; RAM Usage: 14.70</i>✨
