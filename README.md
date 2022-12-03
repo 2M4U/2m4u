@@ -10,11 +10,11 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-78-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-238-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-77-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-238-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  Before Zero Point There Was (check next comment)
+  @Pankostkiller I knew about this approx 1 month ago
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 108<br>
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Sat Dec 03 2022 19:36:17 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Sat 3rd Dec @ 19:36:17 using magic<br>
-Script Optimization; RAM Usage: 14.84</i>✨
+<!-- Last updated on Sat Dec 03 2022 19:45:42 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Sat 3rd Dec @ 19:45:42 using magic<br>
+Script Optimization; RAM Usage: 14.75</i>✨
