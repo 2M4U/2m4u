@@ -10,11 +10,11 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-77-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-240-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-78-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-240-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @Justin_Neagle #FakeMuch https://t.co/jIeWl0kiJC
+  @FitzyLeakz Black Knight, Black Shield, Mako Glider
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 108<br>
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Sat Dec 03 2022 19:54:45 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Sat 3rd Dec @ 19:54:45 using magic<br>
-Script Optimization; RAM Usage: 14.76</i>✨
+<!-- Last updated on Sat Dec 03 2022 20:36:00 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Sat 3rd Dec @ 20:36:00 using magic<br>
+Script Optimization; RAM Usage: 14.75</i>✨
