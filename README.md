@@ -14,11 +14,7 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  RT @SmokingBabe420: I'll do a 13,500 vbucks giveaway for 100 retweets &amp; likes ♥
-FOLLOW ME!
-
-don't forget to tag a friend!
-***USE CREATOR CO…
+  @Goated_Himself SmokingBabe420 😏
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 108<br>
@@ -91,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Sun Dec 04 2022 13:55:46 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Sun 4th Dec @ 13:55:46 using magic<br>
-Script Optimization; RAM Usage: 14.63</i>✨
+<!-- Last updated on Sun Dec 04 2022 14:11:51 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Sun 4th Dec @ 14:11:51 using magic<br>
+Script Optimization; RAM Usage: 14.64</i>✨
