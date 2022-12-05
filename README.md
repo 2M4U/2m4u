@@ -14,7 +14,8 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @papyid3uk Agreed!
+  #TidyEmoteReturn?
+#FortniteChapter4 #FortniteFracture #Fortnite #chapter4 #Season1Chapter4 https://t.co/HbqoLiutx9
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 7<br>
@@ -87,6 +88,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Mon Dec 05 2022 22:12:31 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Mon 5th Dec @ 22:12:31 using magic<br>
-Script Optimization; RAM Usage: 14.65</i>✨
+<!-- Last updated on Mon Dec 05 2022 22:38:28 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Mon 5th Dec @ 22:38:28 using magic<br>
+Script Optimization; RAM Usage: 14.67</i>✨
