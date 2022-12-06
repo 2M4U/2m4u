@@ -14,7 +14,7 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @RealVultureee @JadeTheJinx_ @Kevinga60776778 @NdlayrzA @iittaacchhiii Epic won’t ban anyone for it as it was parti… https://t.co/MQQQ7okupZ
+  @NeR0_13 Tidy emote is now at the 7th spot of rarest emotes
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 7<br>
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Tue Dec 06 2022 15:49:25 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Tue 6th Dec @ 15:49:25 using magic<br>
-Script Optimization; RAM Usage: 14.72</i>✨
+<!-- Last updated on Tue Dec 06 2022 15:58:36 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Tue 6th Dec @ 15:58:36 using magic<br>
+Script Optimization; RAM Usage: 14.59</i>✨
