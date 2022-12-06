@@ -14,13 +14,9 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  RT @itskelz1234: 🔥1x Fully Realized STW Pack🔥
+  Remove the stupid See where people are perk from Fortnite, it's GAME BREAKING period.
 
-one lucky winner will win the new stw pack. 
-
-to enter you must;
-
-•follow me &amp; @TeTheGamer w…
+#FortniteChapter4
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 7<br>
@@ -93,6 +89,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Tue Dec 06 2022 20:29:10 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Tue 6th Dec @ 20:29:10 using magic<br>
-Script Optimization; RAM Usage: 14.71</i>✨
+<!-- Last updated on Tue Dec 06 2022 20:39:19 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Tue 6th Dec @ 20:39:19 using magic<br>
+Script Optimization; RAM Usage: 14.81</i>✨
