@@ -10,13 +10,11 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-83-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-246-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-84-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-247-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  RT @amagicmantv: 5000 VBUCKS - 24 hours 
--Retweet 
--Follow Me &amp; @KillasGotIt with Notis https://t.co/SRESnlrk84
+  @iittaacchhiii @JadeTheJinx_ @FortniteStatus It's trusted by over 12k members LOL
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 7<br>
@@ -89,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Tue Dec 06 2022 05:46:04 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Tue 6th Dec @ 05:46:04 using magic<br>
-Script Optimization; RAM Usage: 14.62</i>✨
+<!-- Last updated on Tue Dec 06 2022 06:54:38 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Tue 6th Dec @ 06:54:38 using magic<br>
+Script Optimization; RAM Usage: 14.73</i>✨
