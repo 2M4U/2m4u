@@ -10,11 +10,14 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-84-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-247-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-85-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-247-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @iittaacchhiii @JadeTheJinx_ @FortniteStatus It's trusted by over 12k members LOL
+  RT @KillasGotIt: LIKE 
+RETWEET 
+FOLLOW 
+@ someone that plays so bad it’s like they use there elbow’s https://t.co/h8Fvk63uCB
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 7<br>
@@ -87,6 +90,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Tue Dec 06 2022 06:54:38 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Tue 6th Dec @ 06:54:38 using magic<br>
-Script Optimization; RAM Usage: 14.73</i>✨
+<!-- Last updated on Tue Dec 06 2022 07:33:32 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Tue 6th Dec @ 07:33:32 using magic<br>
+Script Optimization; RAM Usage: 14.71</i>✨
