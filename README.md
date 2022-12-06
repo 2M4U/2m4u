@@ -10,11 +10,12 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-81-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-245-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-82-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-245-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  Yo Any one got a 1k vbucks code i can buy cheap, payment via cashapp @TeTheGamer @TSASnoops @Snap_for_the_W @FrankGives @SharxGives
+  Tidy emote got removed from the Itemshop
+#Fortnite #FortniteChapter4
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 7<br>
@@ -87,6 +88,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Tue Dec 06 2022 03:18:15 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Tue 6th Dec @ 03:18:15 using magic<br>
-Script Optimization; RAM Usage: 14.61</i>✨
+<!-- Last updated on Tue Dec 06 2022 03:40:55 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Tue 6th Dec @ 03:40:55 using magic<br>
+Script Optimization; RAM Usage: 14.71</i>✨
