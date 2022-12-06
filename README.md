@@ -14,10 +14,7 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  RT @KillasGotIt: LIKE 
-RETWEET 
-FOLLOW 
-@ someone that plays so bad it’s like they use there elbow’s https://t.co/h8Fvk63uCB
+  @amagicmantv @KillasGotIt 🤔
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 7<br>
@@ -90,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Tue Dec 06 2022 09:52:53 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Tue 6th Dec @ 09:52:53 using magic<br>
-Script Optimization; RAM Usage: 14.69</i>✨
+<!-- Last updated on Tue Dec 06 2022 10:39:36 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Tue 6th Dec @ 10:39:36 using magic<br>
+Script Optimization; RAM Usage: 14.72</i>✨
