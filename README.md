@@ -10,12 +10,13 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-83-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-245-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-83-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-246-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  Tidy emote got removed from the Itemshop
-#Fortnite #FortniteChapter4
+  RT @amagicmantv: 5000 VBUCKS - 24 hours 
+-Retweet 
+-Follow Me &amp; @KillasGotIt with Notis https://t.co/SRESnlrk84
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 7<br>
@@ -88,6 +89,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Tue Dec 06 2022 04:57:49 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Tue 6th Dec @ 04:57:49 using magic<br>
-Script Optimization; RAM Usage: 14.68</i>✨
+<!-- Last updated on Tue Dec 06 2022 05:15:36 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Tue 6th Dec @ 05:15:36 using magic<br>
+Script Optimization; RAM Usage: 14.82</i>✨
