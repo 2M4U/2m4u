@@ -10,16 +10,17 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-85-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-248-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-86-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-248-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  RT @FrankGives: We will give the *NEW* Fully Realized Pack to 2 lucky winners who:
+  RT @itskelz1234: 🔥1x Fully Realized STW Pack🔥
 
-- Follow @TeTheGamer &amp; myself w/ notis
-- Retweet
+one lucky winner will win the new stw pack. 
 
-Ends…
+to enter you must;
+
+•follow me &amp; @TeTheGamer w…
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 7<br>
@@ -92,6 +93,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Tue Dec 06 2022 19:48:39 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Tue 6th Dec @ 19:48:39 using magic<br>
+<!-- Last updated on Tue Dec 06 2022 20:17:52 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Tue 6th Dec @ 20:17:52 using magic<br>
 Script Optimization; RAM Usage: 14.71</i>✨
