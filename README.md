@@ -14,7 +14,7 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @amagicmantv @KillasGotIt 🤔
+  @NdlayrzA @iittaacchhiii @JadeTheJinx_ @FortniteStatus Unless they used the ak47 bot idk
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 7<br>
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Tue Dec 06 2022 14:54:58 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Tue 6th Dec @ 14:54:58 using magic<br>
-Script Optimization; RAM Usage: 14.83</i>✨
+<!-- Last updated on Tue Dec 06 2022 15:12:33 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Tue 6th Dec @ 15:12:33 using magic<br>
+Script Optimization; RAM Usage: 14.74</i>✨
