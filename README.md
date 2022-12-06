@@ -10,11 +10,16 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-85-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-248-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-86-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-248-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @NeR0_13 @EpicGames I can quote from Lydia Vera an Epic Support Employee: We sometimes bring back rare items from t… https://t.co/bFjnz9MB5w
+  RT @FrankGives: We will give the *NEW* Fully Realized Pack to 2 lucky winners who:
+
+- Follow @TeTheGamer &amp; myself w/ notis
+- Retweet
+
+Ends…
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 7<br>
@@ -87,6 +92,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Tue Dec 06 2022 18:20:20 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Tue 6th Dec @ 18:20:20 using magic<br>
-Script Optimization; RAM Usage: 14.69</i>✨
+<!-- Last updated on Tue Dec 06 2022 18:54:42 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Tue 6th Dec @ 18:54:42 using magic<br>
+Script Optimization; RAM Usage: 14.77</i>✨
