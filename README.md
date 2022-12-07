@@ -14,7 +14,7 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  First #Tidy, now #Rambunctious, come on Epic Games, drop the ultimate bombshell and drop Aerial Assault Trooper for… https://t.co/SdQRqktoVr
+  Yeah #GoodLuckSam @SamModzHD lol https://t.co/WAurwQvplq
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 7<br>
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Wed Dec 07 2022 21:37:06 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Wed 7th Dec @ 21:37:06 using magic<br>
-Script Optimization; RAM Usage: 14.68</i>✨
+<!-- Last updated on Wed Dec 07 2022 21:55:23 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Wed 7th Dec @ 21:55:23 using magic<br>
+Script Optimization; RAM Usage: 14.72</i>✨
