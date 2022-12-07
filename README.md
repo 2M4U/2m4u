@@ -14,7 +14,7 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  Yeah #GoodLuckSam @SamModzHD lol https://t.co/WAurwQvplq
+  RT @FortnitePV2: If Fresh Emote Returns for next Item Shop change I’m Giving 10 people who retweet this and is following @FortnitePv2 1,000…
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 7<br>
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Wed Dec 07 2022 22:12:35 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Wed 7th Dec @ 22:12:35 using magic<br>
-Script Optimization; RAM Usage: 14.74</i>✨
+<!-- Last updated on Wed Dec 07 2022 22:38:39 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Wed 7th Dec @ 22:38:39 using magic<br>
+Script Optimization; RAM Usage: 14.67</i>✨
