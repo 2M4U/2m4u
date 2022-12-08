@@ -10,13 +10,11 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-84-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-248-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-84-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-250-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  T-Minus 30mins til next rare OG Item Release in Item Shop.
-
-#ItemShop #FortniteChapter4 #FortniteLeak
+  @amagicmantv @bdawg8445 Never gna win but gl
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 7<br>
@@ -89,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Thu Dec 08 2022 07:53:16 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Thu 8th Dec @ 07:53:16 using magic<br>
-Script Optimization; RAM Usage: 14.70</i>✨
+<!-- Last updated on Thu Dec 08 2022 08:32:13 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Thu 8th Dec @ 08:32:13 using magic<br>
+Script Optimization; RAM Usage: 14.67</i>✨
