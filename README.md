@@ -14,7 +14,9 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @amagicmantv @bdawg8445 Never gna win but gl
+  Aim Assist on Console has been disabled?! Why @FortniteGame 
+
+#FortniteChapter4 #Fortnite
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 7<br>
@@ -87,6 +89,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Thu Dec 08 2022 08:53:36 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Thu 8th Dec @ 08:53:36 using magic<br>
-Script Optimization; RAM Usage: 14.77</i>✨
+<!-- Last updated on Thu Dec 08 2022 09:35:11 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Thu 8th Dec @ 09:35:11 using magic<br>
+Script Optimization; RAM Usage: 14.86</i>✨
