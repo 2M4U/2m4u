@@ -14,9 +14,7 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  Aim Assist on Console has been disabled?! Why @FortniteGame 
-
-#FortniteChapter4 #Fortnite
+  @amagicmantv https://t.co/P8IG9ZmuyI
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 7<br>
@@ -89,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Thu Dec 08 2022 22:45:57 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Thu 8th Dec @ 22:45:57 using magic<br>
-Script Optimization; RAM Usage: 14.71</i>✨
+<!-- Last updated on Thu Dec 08 2022 23:39:50 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Thu 8th Dec @ 23:39:50 using magic<br>
+Script Optimization; RAM Usage: 14.59</i>✨
