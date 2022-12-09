@@ -63,7 +63,7 @@ const 2M4U = {
     Public_Repos: 63,
     Public_Gists: 1,
     Followers: 8,
-    Following: 21,
+    Following: 22,
 }; 
 ```
 
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Fri Dec 09 2022 05:54:00 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Fri 9th Dec @ 05:54:00 using magic<br>
-Script Optimization; RAM Usage: 14.73</i>✨
+<!-- Last updated on Fri Dec 09 2022 06:32:43 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Fri 9th Dec @ 06:32:43 using magic<br>
+Script Optimization; RAM Usage: 14.80</i>✨
