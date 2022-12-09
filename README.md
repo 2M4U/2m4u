@@ -14,7 +14,7 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @iFireMonkey L bozo
+  @ghostpepper1246 @thegameawards 2pac
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 7<br>
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Fri Dec 09 2022 05:26:06 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Fri 9th Dec @ 05:26:06 using magic<br>
-Script Optimization; RAM Usage: 14.55</i>✨
+<!-- Last updated on Fri Dec 09 2022 05:35:36 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Fri 9th Dec @ 05:35:36 using magic<br>
+Script Optimization; RAM Usage: 14.66</i>✨
