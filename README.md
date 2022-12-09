@@ -17,37 +17,37 @@
   @ghostpepper1246 @thegameawards 2pac
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 7<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/71)<br>
+  🏆 Current Level: 9<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/5)<br>
   🎯 Total Kills: 10,649<br>
-  💀 Total Deaths: 4,502<br>
+  💀 Total Deaths: 4,503<br>
   👑 Total Wins: 372<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
-      Level: "7",
-      Progress: "71%",    
+      Level: "9",
+      Progress: "5%",    
     }
     Season: { 
        Win_Ratio: "0.00%",
-       KD_Ratio: "2.00%",
-       Kills_Per_Match: "2.00%",
-       Total_Matches: "7",
+       KD_Ratio: "1.75%",
+       Kills_Per_Match: "1.75%",
+       Total_Matches: "8",
        Total_Kills: "14",
-       Total_Deaths: "7",
+       Total_Deaths: "8",
        Total_Wins: "0",
-       Outlived_Players: "507"
+       Outlived_Players: "538"
     },
     Lifetime: {
       Win_Ratio: "7.63%",
       KD_Ratio: "2.37%",
-      Kills_Per_Match: "2.19%",
-      Total_Matches: "4,874",
+      Kills_Per_Match: "2.18%",
+      Total_Matches: "4,875",
       Total_Kills: "10,649",
-      Total_Deaths: "4,502",
+      Total_Deaths: "4,503",
       Total_Wins: "372",
-      Outlived_Players: "77,614"
+      Outlived_Players: "77,645"
       },
     }
 }; 
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Fri Dec 09 2022 23:49:07 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Fri 9th Dec @ 23:49:07 using magic<br>
-Script Optimization; RAM Usage: 14.83</i>✨
+<!-- Last updated on Fri Dec 09 2022 23:58:22 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Fri 9th Dec @ 23:58:22 using magic<br>
+Script Optimization; RAM Usage: 14.73</i>✨
