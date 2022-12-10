@@ -34,40 +34,31 @@ const getDateSuffix = (date) => {
 
 const make2Digit = (num) => `0${num}`.slice(-2);
 
-var client = new Twitter({
+const client = new Twitter({
   consumer_key: process.env.TWITTER_API_KEY,
   consumer_secret: process.env.TWITTER_SECRET,
   access_token_key: process.env.TWITTER_ACCESS_KEY,
   access_token_secret: process.env.TWITTER_TOKEN_SECRET,
 });
 
-// function getUser(name) {
-//   return fetch(`https://fortnite-api.com/v2/stats/br/v2?name=${name}`,
-//     {
-//       headers: {
-//         Authorization: process.env.API_SECRET,
-//       },
-//     }).then(r => r.json());
-// }
-
 let stars = 0,
   page = 1;
 
-const CountStars = async () => {
-  let StarsData = await fetch(
+const countStars = async () => {
+  const starsData = await fetch(
     `https://api.github.com/users/2M4U/starred?per_page=100&page=${page}`
   ).then((res) => res.json());
-  stars += StarsData.length;
+  stars += starsData.length;
   page++;
-  if (StarsData.length === 100) CountStars();
-  else WriteReadMe();
+  if (starsData.length === 100) countStars();
+  else writeReadMe();
 };
 
-const WriteReadMe = async () => {
-  const ReadMe = join(__dirname, "..", "README.md");
+const writeReadMe = async () => {
+  const readMePath = join(__dirname, "..", "README.md");
   const now = new Date();
 
-  var params = { screen_name: "stomperleaks", count: 1 };
+  const params = { screen_name: "stomperleaks", count: 1 }// = { screen_name: "stomperleaks", count: 1 };
   let tweet = await client.get("statuses/user_timeline", params);
   
 //   const names = ["Rixqi", "StomperTheBunny","ImWay2Much4U"];
