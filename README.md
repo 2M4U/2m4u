@@ -10,44 +10,44 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-85-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-252-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-86-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-252-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @ghostpepper1246 @thegameawards 2pac
+  @Goated_Himself Just a simple 5,000 vbucks gift code please 🙏 £RixqiLeaks
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 9<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/5)<br>
-  🎯 Total Kills: 10,649<br>
-  💀 Total Deaths: 4,503<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/82)<br>
+  🎯 Total Kills: 10,654<br>
+  💀 Total Deaths: 4,504<br>
   👑 Total Wins: 372<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
       Level: "9",
-      Progress: "5%",    
+      Progress: "82%",    
     }
     Season: { 
        Win_Ratio: "0.00%",
-       KD_Ratio: "1.75%",
-       Kills_Per_Match: "1.75%",
-       Total_Matches: "8",
-       Total_Kills: "14",
-       Total_Deaths: "8",
+       KD_Ratio: "2.11%",
+       Kills_Per_Match: "2.11%",
+       Total_Matches: "9",
+       Total_Kills: "19",
+       Total_Deaths: "9",
        Total_Wins: "0",
-       Outlived_Players: "538"
+       Outlived_Players: "628"
     },
     Lifetime: {
       Win_Ratio: "7.63%",
       KD_Ratio: "2.37%",
-      Kills_Per_Match: "2.18%",
-      Total_Matches: "4,875",
-      Total_Kills: "10,649",
-      Total_Deaths: "4,503",
+      Kills_Per_Match: "2.19%",
+      Total_Matches: "4,876",
+      Total_Kills: "10,654",
+      Total_Deaths: "4,504",
       Total_Wins: "372",
-      Outlived_Players: "77,645"
+      Outlived_Players: "77,735"
       },
     }
 }; 
@@ -87,6 +87,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Fri Dec 09 2022 23:58:22 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Fri 9th Dec @ 23:58:22 using magic<br>
-Script Optimization; RAM Usage: 14.73</i>✨
+<!-- Last updated on Sat Dec 10 2022 02:54:32 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Sat 10th Dec @ 02:54:32 using magic<br>
+Script Optimization; RAM Usage: 14.76</i>✨
