@@ -129,6 +129,8 @@ const writeReadMe = async () => {
   What you see below is a future project for updating my<br>
   In-Game Fortnite Statistics, Feel free to Fork this repository<br>
   If you wish to see how this works.
+  <br>
+  Wish to contact me? [Add me on Discord](https://tinyurl.com/addmeondiscord)
   <br><br>
   <br>
   
