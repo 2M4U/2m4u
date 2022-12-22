@@ -5,49 +5,51 @@
   What you see below is a future project for updating my<br>
   In-Game Fortnite Statistics, Feel free to Fork this repository<br>
   If you wish to see how this works.
+  <br>
+  Wish to contact me? [Add me on Discord](https://tinyurl.com/addmeondiscord)
   <br><br>
   <br>
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-86-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-252-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-84-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-280-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @Goated_Himself Just a simple 5,000 vbucks gift code please 🙏 £RixqiLeaks
+  mom gae
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 9<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/82)<br>
-  🎯 Total Kills: 10,654<br>
-  💀 Total Deaths: 4,504<br>
-  👑 Total Wins: 372<br>
+  🏆 Current Level: 29<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/16)<br>
+  🎯 Total Kills: 10,920<br>
+  💀 Total Deaths: 4,557<br>
+  👑 Total Wins: 374<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
-      Level: "9",
-      Progress: "82%",    
+      Level: "29",
+      Progress: "16%",    
     }
     Season: { 
-       Win_Ratio: "0.00%",
-       KD_Ratio: "2.11%",
-       Kills_Per_Match: "2.11%",
-       Total_Matches: "9",
-       Total_Kills: "19",
-       Total_Deaths: "9",
-       Total_Wins: "0",
-       Outlived_Players: "628"
+       Win_Ratio: "3.13%",
+       KD_Ratio: "4.60%",
+       Kills_Per_Match: "4.45%",
+       Total_Matches: "64",
+       Total_Kills: "285",
+       Total_Deaths: "62",
+       Total_Wins: "2",
+       Outlived_Players: "4,090"
     },
     Lifetime: {
-      Win_Ratio: "7.63%",
-      KD_Ratio: "2.37%",
-      Kills_Per_Match: "2.19%",
-      Total_Matches: "4,876",
-      Total_Kills: "10,654",
-      Total_Deaths: "4,504",
-      Total_Wins: "372",
-      Outlived_Players: "77,735"
+      Win_Ratio: "7.58%",
+      KD_Ratio: "2.40%",
+      Kills_Per_Match: "2.21%",
+      Total_Matches: "4,931",
+      Total_Kills: "10,920",
+      Total_Deaths: "4,557",
+      Total_Wins: "374",
+      Outlived_Players: "81,197"
       },
     }
 }; 
@@ -63,7 +65,7 @@ const 2M4U = {
     Public_Repos: 63,
     Public_Gists: 1,
     Followers: 8,
-    Following: 23,
+    Following: 24,
 }; 
 ```
 
@@ -87,6 +89,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Sat Dec 10 2022 10:04:48 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Sat 10th Dec @ 10:04:48 using magic<br>
-Script Optimization; RAM Usage: 14.75</i>✨
+<!-- Last updated on Thu Dec 22 2022 10:14:50 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Thu 22nd Dec @ 10:14:50 using magic<br>
+Script Optimization; RAM Usage: 14.64</i>✨
