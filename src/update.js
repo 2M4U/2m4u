@@ -230,6 +230,6 @@ Script Optimization; RAM Usage: ${ram.toFixed(2)}</i>✨`;
 };
 
 (() => {
-  CountStars();
-  WriteReadMe();
+  countStars();
+  writeReadMe();
 })();
