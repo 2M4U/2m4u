@@ -55,7 +55,7 @@ const countStars = async () => {
 };
 
 const writeReadMe = async () => {
-  const readMePath = join(__dirname, "..", "README.md");
+  const readMe = join(__dirname, "..", "README.md");
   const now = new Date();
 
   const params = { screen_name: "stomperleaks", count: 1 }// = { screen_name: "stomperleaks", count: 1 };
@@ -226,7 +226,7 @@ const 2M4U = {
     now.getMinutes()
   )}:${make2Digit(now.getSeconds())} using magic<br>
 Script Optimization; RAM Usage: ${ram.toFixed(2)}</i>✨`;
-  writeFileSync(ReadMe, text);
+  writeFileSync(readMe, text);
 };
 
 (() => {
