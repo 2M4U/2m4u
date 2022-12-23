@@ -12,11 +12,12 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-83-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-281-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-82-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-281-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  22 cops 1 dog handler and ambulance sent out to my area, all because the initial cops who arrived aggravated my nei… https://t.co/xdtFCJ0L4r
+  How the fuck is tasering a fucking dog legal?
+#UKPolice #DogAbuse #RSPCA #CorruptPolicing
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 30<br>
@@ -89,6 +90,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Fri Dec 23 2022 22:14:38 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Fri 23rd Dec @ 22:14:38 using magic<br>
-Script Optimization; RAM Usage: 14.56</i>✨
+<!-- Last updated on Fri Dec 23 2022 22:46:13 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Fri 23rd Dec @ 22:46:13 using magic<br>
+Script Optimization; RAM Usage: 14.57</i>✨
