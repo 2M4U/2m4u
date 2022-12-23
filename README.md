@@ -16,7 +16,7 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  RT @SmokingBabe420: @ReplyGuyChris @MrBeast Well stop paying for Twitter blue and maybe u'll have money.
+  22 cops 1 dog handler and ambulance sent out to my area, all because the initial cops who arrived aggravated my nei… https://t.co/xdtFCJ0L4r
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 30<br>
@@ -89,6 +89,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Fri Dec 23 2022 21:57:14 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Fri 23rd Dec @ 21:57:14 using magic<br>
-Script Optimization; RAM Usage: 14.91</i>✨
+<!-- Last updated on Fri Dec 23 2022 22:14:38 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Fri 23rd Dec @ 22:14:38 using magic<br>
+Script Optimization; RAM Usage: 14.56</i>✨
