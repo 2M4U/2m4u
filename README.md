@@ -12,44 +12,44 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-84-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-283-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-85-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-283-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  #FortniteWinterfest looking to play lol #PS4live (Fortnite) live at https://t.co/EMgD0ujjMq
+  #FortniteChapter4 #Fortnite #fortnitewinterfest https://t.co/QPLorT97PQ
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 37<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/95)<br>
-  🎯 Total Kills: 10,971<br>
-  💀 Total Deaths: 4,569<br>
+  🏆 Current Level: 38<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/30)<br>
+  🎯 Total Kills: 10,978<br>
+  💀 Total Deaths: 4,570<br>
   👑 Total Wins: 374<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
-      Level: "37",
-      Progress: "95%",    
+      Level: "38",
+      Progress: "30%",    
     }
     Season: { 
-       Win_Ratio: "2.63%",
-       KD_Ratio: "4.54%",
-       Kills_Per_Match: "4.42%",
-       Total_Matches: "76",
-       Total_Kills: "336",
-       Total_Deaths: "74",
+       Win_Ratio: "2.60%",
+       KD_Ratio: "4.57%",
+       Kills_Per_Match: "4.46%",
+       Total_Matches: "77",
+       Total_Kills: "343",
+       Total_Deaths: "75",
        Total_Wins: "2",
-       Outlived_Players: "4,740"
+       Outlived_Players: "4,830"
     },
     Lifetime: {
       Win_Ratio: "7.57%",
       KD_Ratio: "2.40%",
       Kills_Per_Match: "2.22%",
-      Total_Matches: "4,943",
-      Total_Kills: "10,971",
-      Total_Deaths: "4,569",
+      Total_Matches: "4,944",
+      Total_Kills: "10,978",
+      Total_Deaths: "4,570",
       Total_Wins: "374",
-      Outlived_Players: "81,847"
+      Outlived_Players: "81,937"
       },
     }
 }; 
@@ -89,6 +89,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Sat Dec 24 2022 18:54:58 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Sat 24th Dec @ 18:54:58 using magic<br>
-Script Optimization; RAM Usage: 14.66</i>✨
+<!-- Last updated on Sat Dec 24 2022 19:27:24 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Sat 24th Dec @ 19:27:24 using magic<br>
+Script Optimization; RAM Usage: 14.72</i>✨
