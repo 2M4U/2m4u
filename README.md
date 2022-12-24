@@ -16,40 +16,42 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @FortnitePV2 Me 😂
+  #SmokingBabe420Legit
+
+Thanks @SmokingBabe420 ! https://t.co/ShRrXBDyJA
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 34<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/86)<br>
-  🎯 Total Kills: 10,941<br>
-  💀 Total Deaths: 4,561<br>
+  🏆 Current Level: 35<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/49)<br>
+  🎯 Total Kills: 10,947<br>
+  💀 Total Deaths: 4,562<br>
   👑 Total Wins: 374<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
-      Level: "34",
-      Progress: "86%",    
+      Level: "35",
+      Progress: "49%",    
     }
     Season: { 
-       Win_Ratio: "2.94%",
-       KD_Ratio: "4.64%",
-       Kills_Per_Match: "4.50%",
-       Total_Matches: "68",
-       Total_Kills: "306",
-       Total_Deaths: "66",
+       Win_Ratio: "2.90%",
+       KD_Ratio: "4.66%",
+       Kills_Per_Match: "4.52%",
+       Total_Matches: "69",
+       Total_Kills: "312",
+       Total_Deaths: "67",
        Total_Wins: "2",
-       Outlived_Players: "4,309"
+       Outlived_Players: "4,385"
     },
     Lifetime: {
       Win_Ratio: "7.58%",
       KD_Ratio: "2.40%",
       Kills_Per_Match: "2.22%",
-      Total_Matches: "4,935",
-      Total_Kills: "10,941",
-      Total_Deaths: "4,561",
+      Total_Matches: "4,936",
+      Total_Kills: "10,947",
+      Total_Deaths: "4,562",
       Total_Wins: "374",
-      Outlived_Players: "81,416"
+      Outlived_Players: "81,492"
       },
     }
 }; 
@@ -89,6 +91,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Sat Dec 24 2022 15:43:51 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Sat 24th Dec @ 15:43:51 using magic<br>
-Script Optimization; RAM Usage: 14.73</i>✨
+<!-- Last updated on Sat Dec 24 2022 15:53:03 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Sat 24th Dec @ 15:53:03 using magic<br>
+Script Optimization; RAM Usage: 14.77</i>✨
