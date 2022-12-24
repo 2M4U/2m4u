@@ -12,44 +12,44 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-82-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-281-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-83-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-281-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
   @FortnitePV2 Me 😂
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 30<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/38)<br>
-  🎯 Total Kills: 10,922<br>
-  💀 Total Deaths: 4,558<br>
+  🏆 Current Level: 32<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/11)<br>
+  🎯 Total Kills: 10,924<br>
+  💀 Total Deaths: 4,559<br>
   👑 Total Wins: 374<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
-      Level: "30",
-      Progress: "38%",    
+      Level: "32",
+      Progress: "11%",    
     }
     Season: { 
-       Win_Ratio: "3.08%",
-       KD_Ratio: "4.56%",
-       Kills_Per_Match: "4.42%",
-       Total_Matches: "65",
-       Total_Kills: "287",
-       Total_Deaths: "63",
+       Win_Ratio: "3.03%",
+       KD_Ratio: "4.52%",
+       Kills_Per_Match: "4.38%",
+       Total_Matches: "66",
+       Total_Kills: "289",
+       Total_Deaths: "64",
        Total_Wins: "2",
-       Outlived_Players: "4,111"
+       Outlived_Players: "4,138"
     },
     Lifetime: {
       Win_Ratio: "7.58%",
       KD_Ratio: "2.40%",
       Kills_Per_Match: "2.21%",
-      Total_Matches: "4,932",
-      Total_Kills: "10,922",
-      Total_Deaths: "4,558",
+      Total_Matches: "4,933",
+      Total_Kills: "10,924",
+      Total_Deaths: "4,559",
       Total_Wins: "374",
-      Outlived_Players: "81,218"
+      Outlived_Players: "81,245"
       },
     }
 }; 
@@ -89,6 +89,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Sat Dec 24 2022 14:02:43 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Sat 24th Dec @ 14:02:43 using magic<br>
-Script Optimization; RAM Usage: 14.78</i>✨
+<!-- Last updated on Sat Dec 24 2022 14:18:09 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Sat 24th Dec @ 14:18:09 using magic<br>
+Script Optimization; RAM Usage: 14.74</i>✨
