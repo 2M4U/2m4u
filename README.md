@@ -20,36 +20,36 @@
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 38<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/36)<br>
-  🎯 Total Kills: 10,978<br>
-  💀 Total Deaths: 4,570<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/51)<br>
+  🎯 Total Kills: 10,983<br>
+  💀 Total Deaths: 4,571<br>
   👑 Total Wins: 374<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
       Level: "38",
-      Progress: "36%",    
+      Progress: "51%",    
     }
     Season: { 
-       Win_Ratio: "2.60%",
-       KD_Ratio: "4.57%",
+       Win_Ratio: "2.56%",
+       KD_Ratio: "4.58%",
        Kills_Per_Match: "4.46%",
-       Total_Matches: "77",
-       Total_Kills: "343",
-       Total_Deaths: "75",
+       Total_Matches: "78",
+       Total_Kills: "348",
+       Total_Deaths: "76",
        Total_Wins: "2",
-       Outlived_Players: "4,830"
+       Outlived_Players: "4,898"
     },
     Lifetime: {
-      Win_Ratio: "7.57%",
+      Win_Ratio: "7.56%",
       KD_Ratio: "2.40%",
       Kills_Per_Match: "2.22%",
-      Total_Matches: "4,944",
-      Total_Kills: "10,978",
-      Total_Deaths: "4,570",
+      Total_Matches: "4,945",
+      Total_Kills: "10,983",
+      Total_Deaths: "4,571",
       Total_Wins: "374",
-      Outlived_Players: "81,937"
+      Outlived_Players: "82,005"
       },
     }
 }; 
@@ -89,6 +89,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Sat Dec 24 2022 21:38:06 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Sat 24th Dec @ 21:38:06 using magic<br>
-Script Optimization; RAM Usage: 14.73</i>✨
+<!-- Last updated on Sat Dec 24 2022 21:47:11 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Sat 24th Dec @ 21:47:11 using magic<br>
+Script Optimization; RAM Usage: 14.76</i>✨
