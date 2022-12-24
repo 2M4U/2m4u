@@ -12,44 +12,44 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-83-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-281-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-84-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-283-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @SmokingBabe420 bet LOL
+  RT @Dexerto: A gaming miracle https://t.co/8CR9K41IIl
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 35<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/49)<br>
-  🎯 Total Kills: 10,947<br>
-  💀 Total Deaths: 4,562<br>
+  🏆 Current Level: 36<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/38)<br>
+  🎯 Total Kills: 10,956<br>
+  💀 Total Deaths: 4,565<br>
   👑 Total Wins: 374<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
-      Level: "35",
-      Progress: "49%",    
+      Level: "36",
+      Progress: "38%",    
     }
     Season: { 
-       Win_Ratio: "2.90%",
-       KD_Ratio: "4.66%",
-       Kills_Per_Match: "4.52%",
-       Total_Matches: "69",
-       Total_Kills: "312",
-       Total_Deaths: "67",
+       Win_Ratio: "2.78%",
+       KD_Ratio: "4.59%",
+       Kills_Per_Match: "4.46%",
+       Total_Matches: "72",
+       Total_Kills: "321",
+       Total_Deaths: "70",
        Total_Wins: "2",
-       Outlived_Players: "4,385"
+       Outlived_Players: "4,493"
     },
     Lifetime: {
-      Win_Ratio: "7.58%",
+      Win_Ratio: "7.57%",
       KD_Ratio: "2.40%",
       Kills_Per_Match: "2.22%",
-      Total_Matches: "4,936",
-      Total_Kills: "10,947",
-      Total_Deaths: "4,562",
+      Total_Matches: "4,939",
+      Total_Kills: "10,956",
+      Total_Deaths: "4,565",
       Total_Wins: "374",
-      Outlived_Players: "81,492"
+      Outlived_Players: "81,600"
       },
     }
 }; 
@@ -89,6 +89,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Sat Dec 24 2022 16:33:37 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Sat 24th Dec @ 16:33:37 using magic<br>
-Script Optimization; RAM Usage: 14.66</i>✨
+<!-- Last updated on Sat Dec 24 2022 17:24:00 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Sat 24th Dec @ 17:24:00 using magic<br>
+Script Optimization; RAM Usage: 14.70</i>✨
