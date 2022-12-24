@@ -19,37 +19,37 @@
   #FortniteChapter4 #Fortnite #fortnitewinterfest https://t.co/QPLorT97PQ
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 38<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/73)<br>
-  🎯 Total Kills: 10,989<br>
-  💀 Total Deaths: 4,573<br>
+  🏆 Current Level: 39<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/25)<br>
+  🎯 Total Kills: 10,999<br>
+  💀 Total Deaths: 4,574<br>
   👑 Total Wins: 374<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
-      Level: "38",
-      Progress: "73%",    
+      Level: "39",
+      Progress: "25%",    
     }
     Season: { 
-       Win_Ratio: "2.50%",
-       KD_Ratio: "4.54%",
-       Kills_Per_Match: "4.42%",
-       Total_Matches: "80",
-       Total_Kills: "354",
-       Total_Deaths: "78",
+       Win_Ratio: "2.47%",
+       KD_Ratio: "4.61%",
+       Kills_Per_Match: "4.49%",
+       Total_Matches: "81",
+       Total_Kills: "364",
+       Total_Deaths: "79",
        Total_Wins: "2",
-       Outlived_Players: "5,005"
+       Outlived_Players: "5,100"
     },
     Lifetime: {
       Win_Ratio: "7.56%",
       KD_Ratio: "2.40%",
       Kills_Per_Match: "2.22%",
-      Total_Matches: "4,947",
-      Total_Kills: "10,989",
-      Total_Deaths: "4,573",
+      Total_Matches: "4,948",
+      Total_Kills: "10,999",
+      Total_Deaths: "4,574",
       Total_Wins: "374",
-      Outlived_Players: "82,112"
+      Outlived_Players: "82,207"
       },
     }
 }; 
@@ -89,6 +89,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Sat Dec 24 2022 22:44:38 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Sat 24th Dec @ 22:44:38 using magic<br>
-Script Optimization; RAM Usage: 14.71</i>✨
+<!-- Last updated on Sat Dec 24 2022 23:32:46 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Sat 24th Dec @ 23:32:46 using magic<br>
+Script Optimization; RAM Usage: 14.75</i>✨
