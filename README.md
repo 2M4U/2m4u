@@ -16,7 +16,7 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @MrBeast TwitterTubes here we come!
+  @UnIimted 🤔
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 30<br>
@@ -89,6 +89,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Sat Dec 24 2022 11:36:47 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Sat 24th Dec @ 11:36:47 using magic<br>
-Script Optimization; RAM Usage: 14.78</i>✨
+<!-- Last updated on Sat Dec 24 2022 11:45:58 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Sat 24th Dec @ 11:45:58 using magic<br>
+Script Optimization; RAM Usage: 14.90</i>✨
