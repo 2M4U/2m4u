@@ -20,7 +20,7 @@
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 38<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/30)<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/36)<br>
   🎯 Total Kills: 10,978<br>
   💀 Total Deaths: 4,570<br>
   👑 Total Wins: 374<br>
@@ -29,7 +29,7 @@
 const Fortnite_Stats = {
     Battlepass: {
       Level: "38",
-      Progress: "30%",    
+      Progress: "36%",    
     }
     Season: { 
        Win_Ratio: "2.60%",
@@ -89,6 +89,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Sat Dec 24 2022 19:45:54 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Sat 24th Dec @ 19:45:54 using magic<br>
-Script Optimization; RAM Usage: 14.77</i>✨
+<!-- Last updated on Sat Dec 24 2022 20:11:22 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Sat 24th Dec @ 20:11:22 using magic<br>
+Script Optimization; RAM Usage: 14.81</i>✨
