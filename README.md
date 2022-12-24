@@ -12,44 +12,44 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-83-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-283-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-85-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-283-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  RT @Dexerto: A gaming miracle https://t.co/8CR9K41IIl
+  #FortniteWinterfest looking to play lol #PS4live (Fortnite) live at https://t.co/EMgD0ujjMq
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 36<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/38)<br>
-  🎯 Total Kills: 10,956<br>
-  💀 Total Deaths: 4,565<br>
+  🏆 Current Level: 37<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/69)<br>
+  🎯 Total Kills: 10,964<br>
+  💀 Total Deaths: 4,567<br>
   👑 Total Wins: 374<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
-      Level: "36",
-      Progress: "38%",    
+      Level: "37",
+      Progress: "69%",    
     }
     Season: { 
-       Win_Ratio: "2.78%",
-       KD_Ratio: "4.59%",
-       Kills_Per_Match: "4.46%",
-       Total_Matches: "72",
-       Total_Kills: "321",
-       Total_Deaths: "70",
+       Win_Ratio: "2.70%",
+       KD_Ratio: "4.57%",
+       Kills_Per_Match: "4.45%",
+       Total_Matches: "74",
+       Total_Kills: "329",
+       Total_Deaths: "72",
        Total_Wins: "2",
-       Outlived_Players: "4,493"
+       Outlived_Players: "4,614"
     },
     Lifetime: {
       Win_Ratio: "7.57%",
       KD_Ratio: "2.40%",
       Kills_Per_Match: "2.22%",
-      Total_Matches: "4,939",
-      Total_Kills: "10,956",
-      Total_Deaths: "4,565",
+      Total_Matches: "4,941",
+      Total_Kills: "10,964",
+      Total_Deaths: "4,567",
       Total_Wins: "374",
-      Outlived_Players: "81,600"
+      Outlived_Players: "81,721"
       },
     }
 }; 
@@ -89,6 +89,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Sat Dec 24 2022 17:33:36 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Sat 24th Dec @ 17:33:36 using magic<br>
-Script Optimization; RAM Usage: 14.80</i>✨
+<!-- Last updated on Sat Dec 24 2022 18:25:49 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Sat 24th Dec @ 18:25:49 using magic<br>
+Script Optimization; RAM Usage: 14.63</i>✨
