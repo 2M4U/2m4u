@@ -16,9 +16,7 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  #SmokingBabe420Legit
-
-Thanks @SmokingBabe420 ! https://t.co/ShRrXBDyJA
+  @SmokingBabe420 bet LOL
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 35<br>
@@ -91,6 +89,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Sat Dec 24 2022 16:09:55 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Sat 24th Dec @ 16:09:55 using magic<br>
-Script Optimization; RAM Usage: 14.76</i>✨
+<!-- Last updated on Sat Dec 24 2022 16:33:37 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Sat 24th Dec @ 16:33:37 using magic<br>
+Script Optimization; RAM Usage: 14.66</i>✨
