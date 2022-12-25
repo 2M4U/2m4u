@@ -12,11 +12,11 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-85-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-286-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-85-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-287-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @prime_rib94 https://t.co/bgn5IAZXrs
+  @NeR0_13 Nothing, I got absolutely nothing this year 😭
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 43<br>
@@ -89,6 +89,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Sun Dec 25 2022 18:08:33 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Sun 25th Dec @ 18:08:33 using magic<br>
-Script Optimization; RAM Usage: 14.60</i>✨
+<!-- Last updated on Sun Dec 25 2022 18:27:27 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Sun 25th Dec @ 18:27:27 using magic<br>
+Script Optimization; RAM Usage: 14.70</i>✨
