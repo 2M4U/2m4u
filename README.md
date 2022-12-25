@@ -16,9 +16,8 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  #FortniteChapter4 #ItemShop
-
-ONLY GODS CAN REPLY, IF YOUR LUCKY I MIGHT GIFT U THE EMOTE FROM THE LATEST ITEM SHOP… https://t.co/q9XBXkOL6b
+  Merry Christmas ya filthy animal(s)
+#MerryChristmas #Fortnite
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 40<br>
@@ -91,6 +90,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Sun Dec 25 2022 07:35:02 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Sun 25th Dec @ 07:35:02 using magic<br>
-Script Optimization; RAM Usage: 14.68</i>✨
+<!-- Last updated on Sun Dec 25 2022 08:39:37 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Sun 25th Dec @ 08:39:37 using magic<br>
+Script Optimization; RAM Usage: 14.73</i>✨
