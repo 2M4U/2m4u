@@ -12,44 +12,46 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-86-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-283-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-86-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-286-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  #FortniteChapter4 #Fortnite #fortnitewinterfest https://t.co/QPLorT97PQ
+  #FortniteChapter4 #ItemShop
+
+ONLY GODS CAN REPLY, IF YOUR LUCKY I MIGHT GIFT U THE EMOTE FROM THE LATEST ITEM SHOP… https://t.co/q9XBXkOL6b
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 39<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/62)<br>
-  🎯 Total Kills: 11,003<br>
-  💀 Total Deaths: 4,576<br>
+  🏆 Current Level: 40<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/41)<br>
+  🎯 Total Kills: 11,009<br>
+  💀 Total Deaths: 4,577<br>
   👑 Total Wins: 374<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
-      Level: "39",
-      Progress: "62%",    
+      Level: "40",
+      Progress: "41%",    
     }
     Season: { 
-       Win_Ratio: "2.41%",
-       KD_Ratio: "4.54%",
-       Kills_Per_Match: "4.43%",
-       Total_Matches: "83",
-       Total_Kills: "368",
-       Total_Deaths: "81",
+       Win_Ratio: "2.38%",
+       KD_Ratio: "4.56%",
+       Kills_Per_Match: "4.45%",
+       Total_Matches: "84",
+       Total_Kills: "374",
+       Total_Deaths: "82",
        Total_Wins: "2",
-       Outlived_Players: "5,251"
+       Outlived_Players: "5,337"
     },
     Lifetime: {
-      Win_Ratio: "7.56%",
+      Win_Ratio: "7.55%",
       KD_Ratio: "2.40%",
       Kills_Per_Match: "2.22%",
-      Total_Matches: "4,950",
-      Total_Kills: "11,003",
-      Total_Deaths: "4,576",
+      Total_Matches: "4,951",
+      Total_Kills: "11,009",
+      Total_Deaths: "4,577",
       Total_Wins: "374",
-      Outlived_Players: "82,358"
+      Outlived_Players: "82,444"
       },
     }
 }; 
@@ -89,6 +91,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Sat Dec 24 2022 23:51:22 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Sat 24th Dec @ 23:51:22 using magic<br>
-Script Optimization; RAM Usage: 14.80</i>✨
+<!-- Last updated on Sun Dec 25 2022 01:58:44 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Sun 25th Dec @ 01:58:44 using magic<br>
+Script Optimization; RAM Usage: 14.72</i>✨
