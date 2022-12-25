@@ -16,8 +16,7 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  Merry Christmas ya filthy animal(s)
-#MerryChristmas #Fortnite
+  @damobbggs .
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 40<br>
@@ -90,6 +89,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Sun Dec 25 2022 08:58:14 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Sun 25th Dec @ 08:58:14 using magic<br>
-Script Optimization; RAM Usage: 14.71</i>✨
+<!-- Last updated on Sun Dec 25 2022 09:16:07 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Sun 25th Dec @ 09:16:07 using magic<br>
+Script Optimization; RAM Usage: 14.67</i>✨
