@@ -16,40 +16,40 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @damobbggs .
+  @prime_rib94 https://t.co/bgn5IAZXrs
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 42<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/20)<br>
-  🎯 Total Kills: 11,027<br>
-  💀 Total Deaths: 4,580<br>
+  🏆 Current Level: 43<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/2)<br>
+  🎯 Total Kills: 11,031<br>
+  💀 Total Deaths: 4,581<br>
   👑 Total Wins: 375<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
-      Level: "42",
-      Progress: "20%",    
+      Level: "43",
+      Progress: "2%",    
     }
     Season: { 
-       Win_Ratio: "3.41%",
+       Win_Ratio: "3.37%",
        KD_Ratio: "4.61%",
-       Kills_Per_Match: "4.46%",
-       Total_Matches: "88",
-       Total_Kills: "392",
-       Total_Deaths: "85",
+       Kills_Per_Match: "4.45%",
+       Total_Matches: "89",
+       Total_Kills: "396",
+       Total_Deaths: "86",
        Total_Wins: "3",
-       Outlived_Players: "5,688"
+       Outlived_Players: "5,772"
     },
     Lifetime: {
       Win_Ratio: "7.57%",
       KD_Ratio: "2.41%",
       Kills_Per_Match: "2.23%",
-      Total_Matches: "4,955",
-      Total_Kills: "11,027",
-      Total_Deaths: "4,580",
+      Total_Matches: "4,956",
+      Total_Kills: "11,031",
+      Total_Deaths: "4,581",
       Total_Wins: "375",
-      Outlived_Players: "82,795"
+      Outlived_Players: "82,879"
       },
     }
 }; 
@@ -89,6 +89,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Sun Dec 25 2022 15:54:20 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Sun 25th Dec @ 15:54:20 using magic<br>
-Script Optimization; RAM Usage: 14.91</i>✨
+<!-- Last updated on Sun Dec 25 2022 16:35:25 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Sun 25th Dec @ 16:35:25 using magic<br>
+Script Optimization; RAM Usage: 14.68</i>✨
