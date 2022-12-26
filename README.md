@@ -12,44 +12,44 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-89-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-290-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-90-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-290-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
   @JonErlichman Skype was made in 2003, so technically this shouldn't be listed here LOL, we're going into 2023 so 20… https://t.co/dWplZX8vSX
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 46<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/77)<br>
-  🎯 Total Kills: 11,114<br>
-  💀 Total Deaths: 4,595<br>
+  🏆 Current Level: 47<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/32)<br>
+  🎯 Total Kills: 11,120<br>
+  💀 Total Deaths: 4,596<br>
   👑 Total Wins: 375<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
-      Level: "46",
-      Progress: "77%",    
+      Level: "47",
+      Progress: "32%",    
     }
     Season: { 
-       Win_Ratio: "2.91%",
-       KD_Ratio: "4.79%",
-       Kills_Per_Match: "4.65%",
-       Total_Matches: "103",
-       Total_Kills: "479",
-       Total_Deaths: "100",
+       Win_Ratio: "2.88%",
+       KD_Ratio: "4.80%",
+       Kills_Per_Match: "4.66%",
+       Total_Matches: "104",
+       Total_Kills: "485",
+       Total_Deaths: "101",
        Total_Wins: "3",
-       Outlived_Players: "6,713"
+       Outlived_Players: "6,788"
     },
     Lifetime: {
       Win_Ratio: "7.54%",
       KD_Ratio: "2.42%",
       Kills_Per_Match: "2.24%",
-      Total_Matches: "4,970",
-      Total_Kills: "11,114",
-      Total_Deaths: "4,595",
+      Total_Matches: "4,971",
+      Total_Kills: "11,120",
+      Total_Deaths: "4,596",
       Total_Wins: "375",
-      Outlived_Players: "83,820"
+      Outlived_Players: "83,895"
       },
     }
 }; 
@@ -89,6 +89,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Mon Dec 26 2022 21:51:13 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Mon 26th Dec @ 21:51:13 using magic<br>
-Script Optimization; RAM Usage: 14.61</i>✨
+<!-- Last updated on Mon Dec 26 2022 22:00:22 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Mon 26th Dec @ 22:00:22 using magic<br>
+Script Optimization; RAM Usage: 14.72</i>✨
