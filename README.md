@@ -12,11 +12,11 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-86-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-288-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-85-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-289-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @NeR0_13 Nothing, I got absolutely nothing this year 😭
+  Another Screw Up From @EpicGames however the Pivot glider aint rare anymore, hasn't been rare for some time LOL… https://t.co/z4qiTA8920
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 43<br>
@@ -89,6 +89,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Mon Dec 26 2022 11:59:55 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Mon 26th Dec @ 11:59:55 using magic<br>
-Script Optimization; RAM Usage: 14.62</i>✨
+<!-- Last updated on Mon Dec 26 2022 12:58:22 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Mon 26th Dec @ 12:58:22 using magic<br>
+Script Optimization; RAM Usage: 14.57</i>✨
