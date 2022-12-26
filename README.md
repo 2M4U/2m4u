@@ -1,7 +1,7 @@
 
   ![Header](./src/github-banner.png)
   <br>
-  Welcome **Github User** to the Code Land of 2M4U (me),<br>
+  Welcome **Github User** to the Code Land of undefined (me),<br>
   What you see below is a future project for updating my<br>
   In-Game Fortnite Statistics, Feel free to Fork this repository<br>
   If you wish to see how this works.
@@ -12,7 +12,7 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-86-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-290-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-87-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-290-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
@@ -61,11 +61,11 @@ const Fortnite_Stats = {
 ```js
 const 2M4U = {
     Fav_Lang: "Javascript",
-    Github_Stars: 38,
-    Public_Repos: 63,
-    Public_Gists: 1,
-    Followers: 8,
-    Following: 24,
+    Github_Stars: NaN,
+    Public_Repos: undefined,
+    Public_Gists: undefined,
+    Followers: undefined,
+    Following: undefined,
 }; 
 ```
 
@@ -89,6 +89,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Mon Dec 26 2022 17:53:29 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Mon 26th Dec @ 17:53:29 using magic<br>
-Script Optimization; RAM Usage: 14.66</i>✨
+<!-- Last updated on Mon Dec 26 2022 18:10:09 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Mon 26th Dec @ 18:10:09 using magic<br>
+Script Optimization; RAM Usage: 13.88</i>✨
