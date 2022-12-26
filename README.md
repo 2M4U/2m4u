@@ -19,37 +19,37 @@
   @SmokingBabe420 @MrBeast Oh come on I'm only playing, It'd be cool to get the channel back but @YouTube support is legit ass.
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 43<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/87)<br>
-  🎯 Total Kills: 11,057<br>
-  💀 Total Deaths: 4,585<br>
+  🏆 Current Level: 44<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/95)<br>
+  🎯 Total Kills: 11,063<br>
+  💀 Total Deaths: 4,586<br>
   👑 Total Wins: 375<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
-      Level: "43",
-      Progress: "87%",    
+      Level: "44",
+      Progress: "95%",    
     }
     Season: { 
-       Win_Ratio: "3.23%",
-       KD_Ratio: "4.69%",
-       Kills_Per_Match: "4.54%",
-       Total_Matches: "93",
-       Total_Kills: "422",
-       Total_Deaths: "90",
+       Win_Ratio: "3.19%",
+       KD_Ratio: "4.70%",
+       Kills_Per_Match: "4.55%",
+       Total_Matches: "94",
+       Total_Kills: "428",
+       Total_Deaths: "91",
        Total_Wins: "3",
-       Outlived_Players: "6,099"
+       Outlived_Players: "6,176"
     },
     Lifetime: {
       Win_Ratio: "7.56%",
       KD_Ratio: "2.41%",
       Kills_Per_Match: "2.23%",
-      Total_Matches: "4,960",
-      Total_Kills: "11,057",
-      Total_Deaths: "4,585",
+      Total_Matches: "4,961",
+      Total_Kills: "11,063",
+      Total_Deaths: "4,586",
       Total_Wins: "375",
-      Outlived_Players: "83,206"
+      Outlived_Players: "83,283"
       },
     }
 }; 
@@ -89,6 +89,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Mon Dec 26 2022 15:44:29 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Mon 26th Dec @ 15:44:29 using magic<br>
-Script Optimization; RAM Usage: 14.73</i>✨
+<!-- Last updated on Mon Dec 26 2022 16:11:47 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Mon 26th Dec @ 16:11:47 using magic<br>
+Script Optimization; RAM Usage: 14.70</i>✨
