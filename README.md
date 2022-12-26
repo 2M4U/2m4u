@@ -12,44 +12,44 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-87-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-290-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-89-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-290-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @GeorgieHeath27 Erm, you clearly haven't watched Mary Poppins have you LMFAO.
+  @JonErlichman Skype was made in 2003, so technically this shouldn't be listed here LOL, we're going into 2023 so 20… https://t.co/dWplZX8vSX
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
-  🏆 Current Level: 45<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/87)<br>
-  🎯 Total Kills: 11,086<br>
-  💀 Total Deaths: 4,589<br>
+  🏆 Current Level: 46<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/13)<br>
+  🎯 Total Kills: 11,100<br>
+  💀 Total Deaths: 4,592<br>
   👑 Total Wins: 375<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
-      Level: "45",
-      Progress: "87%",    
+      Level: "46",
+      Progress: "13%",    
     }
     Season: { 
-       Win_Ratio: "3.09%",
-       KD_Ratio: "4.80%",
+       Win_Ratio: "3.00%",
+       KD_Ratio: "4.79%",
        Kills_Per_Match: "4.65%",
-       Total_Matches: "97",
-       Total_Kills: "451",
-       Total_Deaths: "94",
+       Total_Matches: "100",
+       Total_Kills: "465",
+       Total_Deaths: "97",
        Total_Wins: "3",
-       Outlived_Players: "6,394"
+       Outlived_Players: "6,526"
     },
     Lifetime: {
       Win_Ratio: "7.55%",
       KD_Ratio: "2.42%",
       Kills_Per_Match: "2.23%",
-      Total_Matches: "4,964",
-      Total_Kills: "11,086",
-      Total_Deaths: "4,589",
+      Total_Matches: "4,967",
+      Total_Kills: "11,100",
+      Total_Deaths: "4,592",
       Total_Wins: "375",
-      Outlived_Players: "83,501"
+      Outlived_Players: "83,633"
       },
     }
 }; 
@@ -89,6 +89,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Mon Dec 26 2022 19:31:56 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Mon 26th Dec @ 19:31:56 using magic<br>
-Script Optimization; RAM Usage: 14.63</i>✨
+<!-- Last updated on Mon Dec 26 2022 20:19:51 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Mon 26th Dec @ 20:19:51 using magic<br>
+Script Optimization; RAM Usage: 14.61</i>✨
