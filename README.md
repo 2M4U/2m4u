@@ -16,10 +16,7 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  #Fortnite #ItemShop #BoxingDay 
-• Vaulted a Year or More (x3)
-
-Potential Rare Items Returning(?)
+  @Kaitlynkit74 @FN_Assist Hope so!
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 47<br>
@@ -92,6 +89,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Mon Dec 26 2022 22:38:22 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Mon 26th Dec @ 22:38:22 using magic<br>
-Script Optimization; RAM Usage: 14.55</i>✨
+<!-- Last updated on Mon Dec 26 2022 23:14:35 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Mon 26th Dec @ 23:14:35 using magic<br>
+Script Optimization; RAM Usage: 14.68</i>✨
