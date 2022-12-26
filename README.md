@@ -16,11 +16,11 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @ColebowlMC I didn't get gifts for my birthday nevermind Xmas... LOL
+  @GeorgieHeath27 Erm, you clearly haven't watched Mary Poppins have you LMFAO.
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 45<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/60)<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/85)<br>
   🎯 Total Kills: 11,082<br>
   💀 Total Deaths: 4,588<br>
   👑 Total Wins: 375<br>
@@ -29,7 +29,7 @@
 const Fortnite_Stats = {
     Battlepass: {
       Level: "45",
-      Progress: "60%",    
+      Progress: "85%",    
     }
     Season: { 
        Win_Ratio: "3.13%",
@@ -89,6 +89,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Mon Dec 26 2022 18:28:39 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Mon 26th Dec @ 18:28:39 using magic<br>
-Script Optimization; RAM Usage: 14.78</i>✨
+<!-- Last updated on Mon Dec 26 2022 18:49:07 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Mon 26th Dec @ 18:49:07 using magic<br>
+Script Optimization; RAM Usage: 14.74</i>✨
