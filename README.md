@@ -1,7 +1,7 @@
 
   ![Header](./src/github-banner.png)
   <br>
-  Welcome **Github User** to the Code Land of undefined (me),<br>
+  Welcome **Github User** to the Code Land of 2M4U (me),<br>
   What you see below is a future project for updating my<br>
   In-Game Fortnite Statistics, Feel free to Fork this repository<br>
   If you wish to see how this works.
@@ -16,7 +16,7 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  Another Screw Up From @EpicGames however the Pivot glider aint rare anymore, hasn't been rare for some time LOL… https://t.co/z4qiTA8920
+  @SmokingBabe420 @MrBeast Oh come on I'm only playing, It'd be cool to get the channel back but @YouTube support is legit ass.
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 43<br>
@@ -61,11 +61,11 @@ const Fortnite_Stats = {
 ```js
 const 2M4U = {
     Fav_Lang: "Javascript",
-    Github_Stars: NaN,
-    Public_Repos: undefined,
-    Public_Gists: undefined,
-    Followers: undefined,
-    Following: undefined,
+    Github_Stars: 38,
+    Public_Repos: 63,
+    Public_Gists: 1,
+    Followers: 8,
+    Following: 24,
 }; 
 ```
 
@@ -89,6 +89,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Mon Dec 26 2022 14:17:24 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Mon 26th Dec @ 14:17:24 using magic<br>
-Script Optimization; RAM Usage: 13.78</i>✨
+<!-- Last updated on Mon Dec 26 2022 15:11:07 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Mon 26th Dec @ 15:11:07 using magic<br>
+Script Optimization; RAM Usage: 14.62</i>✨
