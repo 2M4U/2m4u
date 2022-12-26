@@ -16,40 +16,43 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @JonErlichman Skype was made in 2003, so technically this shouldn't be listed here LOL, we're going into 2023 so 20… https://t.co/dWplZX8vSX
+  #Fortnite #ItemShop #BoxingDay 
+• Vaulted a Year or More (x3)
+
+Potential Rare Items Returning(?)
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 47<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/32)<br>
-  🎯 Total Kills: 11,120<br>
-  💀 Total Deaths: 4,596<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/36)<br>
+  🎯 Total Kills: 11,121<br>
+  💀 Total Deaths: 4,597<br>
   👑 Total Wins: 375<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
       Level: "47",
-      Progress: "32%",    
+      Progress: "36%",    
     }
     Season: { 
-       Win_Ratio: "2.88%",
-       KD_Ratio: "4.80%",
-       Kills_Per_Match: "4.66%",
-       Total_Matches: "104",
-       Total_Kills: "485",
-       Total_Deaths: "101",
+       Win_Ratio: "2.86%",
+       KD_Ratio: "4.76%",
+       Kills_Per_Match: "4.63%",
+       Total_Matches: "105",
+       Total_Kills: "486",
+       Total_Deaths: "102",
        Total_Wins: "3",
-       Outlived_Players: "6,788"
+       Outlived_Players: "6,804"
     },
     Lifetime: {
       Win_Ratio: "7.54%",
       KD_Ratio: "2.42%",
       Kills_Per_Match: "2.24%",
-      Total_Matches: "4,971",
-      Total_Kills: "11,120",
-      Total_Deaths: "4,596",
+      Total_Matches: "4,972",
+      Total_Kills: "11,121",
+      Total_Deaths: "4,597",
       Total_Wins: "375",
-      Outlived_Players: "83,895"
+      Outlived_Players: "83,911"
       },
     }
 }; 
@@ -89,6 +92,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Mon Dec 26 2022 22:00:22 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Mon 26th Dec @ 22:00:22 using magic<br>
+<!-- Last updated on Mon Dec 26 2022 22:29:11 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Mon 26th Dec @ 22:29:11 using magic<br>
 Script Optimization; RAM Usage: 14.72</i>✨
