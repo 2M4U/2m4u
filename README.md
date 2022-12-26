@@ -1,7 +1,7 @@
 
   ![Header](./src/github-banner.png)
   <br>
-  Welcome **Github User** to the Code Land of undefined (me),<br>
+  Welcome **Github User** to the Code Land of 2M4U (me),<br>
   What you see below is a future project for updating my<br>
   In-Game Fortnite Statistics, Feel free to Fork this repository<br>
   If you wish to see how this works.
@@ -12,7 +12,7 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-88-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-290-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-87-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-290-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
@@ -20,36 +20,36 @@
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 45<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/85)<br>
-  🎯 Total Kills: 11,082<br>
-  💀 Total Deaths: 4,588<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/87)<br>
+  🎯 Total Kills: 11,086<br>
+  💀 Total Deaths: 4,589<br>
   👑 Total Wins: 375<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
       Level: "45",
-      Progress: "85%",    
+      Progress: "87%",    
     }
     Season: { 
-       Win_Ratio: "3.13%",
-       KD_Ratio: "4.81%",
-       Kills_Per_Match: "4.66%",
-       Total_Matches: "96",
-       Total_Kills: "447",
-       Total_Deaths: "93",
+       Win_Ratio: "3.09%",
+       KD_Ratio: "4.80%",
+       Kills_Per_Match: "4.65%",
+       Total_Matches: "97",
+       Total_Kills: "451",
+       Total_Deaths: "94",
        Total_Wins: "3",
-       Outlived_Players: "6,340"
+       Outlived_Players: "6,394"
     },
     Lifetime: {
-      Win_Ratio: "7.56%",
+      Win_Ratio: "7.55%",
       KD_Ratio: "2.42%",
       Kills_Per_Match: "2.23%",
-      Total_Matches: "4,963",
-      Total_Kills: "11,082",
-      Total_Deaths: "4,588",
+      Total_Matches: "4,964",
+      Total_Kills: "11,086",
+      Total_Deaths: "4,589",
       Total_Wins: "375",
-      Outlived_Players: "83,447"
+      Outlived_Players: "83,501"
       },
     }
 }; 
@@ -62,10 +62,10 @@ const Fortnite_Stats = {
 const 2M4U = {
     Fav_Lang: "Javascript",
     Github_Stars: 38,
-    Public_Repos: undefined,
-    Public_Gists: undefined,
-    Followers: undefined,
-    Following: undefined,
+    Public_Repos: 63,
+    Public_Gists: 1,
+    Followers: 8,
+    Following: 24,
 }; 
 ```
 
@@ -89,6 +89,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Mon Dec 26 2022 19:22:43 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Mon 26th Dec @ 19:22:43 using magic<br>
-Script Optimization; RAM Usage: 14.74</i>✨
+<!-- Last updated on Mon Dec 26 2022 19:31:56 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Mon 26th Dec @ 19:31:56 using magic<br>
+Script Optimization; RAM Usage: 14.63</i>✨
