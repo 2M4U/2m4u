@@ -16,40 +16,40 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @Kaitlynkit74 @FN_Assist Hope so!
+  @algaetoast @FrankGives L bozo
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 47<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/51)<br>
-  🎯 Total Kills: 11,125<br>
-  💀 Total Deaths: 4,598<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/63)<br>
+  🎯 Total Kills: 11,129<br>
+  💀 Total Deaths: 4,599<br>
   👑 Total Wins: 375<br>
 
 ```js
 const Fortnite_Stats = {
     Battlepass: {
       Level: "47",
-      Progress: "51%",    
+      Progress: "63%",    
     }
     Season: { 
-       Win_Ratio: "2.83%",
-       KD_Ratio: "4.76%",
+       Win_Ratio: "2.80%",
+       KD_Ratio: "4.75%",
        Kills_Per_Match: "4.62%",
-       Total_Matches: "106",
-       Total_Kills: "490",
-       Total_Deaths: "103",
+       Total_Matches: "107",
+       Total_Kills: "494",
+       Total_Deaths: "104",
        Total_Wins: "3",
-       Outlived_Players: "6,884"
+       Outlived_Players: "6,936"
     },
     Lifetime: {
       Win_Ratio: "7.54%",
       KD_Ratio: "2.42%",
       Kills_Per_Match: "2.24%",
-      Total_Matches: "4,973",
-      Total_Kills: "11,125",
-      Total_Deaths: "4,598",
+      Total_Matches: "4,974",
+      Total_Kills: "11,129",
+      Total_Deaths: "4,599",
       Total_Wins: "375",
-      Outlived_Players: "83,991"
+      Outlived_Players: "84,043"
       },
     }
 }; 
@@ -89,6 +89,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Mon Dec 26 2022 23:45:21 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Mon 26th Dec @ 23:45:21 using magic<br>
-Script Optimization; RAM Usage: 14.54</i>✨
+<!-- Last updated on Tue Dec 27 2022 02:40:20 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Tue 27th Dec @ 02:40:20 using magic<br>
+Script Optimization; RAM Usage: 14.77</i>✨
