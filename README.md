@@ -16,7 +16,7 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @MeeerSzn Trick question
+  @NeR0_13 153k+ (on just one of my accounts lmao) @NeR0_13 https://t.co/gvrQ4jsuBn
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 47<br>
@@ -89,6 +89,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Thu Dec 29 2022 13:50:42 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Thu 29th Dec @ 13:50:42 using magic<br>
-Script Optimization; RAM Usage: 14.68</i>✨
+<!-- Last updated on Thu Dec 29 2022 14:17:56 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Thu 29th Dec @ 14:17:56 using magic<br>
+Script Optimization; RAM Usage: 14.82</i>✨
