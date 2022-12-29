@@ -16,7 +16,7 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  Check out my broadcast from my PlayStation 4! #PS4live (Fortnite)  live at https://t.co/EMgD0ujjMq
+  @SmokingBabe420 @NeR0_13 Incorrect, it’s my moody bitches account lmao don’t believe me?
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 47<br>
@@ -89,6 +89,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Thu Dec 29 2022 23:47:02 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Thu 29th Dec @ 23:47:02 using magic<br>
-Script Optimization; RAM Usage: 14.69</i>✨
+<!-- Last updated on Thu Dec 29 2022 23:56:06 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Thu 29th Dec @ 23:56:06 using magic<br>
+Script Optimization; RAM Usage: 14.75</i>✨
