@@ -12,11 +12,11 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-91-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-293-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-90-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-293-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @NeR0_13 153k+ (on just one of my accounts lmao) @NeR0_13 https://t.co/gvrQ4jsuBn
+  Check out my broadcast from my PlayStation 4! #PS4live (Fortnite)  live at https://t.co/EMgD0ujjMq
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 47<br>
@@ -89,6 +89,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Thu Dec 29 2022 19:00:31 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Thu 29th Dec @ 19:00:31 using magic<br>
-Script Optimization; RAM Usage: 14.73</i>✨
+<!-- Last updated on Thu Dec 29 2022 19:15:47 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Thu 29th Dec @ 19:15:47 using magic<br>
+Script Optimization; RAM Usage: 14.70</i>✨
