@@ -16,7 +16,7 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @SmokingBabe420 @NeR0_13 Incorrect, it’s my moody bitches account lmao don’t believe me?
+  @SmokingBabe420 I’m sorry but this has to be done… OKAY KAREN! 💀 ☠️ 🤣
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 47<br>
@@ -89,6 +89,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Fri Dec 30 2022 12:29:04 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Fri 30th Dec @ 12:29:04 using magic<br>
-Script Optimization; RAM Usage: 14.70</i>✨
+<!-- Last updated on Fri Dec 30 2022 13:14:26 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Fri 30th Dec @ 13:14:26 using magic<br>
+Script Optimization; RAM Usage: 14.67</i>✨
