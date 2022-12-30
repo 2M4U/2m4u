@@ -16,7 +16,7 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @SmokingBabe420 @NeR0_13 Says you with 1600+ hrs counted.
+  Watch out Jimmy @MrBeast, @SmokingBabe420 coming for your Spotlight of Giving Back to the Community LOL!… https://t.co/1ExWsZsJ15
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 47<br>
@@ -89,6 +89,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Fri Dec 30 2022 21:22:37 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Fri 30th Dec @ 21:22:37 using magic<br>
-Script Optimization; RAM Usage: 14.54</i>✨
+<!-- Last updated on Fri Dec 30 2022 21:32:03 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Fri 30th Dec @ 21:32:03 using magic<br>
+Script Optimization; RAM Usage: 14.60</i>✨
