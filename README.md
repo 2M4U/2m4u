@@ -12,11 +12,11 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-90-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-292-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-91-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-292-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @SmokingBabe420 I’m sorry but this has to be done… OKAY KAREN! 💀 ☠️ 🤣
+  @SmokingBabe420 @NeR0_13 Says you with 1600+ hrs counted.
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 47<br>
@@ -89,6 +89,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Fri Dec 30 2022 15:24:38 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Fri 30th Dec @ 15:24:38 using magic<br>
-Script Optimization; RAM Usage: 14.56</i>✨
+<!-- Last updated on Fri Dec 30 2022 15:34:26 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Fri 30th Dec @ 15:34:26 using magic<br>
+Script Optimization; RAM Usage: 14.68</i>✨
