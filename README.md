@@ -16,7 +16,7 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @SmokingBabe420 @MrBeast Like he finna notice anyway? lol
+  @SmokingBabe420 @MrBeast Fuck 🆙
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 47<br>
@@ -89,6 +89,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Fri Dec 30 2022 23:54:06 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Fri 30th Dec @ 23:54:06 using magic<br>
+<!-- Last updated on Sat Dec 31 2022 02:01:15 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Sat 31st Dec @ 02:01:15 using magic<br>
 Script Optimization; RAM Usage: 14.69</i>✨
