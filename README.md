@@ -12,11 +12,11 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-90-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-292-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-91-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-292-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  #Fortnite They should make a red variant. https://t.co/siHEfVS8GX
+  Bout time #AndrewTate got pwnd
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 47<br>
@@ -89,6 +89,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Sat Dec 31 2022 13:01:06 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Sat 31st Dec @ 13:01:06 using magic<br>
-Script Optimization; RAM Usage: 14.76</i>✨
+<!-- Last updated on Sat Dec 31 2022 13:22:49 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Sat 31st Dec @ 13:22:49 using magic<br>
+Script Optimization; RAM Usage: 14.74</i>✨
