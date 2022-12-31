@@ -12,7 +12,7 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-91-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-292-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-90-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-292-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
@@ -61,7 +61,7 @@ const Fortnite_Stats = {
 ```js
 const 2M4U = {
     Fav_Lang: "Javascript",
-    Github_Stars: NaN,
+    Github_Stars: 38,
     Public_Repos: 63,
     Public_Gists: 1,
     Followers: 8,
@@ -89,6 +89,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Sat Dec 31 2022 11:17:27 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Sat 31st Dec @ 11:17:27 using magic<br>
-Script Optimization; RAM Usage: 11.62</i>✨
+<!-- Last updated on Sat Dec 31 2022 11:26:25 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Sat 31st Dec @ 11:26:25 using magic<br>
+Script Optimization; RAM Usage: 14.63</i>✨
