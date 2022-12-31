@@ -12,11 +12,11 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-91-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-292-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-90-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-292-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @SmokingBabe420 @MrBeast Fuck 🆙
+  @jordymeady10 #LBozo #LBr0kie
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 47<br>
@@ -89,6 +89,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Sat Dec 31 2022 02:01:15 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Sat 31st Dec @ 02:01:15 using magic<br>
-Script Optimization; RAM Usage: 14.69</i>✨
+<!-- Last updated on Sat Dec 31 2022 02:37:07 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Sat 31st Dec @ 02:37:07 using magic<br>
+Script Optimization; RAM Usage: 14.73</i>✨
