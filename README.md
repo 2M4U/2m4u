@@ -16,7 +16,8 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  Bout time #AndrewTate got pwnd
+  Get 15% OFF your first order at Fortnite STW Items. Use coupon: REFDC3889V7C3 https://t.co/eIGWtSN6gc 
+#Fortnite… https://t.co/KEkmtugOkG
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 47<br>
@@ -89,6 +90,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Sun Jan 01 2023 10:27:06 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Sun 1st Jan @ 10:27:06 using magic<br>
+<!-- Last updated on Sun Jan 01 2023 11:29:02 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Sun 1st Jan @ 11:29:02 using magic<br>
 Script Optimization; RAM Usage: 14.60</i>✨
