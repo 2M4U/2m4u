@@ -16,8 +16,8 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  Get 15% OFF your first order at Fortnite STW Items. Use coupon: REFDC3889V7C3 https://t.co/eIGWtSN6gc 
-#Fortnite… https://t.co/KEkmtugOkG
+  Get 15% OFF your first order at Fortnite STW Items. Use coupon: REFDC3889V7C3 https://t.co/eIGWtSN6gc
+#Fortnite… https://t.co/rvd5XqWMu3
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 47<br>
@@ -90,6 +90,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Mon Jan 02 2023 02:42:30 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Mon 2nd Jan @ 02:42:30 using magic<br>
-Script Optimization; RAM Usage: 14.71</i>✨
+<!-- Last updated on Mon Jan 02 2023 03:12:39 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Mon 2nd Jan @ 03:12:39 using magic<br>
+Script Optimization; RAM Usage: 14.70</i>✨
