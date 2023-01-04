@@ -12,7 +12,7 @@
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-91-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-294-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-92-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-294-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
@@ -89,6 +89,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Wed Jan 04 2023 14:19:53 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Wed 4th Jan @ 14:19:53 using magic<br>
-Script Optimization; RAM Usage: 14.70</i>✨
+<!-- Last updated on Wed Jan 04 2023 14:41:39 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Wed 4th Jan @ 14:41:39 using magic<br>
+Script Optimization; RAM Usage: 14.75</i>✨
