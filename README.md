@@ -16,7 +16,7 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @OvertimeGG https://t.co/a5NYOgTnvo
+  @slimmsheady Mid skin
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 49<br>
@@ -89,6 +89,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Wed Jan 04 2023 21:52:24 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Wed 4th Jan @ 21:52:24 using magic<br>
-Script Optimization; RAM Usage: 14.57</i>✨
+<!-- Last updated on Wed Jan 04 2023 23:08:07 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Wed 4th Jan @ 23:08:07 using magic<br>
+Script Optimization; RAM Usage: 14.68</i>✨
