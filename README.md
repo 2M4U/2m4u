@@ -16,7 +16,8 @@
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  @MatiaazGG Storm Mark S tier imo, everything else seems perfect
+  #Fortnite #ItemShop
+Why are you scamming people, this was given free in Chapter 3 Season 4. https://t.co/fOGt8QZuQH
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
   🏆 Current Level: 49<br>
@@ -89,6 +90,6 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on Wed Jan 04 2023 23:52:48 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on  Wed 4th Jan @ 23:52:48 using magic<br>
-Script Optimization; RAM Usage: 14.81</i>✨
+<!-- Last updated on Thu Jan 05 2023 02:05:42 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on  Thu 5th Jan @ 02:05:42 using magic<br>
+Script Optimization; RAM Usage: 14.73</i>✨
