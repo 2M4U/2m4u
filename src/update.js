@@ -123,6 +123,7 @@ const writeReadMe = async () => {
   let ram = process.memoryUsage().heapUsed / 1024 / 1024;
   console.log(UserData);
   const text = `
+  https://discord.gg/sack
   ![Header](./src/github-banner.png)
   <br>
   Welcome **Github User** to the Code Land of ${UserData.login} (me),<br>
