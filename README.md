@@ -17,6 +17,7 @@
 - [cve.gov](#cve.gov)
 - [D-Hooker](#d-hooker)
 - [Discord-Api-Endpoints](#discord-api-endpoints)
+- [discord-emoji-utils](#discord-emoji-utils)
 - [discord-extras.js](#discord-extras.js)
 - [discord-oauth2](#discord-oauth2)
 - [Discord-Username-Sniper](#discord-username-sniper)
@@ -29,13 +30,12 @@
 - [FNStats-RPC](#fnstats-rpc)
 - [FollowerBot](#followerbot)
 - [Fortnite-Discord-RPC](#fortnite-discord-rpc)
-- [free-coming-soon-page](#free-coming-soon-page)
 
 ---
 
 ## Most Used Languages
 
-- JavaScript: 13
+- JavaScript: 14
 ---
 
 ## Repositories
@@ -61,6 +61,7 @@
 | [cve.gov](https://github.com/2M4U/cve.gov) | 2M4U | Search CVE ID's via nvd.nist.gov. |  | undefined | undefined | undefined | undefined |
 | [D-Hooker](https://github.com/2M4U/D-Hooker) | 2M4U | Custom Discord Webhook Module |  | undefined | undefined | undefined | undefined |
 | [Discord-Api-Endpoints](https://github.com/2M4U/Discord-Api-Endpoints) | 2M4U | A list of useful Discord API endpoints |  | undefined | undefined | undefined | undefined |
+| [discord-emoji-utils](https://github.com/2M4U/discord-emoji-utils) | 2M4U | Discord Emoji Utils is an advanced utility library for managing custom emoji cache in Discord applications. It provides functions to remove duplicate emojis based on their ID and name or by their image hash. It also offers additional features such as emoji download and upload capabilities. |  | undefined | undefined | undefined | undefined |
 | [discord-oauth2](https://github.com/2M4U/discord-oauth2) | 2M4U | A really simple to use module to use discord's OAuth2 API. |  | undefined | undefined | undefined | undefined |
 | [DiscordJS-Utils](https://github.com/2M4U/DiscordJS-Utils) | 2M4U |  |  | undefined | undefined | undefined | undefined |
 | [DiscordVerification](https://github.com/2M4U/DiscordVerification) | 2M4U | A Discord verification bot made in node.js. |  | undefined | undefined | undefined | undefined |
@@ -71,4 +72,3 @@
 | [FNStats-RPC](https://github.com/2M4U/FNStats-RPC) | 2M4U | Simply Discord RPC to display your stats on your Discord Profile. | fortnite, fortnite-api, fortnite-stat-finder, fortnite-stats | undefined | undefined | undefined | undefined |
 | [FollowerBot](https://github.com/2M4U/FollowerBot) | 2M4U | Follower bot for Instagram |  | undefined | undefined | undefined | undefined |
 | [Fortnite-Discord-RPC](https://github.com/2M4U/Fortnite-Discord-RPC) | 2M4U | A tool which sets your Fortnite level as your Discord status. |  | undefined | undefined | undefined | undefined |
-| [free-coming-soon-page](https://github.com/2M4U/free-coming-soon-page) | 2M4U | Free HTML Coming Soon Page Template by https://www.comingsoonpage.com |  | undefined | undefined | undefined | undefined |
