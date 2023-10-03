@@ -2,35 +2,34 @@ const { join } = require("path");
 const fetch = require("node-fetch");
 const { writeFileSync } = require("fs");
 const Twitter = require("twitter");
-const days = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
-const months = [
-  "Jan",
-  "Feb",
-  "Mar",
-  "Apr",
-  "May",
-  "Jun",
-  "Jul",
-  "Aug",
-  "Sep",
-  "Oct",
-  "Nov",
-  "Dec",
-];
 
-const getDateSuffix = (date) => {
-  if (date >= 10 && date < 20) {
-    return "th";
+function formatDate(date) {
+  const days = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
+  const months = [
+    'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'
+  ];
+  
+  const dayOfWeek = days[date.getDay()];
+  const dayOfMonth = date.getDate();
+  const month = months[date.getMonth()];
+  const hours = make2Digit(date.getHours());
+  const minutes = make2Digit(date.getMinutes());
+  const seconds = make2Digit(date.getSeconds());
+  
+  return `${dayOfWeek} ${dayOfMonth}${getDateSuffix(dayOfMonth)} ${month} @ ${hours}:${minutes}:${seconds}`;
+}
+
+function getDateSuffix(day) {
+  if (day >= 11 && day <= 13) {
+    return 'th';
   }
-
-  return (
-    {
-      1: "st",
-      2: "nd",
-      3: "rd",
-    }[date % 10] ?? "th"
-  );
-};
+  switch (day % 10) {
+    case 1: return 'st';
+    case 2: return 'nd';
+    case 3: return 'rd';
+    default: return 'th';
+  }
+}
 
 const make2Digit = (num) => `0${num}`.slice(-2);
 
@@ -220,12 +219,8 @@ const 2M4U = {
   </summary>
 </details>
 
-<!-- Last updated on ${now.toString()} ;-;-->
-<i>Last updated on  ${days[now.getDay()]} ${now.getDate()}${getDateSuffix(
-    now.getDate()
-  )} ${months[now.getMonth()]} @ ${make2Digit(now.getHours())}:${make2Digit(
-    now.getMinutes()
-  )}:${make2Digit(now.getSeconds())} using magic<br>
+<!-- Last updated on ${formatDate(now)} ;-;-->
+<i>Last updated on ${formatDate(now)} using magic ✨<br>
 Script Optimization; RAM Usage: ${ram.toFixed(2)}</i>✨`;
   writeFileSync(readMe, text);
 };
