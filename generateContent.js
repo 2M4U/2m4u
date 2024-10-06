@@ -12,16 +12,21 @@ class GenerateContent {
       const repoName = repo.name;
       const repoDescription = repo.description || '';
       const repoTopics = repo.topics ? repo.topics.join(', ') : '';
-      const statistics = getStatisticsContent(owner, repoName);
+      const statistics = getStatisticsContent(owner, repoName) || {}; 
+
+      const stars = statistics.Stars || 0;
+      const forks = statistics.Forks || 0;
+      const openIssues = statistics['Open Issues'] || 0;
+      const watchers = statistics.Watchers || 0;
 
       content += `| [${repoName}](https://github.com/${owner}/${repoName}) `;
       content += `| ${owner} `;
       content += `| ${repoDescription} `;
       content += `| ${repoTopics} `;
-      content += `| ${statistics.Stars} `;
-      content += `| ${statistics.Forks} `;
-      content += `| ${statistics['Open Issues']} `;
-      content += `| ${statistics.Watchers} |\n`;
+      content += `| ${stars} `;
+      content += `| ${forks} `;
+      content += `| ${openIssues} `;
+      content += `| ${watchers} |\n`;
     }
 
     return content;
