@@ -14,6 +14,7 @@ class GenerateContent {
       const repoTopics = repo.topics ? repo.topics.join(', ') : '';
       const statistics = getStatisticsContent(owner, repoName) || {}; 
 
+      // Ensure the necessary stats are available, fallback to 0 if not present
       const stars = statistics.Stars || 0;
       const forks = statistics.Forks || 0;
       const openIssues = statistics['Open Issues'] || 0;
