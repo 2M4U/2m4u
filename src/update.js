@@ -2,6 +2,10 @@ const { join } = require("path");
 const fetch = require("node-fetch");
 const { writeFileSync } = require("fs");
 const Twitter = require("twitter");
+let data = await fetchFortniteStats();
+let season = await fetchFortniteStats('season');
+let tweet = await client.get("statuses/user_timeline", params);
+
 const days = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
 const months = [
   "Jan",
@@ -43,16 +47,6 @@ const client = new Twitter({
 
 let stars = 0,
   page = 1;
-
-const countStars = async () => {
-  const starsData = await fetch(
-    `https://api.github.com/users/2M4U/starred?per_page=100&page=${page}`
-  ).then((res) => res.json());
-  stars += starsData.length;
-  page++;
-  if (starsData.length === 100) countStars();
-  else writeReadMe();
-};
 
 const writeReadMe = async () => {
   const readMe = join(__dirname, "..", "README.md");
@@ -230,7 +224,36 @@ Script Optimization; RAM Usage: ${ram.toFixed(2)}</i>✨`;
   writeFileSync(readMe, text);
 };
 
-(() => {
-  countStars();
-  writeReadMe();
+const fetchWithErrorHandling = async (url, options) => {
+  const response = await fetch(url, options);
+  if (!response.ok) throw new Error(`Error fetching data: ${response.statusText}`);
+  return response.json();
+};
+
+const fetchFortniteStats = async (timeWindow = '') => {
+  const url = `https://fortnite-api.com/v2/stats/br/v2?name=${encodeURIComponent(process.env.FORTNITE_USERNAME)}${timeWindow ? `&timeWindow=${timeWindow}` : ''}`;
+  return fetchWithErrorHandling(url, {
+    headers: {
+      Authorization: process.env.API_SECRET,
+    },
+  });
+};
+
+console.time('Counting Stars');
+const countStars = async () => {
+  let starsData;
+  do {
+    starsData = await fetch(
+      `https://api.github.com/users/2M4U/starred?per_page=100&page=${page}`
+    ).then((res) => res.json());
+    stars += starsData.length;
+    page++;
+  } while (starsData.length === 100);
+  await writeReadMe(); // Move here to ensure it runs after counting stars
+};
+console.timeEnd('Counting Stars');
+
+(async () => {
+  await countStars();
+  await writeReadMe();
 })();
