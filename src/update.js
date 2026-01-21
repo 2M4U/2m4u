@@ -126,14 +126,9 @@ const writeReadMe = async () => {
   https://discord.gg/sack
   ![Header](./src/github-banner.png)
   <br>
-  Welcome **Github User** to the Code Land of ${UserData.login} (me),<br>
-  What you see below is a future project for updating my<br>
-  In-Game Fortnite Statistics, Feel free to Fork this repository<br>
-  If you wish to see how this works.
-  <br>
-  Wish to contact me? [Add me on Discord](https://tinyurl.com/addmeondiscord)
-  <br><br>
-  <br>
+Welcome to **2M4U's Code Land!** Below is a work-in-progress project for updating my Fortnite in-game statistics. 
+Feel free to fork this repository to see how it works. If you have any questions or want to get in touch, [add me on Discord](https://tinyurl.com/addmeondiscord).
+<br><br><br>
   
   | Followers  | Following |
   | ---------- |:---------:|
