@@ -6,11 +6,7 @@ class CountLanguages {
             const language = repo.language;
 
             if (language) {
-                if (languageCount[language]) {
-                    languageCount[language]++;
-                } else {
-                    languageCount[language] = 1;
-                }
+                languageCount[language] = (languageCount[language] ?? 0) + 1;
             }
         }
 
