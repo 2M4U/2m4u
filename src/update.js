@@ -2,6 +2,7 @@ const { join } = require("path");
 const fetch = require("node-fetch");
 const { writeFileSync } = require("fs");
 const Twitter = require("twitter");
+
 const days = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
 const months = [
   "Jan",
@@ -18,185 +19,144 @@ const months = [
   "Dec",
 ];
 
+// Get the suffix for a date (st, nd, rd, th)
 const getDateSuffix = (date) => {
-  if (date >= 10 && date < 20) {
-    return "th";
-  }
-
-  return (
-    {
-      1: "st",
-      2: "nd",
-      3: "rd",
-    }[date % 10] ?? "th"
-  );
+  if (date >= 10 && date < 20) return "th";
+  return { 1: "st", 2: "nd", 3: "rd" }[date % 10] || "th";
 };
 
-const make2Digit = (num) => `0${num}`.slice(-2);
+// Format a number to two digits
+const formatToTwoDigits = (num) => `0${num}`.slice(-2);
 
-const client = new Twitter({
+// Twitter client initialization
+const twitterClient = new Twitter({
   consumer_key: process.env.TWITTER_API_KEY,
   consumer_secret: process.env.TWITTER_SECRET,
   access_token_key: process.env.TWITTER_ACCESS_KEY,
   access_token_secret: process.env.TWITTER_TOKEN_SECRET,
 });
 
-let stars = 0,
-  page = 1;
+let totalStars = 0;
+let currentPage = 1;
 
-const countStars = async () => {
-  const starsData = await fetch(
-    `https://api.github.com/users/2M4U/starred?per_page=100&page=${page}`
-  ).then((res) => res.json());
-  stars += starsData.length;
-  page++;
-  if (starsData.length === 100) countStars();
-  else writeReadMe();
+// Count the total stars of the GitHub user
+const countGitHubStars = async () => {
+  const starsData = await fetch(`https://api.github.com/users/2M4U/starred?per_page=100&page=${currentPage}`)
+    .then((res) => res.json());
+
+  totalStars += starsData.length;
+  currentPage++;
+
+  if (starsData.length === 100) {
+    await countGitHubStars();
+  } else {
+    await generateReadMe();
+  }
 };
 
-const writeReadMe = async () => {
-  const readMe = join(__dirname, "..", "README.md");
+// Generate the README file
+const generateReadMe = async () => {
+  const readMePath = join(__dirname, "..", "README.md");
   const now = new Date();
 
-  const params = { screen_name: "stomperleaks", count: 1 }// = { screen_name: "stomperleaks", count: 1 };
-  let tweet = await client.get("statuses/user_timeline", params);
-  
-//   const names = ["Rixqi", "StomperTheBunny","ImWay2Much4U"];
-//   console.log(names.map(getUser))
-//   const users = await Promise.all(names.map(getUser))
-//   console.log(JSON.stringify(users))
+  const params = { screen_name: "stomperleaks", count: 1 };
+  const tweet = await twitterClient.get("statuses/user_timeline", params);
   console.log(tweet);
 
-  let data = await fetch(
-    `https://fortnite-api.com/v2/stats/br/v2?name=${encodeURIComponent(process.env.FORTNITE_USERNAME)}`,
-    {
-      headers: {
-        Authorization: process.env.API_SECRET,
-      },
-    }
-  ).then((res) => res.json());
-  let season = await fetch(
-    `https://fortnite-api.com/v2/stats/br/v2?name=${encodeURIComponent(process.env.FORTNITE_USERNAME)}&timeWindow=season`,
-    {
-      headers: {
-        Authorization: process.env.API_SECRET,
-      },
-    }
-  ).then((res) => res.json());
-  let struct = {
-    Battlepass: {
-      Level: `${data.data.battlePass.level}`,
-      Progress: `${data.data.battlePass.progress}%`,
-    },
-    Season: {
-      Win_Ratio: `${season.data.stats.all.overall.winRate.toFixed(2)}%`,
-      KD_Ratio: `${season.data.stats.all.overall.kd.toFixed(2)}%`,
-      Kills_Per_Match: `${season.data.stats.all.overall.killsPerMatch.toFixed(
-        2
-      )}%`,
-      Total_Matches: `${season.data.stats.all.overall.matches.toLocaleString()}`,
-      Total_Kills: `${season.data.stats.all.overall.kills.toLocaleString()}`,
-      Total_Deaths: `${season.data.stats.all.overall.deaths.toLocaleString()}`,
-      Total_Wins: `${season.data.stats.all.overall.wins.toLocaleString()}`,
-      Outlived: {
-        Players: `${season.data.stats.all.overall.playersOutlived.toLocaleString()}`,
-      },
-    },
-    Lifetime: {
-      Win_Ratio: `${data.data.stats.all.overall.winRate.toFixed(2)}%`,
-      KD_Ratio: `${data.data.stats.all.overall.kd.toFixed(2)}%`,
-      Kills_Per_Match: `${data.data.stats.all.overall.killsPerMatch.toFixed(
-        2
-      )}%`,
-      Total_Matches: `${data.data.stats.all.overall.matches.toLocaleString()}`,
-      Total_Kills: `${data.data.stats.all.overall.kills.toLocaleString()}`,
-      Total_Deaths: `${data.data.stats.all.overall.deaths.toLocaleString()}`,
-      Total_Wins: `${data.data.stats.all.overall.wins.toLocaleString()}`,
-      Outlived: {
-        Players: `${data.data.stats.all.overall.playersOutlived.toLocaleString()}`,
-      },
-    },
-  };
-  let UserData = await fetch("https://api.github.com/users/2M4U").then((res) =>
-    res.json()
-  );
-  let ram = process.memoryUsage().heapUsed / 1024 / 1024;
-  console.log(UserData);
+  const fortniteStats = await fetchFortniteStats(process.env.FORTNITE_USERNAME);
+  const userData = await fetchGitHubUserData("2M4U");
+  const ramUsage = process.memoryUsage().heapUsed / 1024 / 1024;
+
+  const readMeContent = createReadMeContent(fortniteStats, userData, tweet[0], now, ramUsage);
+  writeFileSync(readMePath, readMeContent);
+};
+
+// Fetch Fortnite stats
+const fetchFortniteStats = async (username) => {
+  const stats = await fetch(`https://fortnite-api.com/v2/stats/br/v2?name=${encodeURIComponent(username)}`, {
+    headers: { Authorization: process.env.API_SECRET },
+  }).then((res) => res.json());
+
+  const seasonStats = await fetch(`https://fortnite-api.com/v2/stats/br/v2?name=${encodeURIComponent(username)}&timeWindow=season`, {
+    headers: { Authorization: process.env.API_SECRET },
+  }).then((res) => res.json());
+
+  return { stats, seasonStats };
+};
+
+// Fetch GitHub user data
+const fetchGitHubUserData = async (username) => {
+  return await fetch(`https://api.github.com/users/${username}`).then((res) => res.json());
+};
+
+// Create the content for the README file
+const createReadMeContent = (fortniteStats, userData, tweet, now, ramUsage) => {
   const text = `
   https://discord.gg/sack
   ![Header](./src/github-banner.png)
   <br>
-  Welcome **Github User** to the Code Land of ${UserData.login} (me),<br>
+  Welcome **Github User** to the Code Land of ${userData.login} (me),<br>
   What you see below is a future project for updating my<br>
-  In-Game Fortnite Statistics, Feel free to Fork this repository<br>
+  In-Game Fortnite Statistics. Feel free to Fork this repository<br>
   If you wish to see how this works.
   <br>
   Wish to contact me? [Add me on Discord](https://tinyurl.com/addmeondiscord)
   <br><br>
-  <br>
   
   | Followers  | Following |
   | ---------- |:---------:|
-  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-${
-    tweet[0].user.followers_count
-  }-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-${
-    tweet[0].user.friends_count
-  }-blue)  |
+  | ![TwitterFollowers](https://img.shields.io/badge/Twitter%20Followers-${tweet.user.followers_count}-blue)  | ![TwitterFollowing](https://img.shields.io/badge/Twitter%20Following-${tweet.user.friends_count}-blue)  |
 
 
   <br>![TwitterFollowing](https://img.shields.io/badge/Latest%20Tweet--blue)<br>
-  ${tweet[0].text}
+  ${tweet.text}
    
   <br><h2 align="center"> ✨ Fortnite Stats ✨</h2><br>
-  🏆 Current Level: ${data.data.battlePass.level}<br>
-  🎉 Progress To Next Level: ![](https://geps.dev/progress/${
-    data.data.battlePass.progress
-  })<br>
-  🎯 Total Kills: ${data.data.stats.all.overall.kills.toLocaleString()}<br>
-  💀 Total Deaths: ${data.data.stats.all.overall.deaths.toLocaleString()}<br>
-  👑 Total Wins: ${data.data.stats.all.overall.wins.toLocaleString()}<br>
+  🏆 Current Level: ${fortniteStats.stats.data.battlePass.level}<br>
+  🎉 Progress To Next Level: ![](https://geps.dev/progress/${fortniteStats.stats.data.battlePass.progress})<br>
+  🎯 Total Kills: ${fortniteStats.stats.data.stats.all.overall.kills.toLocaleString()}<br>
+  💀 Total Deaths: ${fortniteStats.stats.data.stats.all.overall.deaths.toLocaleString()}<br>
+  👑 Total Wins: ${fortniteStats.stats.data.stats.all.overall.wins.toLocaleString()}<br>
 
 \`\`\`js
 const Fortnite_Stats = {
     Battlepass: {
-      Level: "${struct.Battlepass.Level}",
-      Progress: "${struct.Battlepass.Progress}",    
-    }
+      Level: "${fortniteStats.stats.data.battlePass.level}",
+      Progress: "${fortniteStats.stats.data.battlePass.progress}%",    
+    },
     Season: { 
-       Win_Ratio: "${struct.Season.Win_Ratio}",
-       KD_Ratio: "${struct.Season.KD_Ratio}",
-       Kills_Per_Match: "${struct.Season.Kills_Per_Match}",
-       Total_Matches: "${struct.Season.Total_Matches}",
-       Total_Kills: "${struct.Season.Total_Kills}",
-       Total_Deaths: "${struct.Season.Total_Deaths}",
-       Total_Wins: "${struct.Season.Total_Wins}",
-       Outlived_Players: "${struct.Season.Outlived.Players}"
+       Win_Ratio: "${fortniteStats.seasonStats.data.stats.all.overall.winRate.toFixed(2)}%",
+       KD_Ratio: "${fortniteStats.seasonStats.data.stats.all.overall.kd.toFixed(2)}%",
+       Kills_Per_Match: "${fortniteStats.seasonStats.data.stats.all.overall.killsPerMatch.toFixed(2)}%",
+       Total_Matches: "${fortniteStats.seasonStats.data.stats.all.overall.matches.toLocaleString()}",
+       Total_Kills: "${fortniteStats.seasonStats.data.stats.all.overall.kills.toLocaleString()}",
+       Total_Deaths: "${fortniteStats.seasonStats.data.stats.all.overall.deaths.toLocaleString()}",
+       Total_Wins: "${fortniteStats.seasonStats.data.stats.all.overall.wins.toLocaleString()}",
+       Outlived_Players: "${fortniteStats.seasonStats.data.stats.all.overall.playersOutlived.toLocaleString()}"
     },
     Lifetime: {
-      Win_Ratio: "${struct.Lifetime.Win_Ratio}",
-      KD_Ratio: "${struct.Lifetime.KD_Ratio}",
-      Kills_Per_Match: "${struct.Lifetime.Kills_Per_Match}",
-      Total_Matches: "${struct.Lifetime.Total_Matches}",
-      Total_Kills: "${struct.Lifetime.Total_Kills}",
-      Total_Deaths: "${struct.Lifetime.Total_Deaths}",
-      Total_Wins: "${struct.Lifetime.Total_Wins}",
-      Outlived_Players: "${struct.Lifetime.Outlived.Players}"
-      },
+      Win_Ratio: "${fortniteStats.stats.data.stats.all.overall.winRate.toFixed(2)}%",
+      KD_Ratio: "${fortniteStats.stats.data.stats.all.overall.kd.toFixed(2)}%",
+      Kills_Per_Match: "${fortniteStats.stats.data.stats.all.overall.killsPerMatch.toFixed(2)}%",
+      Total_Matches: "${fortniteStats.stats.data.stats.all.overall.matches.toLocaleString()}",
+      Total_Kills: "${fortniteStats.stats.data.stats.all.overall.kills.toLocaleString()}",
+      Total_Deaths: "${fortniteStats.stats.data.stats.all.overall.deaths.toLocaleString()}",
+      Total_Wins: "${fortniteStats.stats.data.stats.all.overall.wins.toLocaleString()}",
+      Outlived_Players: "${fortniteStats.stats.data.stats.all.overall.playersOutlived.toLocaleString()}"
     }
 }; 
 \`\`\`
 
-
 <br><h2 align="center"> ✨ Github Statistics & Data ✨</h2><br>
 
 \`\`\`js
-const 2M4U = {
+const User_2M4U = {
     Fav_Lang: "Javascript",
-    Github_Stars: ${stars},
-    Public_Repos: ${UserData.public_repos},
-    Public_Gists: ${UserData.public_gists},
-    Followers: ${UserData.followers},
-    Following: ${UserData.following},
+    Github_Stars: ${totalStars},
+    Public_Repos: ${userData.public_repos},
+    Public_Gists: ${userData.public_gists},
+    Followers: ${userData.followers},
+    Following: ${userData.following},
 }; 
 \`\`\`
 
@@ -221,16 +181,21 @@ const 2M4U = {
 </details>
 
 <!-- Last updated on ${now.toString()} ;-;-->
-<i>Last updated on  ${days[now.getDay()]} ${now.getDate()}${getDateSuffix(
-    now.getDate()
-  )} ${months[now.getMonth()]} @ ${make2Digit(now.getHours())}:${make2Digit(
-    now.getMinutes()
-  )}:${make2Digit(now.getSeconds())} using magic<br>
-Script Optimization; RAM Usage: ${ram.toFixed(2)}</i>✨`;
-  writeFileSync(readMe, text);
+<i>Last updated on ${days[now.getDay()]} ${now.getDate()}${getDateSuffix(now.getDate())} ${months[now.getMonth()]} @ ${formatToTwoDigits(now.getHours())}:${formatToTwoDigits(now.getMinutes())}</i>
+
+\`\`\`
+CPU Usage: ${process.cpuUsage().user / 1000000}ms
+Memory Usage: ${ramUsage.toFixed(2)}MB
+\`\`\`
+`;
+
+  return text;
 };
 
-(() => {
-  countStars();
-  writeReadMe();
-})();
+// Main execution flow
+const main = async () => {
+  await countGitHubStars();
+};
+
+// Start the application
+main();
