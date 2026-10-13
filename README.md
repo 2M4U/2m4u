@@ -50,6 +50,7 @@
 | [AntiDiscordPhishing](https://github.com/2M4U/AntiDiscordPhishing) | 2M4U | Informative Detail To Prevent Your Account Being Compromised. | cracker, discord, discord-api, discordapp, stealer | undefined | undefined | undefined | undefined |
 | [cinemeta](https://github.com/2M4U/cinemeta) | 2M4U | Search Cinemeta Film Database with ease. |  | undefined | undefined | undefined | undefined |
 | [discord-extras.js](https://github.com/2M4U/discord-extras.js) | 2M4U | Useful Tools for Discord Bots. |  | undefined | undefined | undefined | undefined |
+| [FollowerBot](https://github.com/2M4U/FollowerBot) | 2M4U | Follower bot for Instagram |  | undefined | undefined | undefined | undefined |
 | [advanced-logger](https://github.com/2M4U/advanced-logger) | 2M4U | Advanced logger module for Node.js applications |  | undefined | undefined | undefined | undefined |
 | [ARC](https://github.com/2M4U/ARC) | 2M4U |  |  | undefined | undefined | undefined | undefined |
 | [AxonCore](https://github.com/2M4U/AxonCore) | 2M4U | The best fully featured discord bot framework for javascript (eris, discordjs or detritusjs)! |  | undefined | undefined | undefined | undefined |
@@ -71,4 +72,3 @@
 | [Exit-Scammer](https://github.com/2M4U/Exit-Scammer) | 2M4U | Token Nuker & Account Creator |  | undefined | undefined | undefined | undefined |
 | [express-toastr](https://github.com/2M4U/express-toastr) | 2M4U | A toastr.js middleware for ExpressJS 4 |  | undefined | undefined | undefined | undefined |
 | [FNStats-RPC](https://github.com/2M4U/FNStats-RPC) | 2M4U | Simply Discord RPC to display your stats on your Discord Profile. | fortnite, fortnite-api, fortnite-stat-finder, fortnite-stats | undefined | undefined | undefined | undefined |
-| [FollowerBot](https://github.com/2M4U/FollowerBot) | 2M4U | Follower bot for Instagram |  | undefined | undefined | undefined | undefined |
